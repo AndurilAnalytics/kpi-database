@@ -57,6 +57,6 @@ An example implementation of the schema is shown below:
 ![KPI Schema](../assets/KPI_schema_example.png)
 
 More sample data
-[Retail Store KPIs](../assets/sample_kpi_data.csv "Retail Store KPIs")
+[Retail Store KPIs](../sample_data/sample_kpi_data.csv "Retail Store KPIs")
 ### Initial Lists
 
