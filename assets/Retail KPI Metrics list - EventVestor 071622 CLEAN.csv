@@ -1,4 +1,4 @@
-﻿,Ticker,Company Name,Industry,kpi name,KPI Category,Unit Type,kpi output type,kpi tags,kpi source,kpi calc type,kpi formula,var a type,var a name,var b type,var a type
+﻿ID,Ticker,Company Name,Industry,kpi name,KPI Category,Unit Type,kpi output type,kpi tags,kpi source,kpi calc type,kpi formula,var a type,var a name,var b type,var a type
 1,AEO,"American Eagle Outfitters, Inc.",Apparel Retailers,Geographic Revenue - Revenue from Foreign,Geographic Revenue,$,$,"geographic,  revenue,  revenue,  foreign, aeo, american eagle outfitters, apparel retailers",EventVester,,(A1+A2+...+An)/n,,,,
 2,AEO,"American Eagle Outfitters, Inc.",Apparel Retailers,Geographic Revenue - Revenue from United States,Geographic Revenue,$,$,"geographic,  revenue,  revenue,  united_states, aeo, american eagle outfitters, apparel retailers",EventVester,,,,,,
 3,AEO,"American Eagle Outfitters, Inc.",Apparel Retailers,Inventory - Total Consolidated-ending Inventory at Cost,Inventory,$,$,"inventory,  total_consolidated_ending_inventory_at_cost, aeo, american eagle outfitters, apparel retailers",EventVester,,,,,,
