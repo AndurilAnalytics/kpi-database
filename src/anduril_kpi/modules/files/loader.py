@@ -15,12 +15,11 @@ class Loader:
         return self._data
 
     def _read_csv(self, open_file):
-        csv_data = pd.read_csv(open_file, converters=self._converter)
+        csv_data = pd.read_csv(open_file)
         return csv_data
 
     def _read_xlsx(self, open_file):
-
-        xlsx_data = pd.read_excel(open_file)
+        xlsx_data = pd.read_excel(open_file, converters=self._converter)
         return xlsx_data
 
 
