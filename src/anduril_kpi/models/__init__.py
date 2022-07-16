@@ -1,13 +1,13 @@
 from pathlib import Path
 
-from anduril_kpi import DATA_FOLDER
+from anduril_kpi import DATA_PATH
 from anduril_kpi.modules.files import loader
 
-CURRENT_FOLDER = Path(__file__).parent
-METRIC_FILENAME = 'metric_list.xlsx'
+CURRENT_PATH = Path(__file__).parent
+METRIC_FILENAME = 'metric_list.csv'
 
 
 def metric_file():
-    loader.load(path=DATA_FOLDER.joinpath(METRIC_FILENAME))
+    return loader.load(path=DATA_PATH.joinpath(METRIC_FILENAME))
 
-
+LOADED_FILE = metric_file()
