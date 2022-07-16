@@ -1,4 +1,5 @@
-import pandas as pd 
+import pandas as pd
+import numpy as np
 
 class ResultBuilder:
     def __init__(self) -> None:
@@ -103,4 +104,24 @@ def append(dfs):
             dfs(list of pd.DataFrame or pd.Series) - a list of dataframes or series to append 
     """
     return pd.concat(dfs)
-    
+
+def group_by(df, columns, aggregator=None):
+    if aggregator:
+        return df.groupby(columns).agg(aggregator).reset_index()
+    return df.groupby(columns)
+
+def drop_duplicates(df, subset=None, reset_index=True):
+    return df.drop_duplicates(subset=subset, ignore_index=reset_index)
+
+def series_unstack(series, column):
+    """
+        TODO: Finish series unstack
+    """
+    values = series.values
+    return values
+
+def column_unstack(df, column):
+    return pd.DataFrame({
+        col:np.repeat(df[col].values, df[column].str.len())
+        for col in df.columns.difference([column])
+        }).assign(**{column:np.concatenate(df[column].values)})[df.columns.tolist()]
