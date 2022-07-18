@@ -1,0 +1,1387 @@
+kpi_id,kpi_name,kpi_category
+0,Geographic Revenue - Revenue from Foreign,Geographic Revenue
+1,Geographic Revenue - Revenue from United States,Geographic Revenue
+2,Inventory - Total Consolidated-ending Inventory at Cost,Inventory
+3,New Stores Openings - AE77 Store ,New Stores Openings
+4,New Stores Openings - Aerie Side-by-side Store ,New Stores Openings
+5,New Stores Openings - Aerie stand-alone Store ,New Stores Openings
+6,New Stores Openings - Todd Snyder Store ,New Stores Openings
+7,New Stores Openings - Unsubscribed Store,New Stores Openings
+8,Segment Revenue - Aerie Revenue,Segment Revenue
+9,Segment Revenue - American Eagle Revenue,Segment Revenue
+10,Segment Revenue - Corporate Revenue,Segment Revenue
+11,Store Closures - Aerie Stand-alone Store,Store Closures
+12,Store Closures - American Eagle Brand Store,Store Closures
+13,Total Stores - International Licensed/Franchised Stores,Total Stores
+14,"Total Stores - International Third-Party Operated Stores, non-Inclusive in the Consolidated Store Data",Total Stores
+15,"Total Stores - Total Consolidated Stores, Inclusive of New Openings",Total Stores
+16,Total Stores Area - Total Gross Square Footage,Total Stores Area
+17,Net Sales by Brand - Abercrombie,Net Sales by Brand
+18,Net Sales by Brand - Hollister,Net Sales by Brand
+19,Net Sales by Region - APAC,Net Sales by Region
+20,Net Sales by Region - EMEA,Net Sales by Region
+21,Net Sales by Region - Other,Net Sales by Region
+22,Net Sales by Region - United States,Net Sales by Region
+23,Company Operated Stores - Canada,Company Operated Stores
+24,Company Operated Stores - United States,Company Operated Stores
+25,New Store Count - Company Operated stores,New Store Count
+26,New Store Count - Partner operated stores,New Store Count
+27,New Stores Openings - Company-Operated Stores ,New Stores Openings
+28,New Stores Openings - Partner-Operated Stores,New Stores Openings
+29,Partner Operated Stores - International,Partner Operated Stores
+30,Partner Operated Stores - International- Travel Retail,Partner Operated Stores
+31,Partner operated stores,Partner operated stores
+32,Segment Revenue - Bath & Body Works Direct,Segment Revenue
+33,Segment Revenue - Bath & Body Works International,Segment Revenue
+34,Segment Revenue - Bath & Body Works Stores - U.S. and Canada,Segment Revenue
+35,Segment Revenue - Victoria's Secret Direct,Segment Revenue
+36,Segment Revenue - Victoria's Secret International,Segment Revenue
+37,Segment Revenue - Victoria's Secret Stores - U.S. and Canada,Segment Revenue
+38,Store Closures - Company-Operated Stores ,Store Closures
+39,Store Closures - Partner-Operated Stores,Store Closures
+40,Sales - Comparable Sales,Sales
+41,Segment Revenue - Chico's Revenue,Segment Revenue
+42,Segment Revenue - Soma Revenue,Segment Revenue
+43,Segment Revenue - White House Black Market Revenue,Segment Revenue
+44,Selling Square Footage - Net Selling Square Footage (SSF),Selling Square Footage
+45,Stores - Franchised Stores,Stores
+46,Stores - Total Stores,Stores
+47,Stores - Chico's Frontline Boutiques ,Stores
+48,Stores - Chico's Outlets ,Stores
+49,Stores - Soma Frontline Boutiques ,Stores
+50,Stores - Soma Outlets ,Stores
+51,Stores - WHBM Frontline Boutiques ,Stores
+52,Stores - WHBM Outlets ,Stores
+53,Stores - Store Closures,Stores
+54,Geographic Net Sales - International,Geographic Net Sales
+55,Geographic Net Sales - U.S. Retail,Geographic Net Sales
+56,Geographic Net Sales - U.S. Wholesale,Geographic Net Sales
+57,Revenue by Source - Direct-to-consumer,Revenue by Source
+58,Revenue by Source - Wholesale channel,Revenue by Source
+59,Revenue by Product Category - Apparel Net Sales,Revenue by Product Category
+60,Revenue by Product Category - Non-Apparel Net Sales,Revenue by Product Category
+61,Segment Revenue - Direct-to-consumer,Segment Revenue
+62,Segment Revenue - Stores,Segment Revenue
+63,No. of Company-Operated Stores - Closed,No. of Company-Operated Stores
+64,No. of Company-Operated Stores - Express Edit Concept Stores,No. of Company-Operated Stores
+65,No. of Company-Operated Stores - Opened,No. of Company-Operated Stores
+66,No. of Company-Operated Stores - Outlet Stores,No. of Company-Operated Stores
+67,No. of Company-Operated Stores - Retail Stores,No. of Company-Operated Stores
+68,No. of Company-Operated Stores - Store Count,No. of Company-Operated Stores
+69,No. of Company-Operated Stores - UpWest Stores,No. of Company-Operated Stores
+70,Segment Revenue by Channel - Other Channel revenue,Segment Revenue by Channel
+71,Segment Revenue by Channel - Outlet Revenue,Segment Revenue by Channel
+72,Segment Revenue by Channel - Retail Revenue,Segment Revenue by Channel
+73,Segment Revenue by Product - Accessories and other Revenue,Segment Revenue by Product
+74,Segment Revenue by Product - Apparel Revenue,Segment Revenue by Product
+75,Segment Revenue by Product - Other Product revenue,Segment Revenue by Product
+76,Segment Revenue - Corporate and Other Revenue,Segment Revenue
+77,Segment Revenue - Johnston & Murphy Group Revenue,Segment Revenue
+78,Segment Revenue - Journeys Group Revenue,Segment Revenue
+79,Segment Revenue - Licensed Brands Revenue,Segment Revenue
+80,Segment Revenue - Schuh Group Revenue,Segment Revenue
+81,Stores - Store Closed,Stores
+82,Revenue by Geographic area - Canada,Revenue by Geographic area
+83,Revenue by Geographic area - Germany,Revenue by Geographic area
+84,Revenue by Geographic area - Italy,Revenue by Geographic area
+85,Revenue by Geographic area - Other foreign countries,Revenue by Geographic area
+86,Revenue by Geographic area - South Korea,Revenue by Geographic area
+87,Revenue by Geographic area - Spain,Revenue by Geographic area
+88,Revenue by Geographic area - U.S.,Revenue by Geographic area
+89,Revenue by Product - Net royalties ,Revenue by Product
+90,Revenue by Product - Product sales,Revenue by Product
+91,Segment Revenue - Americas Retail,Segment Revenue
+92,Segment Revenue - Americas Retail comp sales,Segment Revenue
+93,Segment Revenue - Americas Wholesale,Segment Revenue
+94,Segment Revenue - Asia,Segment Revenue
+95,Segment Revenue - Asia Retail comp sales,Segment Revenue
+96,Segment Revenue - Europe,Segment Revenue
+97,Segment Revenue - Europe Retail comp sales,Segment Revenue
+98,Segment Revenue - Licensing,Segment Revenue
+99,Sales by Brand - Athleta Sales,Sales by Brand
+100,Sales by Brand - Banana Republic Global Sales,Sales by Brand
+101,Sales by Brand - Gap Global,Sales by Brand
+102,Sales by Brand - Gap Global Sales,Sales by Brand
+103,Sales by Brand - Old Navy Global,Sales by Brand
+104,Sales by Brand - Old Navy Global Sales,Sales by Brand
+105,Sales by Brand - Other Sales,Sales by Brand
+106,Sales by Brand - Total net sales,Sales by Brand
+107,Sales by Geographic Region - Asia Sales,Sales by Geographic Region
+108,Sales by Geographic Region - Canada Sales,Sales by Geographic Region
+109,Sales by Geographic Region - Europe Sales,Sales by Geographic Region
+110,Sales by Geographic Region - Other Regions Sales,Sales by Geographic Region
+111,Sales by Geographic Region - Total net sales,Sales by Geographic Region
+112,Sales by Geographic Region - total sales ,Sales by Geographic Region
+113,Sales by Geographic Region - U.S. Sales,Sales by Geographic Region
+114,Segment Sales - Online sales,Segment Sales
+115,Segment Sales - Store sales,Segment Sales
+116,Segment Sales - Total net sales,Segment Sales
+117,Revenues by Category - Credit card revenues,Revenues by Category
+118,Sales - Anniversary Event Sales,Sales
+119,Sales - Digital Sales,Sales
+120,Segment Revenue - Nordstrom Rack Sales,Segment Revenue
+121,Segment Revenue - Nordstrom Sales,Segment Revenue
+122,Geographic revenues - Americas,Geographic revenues
+123,Geographic revenues - Asia,Geographic revenues
+124,Geographic revenues - Europe,Geographic revenues
+125,Segment Revenue by Channel - Direct-to-consumer from Americas,Segment Revenue by Channel
+126,Segment Revenue by Channel - Direct-to-consumer from Asia,Segment Revenue by Channel
+127,Segment Revenue by Channel - Direct-to-consumer from Europe,Segment Revenue by Channel
+128,Segment Revenue by Channel - Wholesale revenue from Americas,Segment Revenue by Channel
+129,Segment Revenue by Channel - Wholesale revenue from Asia,Segment Revenue by Channel
+130,Segment Revenue by Channel - Wholesale revenue from Europe,Segment Revenue by Channel
+131,Revenue by Segment - Digital Subscription and Content,Revenue by Segment
+132,Revenue by Segment - Direct-to-Consumer,Revenue by Segment
+133,Revenue by Segment - Licensing,Revenue by Segment
+134,Revenue by Segment - Other,Revenue by Segment
+135,Revenue by Type - Consumer Products,Revenue by Type
+136,Revenue by Type - Magazine and Digital Subscriptions,Revenue by Type
+137,Revenue by Type - Trademark Licensing,Revenue by Type
+138,Revenue by Type - TV and Cable Programming,Revenue by Type
+139,Geographic Revenue - International & Other Sales,Geographic Revenue
+140,Geographic Revenue - Mid-West Sales,Geographic Revenue
+141,Geographic Revenue - North East Sales,Geographic Revenue
+142,Geographic Revenue - South Sales,Geographic Revenue
+143,Geographic Revenue - West Sales,Geographic Revenue
+144,Segment Revenue - The Children's Place International,Segment Revenue
+145,Segment Revenue - The Children's Place U.S.,Segment Revenue
+146,Stores - Closed store count,Stores
+147,Stores - Total store count,Stores
+148,"sales mix - Accessories, Lingerie, Fine Jewelry, and Fragrances",sales mix
+149,sales mix - Children's,sales mix
+150,sales mix - Home Accents and Bed and Bath,sales mix
+151,sales mix - Ladies,sales mix
+152,sales mix - Men's,sales mix
+153,sales mix - Shoes,sales mix
+154,Store Count - Beginning of the period,Store Count
+155,Store Count - Closed in the period,Store Count
+156,Store Count - End of the period,Store Count
+157,Store Count - Opened in the period,Store Count
+158,Store count - Store count at end of period,Store count
+159,Geographic Sales - HomeGoods Sales From US,Geographic Sales
+160,Geographic Sales - Marmaxx Sales From US,Geographic Sales
+161,Geographic Sales - TJX Canada Sales,Geographic Sales
+162,Geographic Sales - TJX Europe,Geographic Sales
+163,Geographic Sales - TJX International Sales,Geographic Sales
+164,Geographic Sales  - TJX Canada Sales 	,Geographic Sales 
+165,Geographic Sales  - TJX International (Europe & Australia) Sales 	,Geographic Sales 
+166,Geographic Sales  - TJX International (Europe & Australia) Sales,Geographic Sales 
+167,Geographic Segment Sales  - HomeGoods (U.S.) Sales,Geographic Segment Sales 
+168,Geographic Segment Sales  - Marmaxx (U.S.) Sales,Geographic Segment Sales 
+169,Newly Opened Stores,Newly Opened Stores
+170,Store Count - Total Store Count,Store Count
+171,New Stores Opened - New Stores Opened During Quarter,New Stores Opened
+172,Segment Revenues - E-commerce,Segment Revenues
+173,Segment Revenues - Proprietary,Segment Revenues
+174,Segment Revenues - Retail stores,Segment Revenues
+175,Segment Revenues - Third-party,Segment Revenues
+176,Stores Permanently Closed During Quarter,Stores Permanently Closed During Quarter
+177,Sub Segment Revenue by Category - Accessories,Sub Segment Revenue by Category
+178,Sub Segment Revenue by Category - Boys,Sub Segment Revenue by Category
+179,Sub Segment Revenue by Category - Footwear,Sub Segment Revenue by Category
+180,Sub Segment Revenue by Category - Girls,Sub Segment Revenue by Category
+181,Sub Segment Revenue by Category - Mens,Sub Segment Revenue by Category
+182,Sub Segment Revenue by Category - Outdoor,Sub Segment Revenue by Category
+183,Sub Segment Revenue by Category - Women,Sub Segment Revenue by Category
+184,Sub Segment Revenue by Category - Womens,Sub Segment Revenue by Category
+185,Total Gross Square Footage at End of Quarter,Total Gross Square Footage at End of Quarter
+186,Total Stores at End of Quarter,Total Stores at End of Quarter
+187,Customers - new customers,Customers
+188,Geographic Revenues - Greater China Revenues,Geographic Revenues
+189,Geographic Revenues - North America Revenues,Geographic Revenues
+190,Geographic Revenues - Other Asia Revenues,Geographic Revenues
+191,Geographic Revenues - Other Revenues,Geographic Revenues
+192,Geographic Revenues - Total,Geographic Revenues
+193,Segment Revenues - Coach Revenues,Segment Revenues
+194,Segment Revenues - Kate Spade Revenues,Segment Revenues
+195,Segment Revenues - Stuart Weitzman Revenues,Segment Revenues
+196,Segment Revenues - Total,Segment Revenues
+197,Net sales by brand - Anthropologie Group,Net sales by brand
+198,Net sales by brand - Free People Group,Net sales by brand
+199,Net sales by brand - Menus & Venues,Net sales by brand
+200,Net sales by brand - Nuuly,Net sales by brand
+201,Net sales by brand - Urban Outfitters,Net sales by brand
+202,Net sales by segment - Retail Segment,Net sales by segment
+203,Net sales by segment - Subscription Segment,Net sales by segment
+204,Net sales by segment - Wholesale Segment,Net sales by segment
+205,No. of New Stores Opened - New retail locations,No. of New Stores Opened
+206,Stores - Closed franchisee-owned stores,Stores
+207,Stores - Total closed retail stores,Stores
+208,Stores - Total new retail location stores,Stores
+209,Company-Operated Stores - Greater China - Beauty & Accessories,Company-Operated Stores
+210,Company-Operated Stores - Greater China - Full Assortment,Company-Operated Stores
+211,Company-Operated Stores - Stores in Canada,Company-Operated Stores
+212,Company-Operated Stores - Stores in U.S,Company-Operated Stores
+213,"New Store Openings - Company-Operated Stores in  Greater China - Beauty & Accessories
+",New Store Openings
+214,New Store Openings - Company-Operated Stores in Canada ,New Store Openings
+215,New Store Openings - Company-Operated Stores in Greater China - Full Assortment ,New Store Openings
+216,New Store Openings - Company-Operated Stores in U.S.,New Store Openings
+217,New Store Openings - Partner-Operated Stores - Beauty & Accessories,New Store Openings
+218,New Store Openings - Partner-Operated Stores - Full Assortment,New Store Openings
+219,Number of Stores - Company-Operated Stores in  Greater China - Beauty & Accessories ,Number of Stores
+220,Number of Stores - Company-Operated Stores in Canada ,Number of Stores
+221,Number of Stores - Company-Operated Stores in Greater China - Full Assortment ,Number of Stores
+222,Number of Stores - Company-Operated Stores in U.S.,Number of Stores
+223,Number of Stores - Partner-Operated Stores - Beauty & Accessories,Number of Stores
+224,Number of Stores - Partner-Operated Stores - Full Assortment,Number of Stores
+225,Partner-Operated Stores - Beauty & Accessories ,Partner-Operated Stores
+226,Partner-Operated Stores - Full Assortment,Partner-Operated Stores
+227,Sales per Average Selling Square Foot - Company-Operated Stores- Sales per Average Selling Square Foot,Sales per Average Selling Square Foot
+228,Sales per Average Store - Company-Operated Stores - Sales per Average Store,Sales per Average Store
+229,Segment Revenue - Direct Revenue,Segment Revenue
+230,Segment Revenue - International Revenue,Segment Revenue
+231,Segment Revenue - Revenue from Stores of North America,Segment Revenue
+232,Store Closures - Company-Operated Stores in  Greater China - Beauty & Accessories,Store Closures
+233,Store Closures - Company-Operated Stores in Canada ,Store Closures
+234,Store Closures - Company-Operated Stores in Greater China - Full Assortment ,Store Closures
+235,Store Closures - Company-Operated Stores in U.S.,Store Closures
+236,Store Closures - Partner-Operated Stores - Beauty & Accessories,Store Closures
+237,Store Closures - Partner-Operated Stores - Full Assortment,Store Closures
+238,Revenue by geographic region - Australia,Revenue by geographic region
+239,Revenue by geographic region - Canada,Revenue by geographic region
+240,Revenue by geographic region - Europe,Revenue by geographic region
+241,Revenue by geographic region - United States,Revenue by geographic region
+242,Segment Net Sales - Accessories and chemicals Sales,Segment Net Sales
+243,Segment Net Sales - Accessories Sales,Segment Net Sales
+244,Segment Net Sales - Chemicals Sales,Segment Net Sales
+245,Segment Net Sales - Eliminations,Segment Net Sales
+246,Segment Net Sales - Engine maintenance Sales,Segment Net Sales
+247,Segment Net Sales - Guarantor Subsidiaries,Segment Net Sales
+248,Segment Net Sales - Non-Guarantor Subsidiaries,Segment Net Sales
+249,Segment Net Sales - Oil Sales,Segment Net Sales
+250,Segment Net Sales - Other Sales,Segment Net Sales
+251,Segment Net Sales - Parts and batteries Sales,Segment Net Sales
+252,Stores and Branches - Closures or Consolidations,Stores and Branches
+253,Stores and Branches - New Openings,Stores and Branches
+254,Stores and Branches - Total Number,Stores and Branches
+255,Average selling price - New vehicle Average selling price,Average selling price
+256,Average selling price - Same store New vehicle Average selling price,Average selling price
+257,Average selling price - Same store Used vehicle retail Average selling price,Average selling price
+258,Average selling price - Used vehicle retail Average selling price,Average selling price
+259,No. of New vehicle sold - Same store,No. of New vehicle sold
+260,No. of New vehicle sold - Total Company,No. of New vehicle sold
+261,No. of Used vehicle retail sold - Same store,No. of Used vehicle retail sold
+262,No. of Used vehicle retail sold - Total Company,No. of Used vehicle retail sold
+263,Number of Franchises,Number of Franchises
+264,Segment Revenue - Finance and insurance,Segment Revenue
+265,Segment Revenue - New vehicle,Segment Revenue
+266,Segment Revenue - Parts and service,Segment Revenue
+267,Segment Revenue - Used Vehicle,Segment Revenue
+268,Sub Segment Revenue - Luxury - New vehicle,Sub Segment Revenue
+269,Sub Segment Revenue - Retail - Used Vehicle,Sub Segment Revenue
+270,Sub Segment Revenue - Wholesale - Used Vehicle,Sub Segment Revenue
+271,Volume - New vehicle,Volume
+272,Volume - Used vehicle retail,Volume
+273,"Revenue - Finance and insurance, net",Revenue
+274,Revenue - New vehicle,Revenue
+275,Revenue - Other,Revenue
+276,Revenue - Parts and service,Revenue
+277,Revenue - Used vehicle,Revenue
+278,"Sales by Type - Finance and insurance, net Sales",Sales by Type
+279,Sales by Type - New vehicle Sales,Sales by Type
+280,Sales by Type - Other Sales,Sales by Type
+281,Sales by Type - Parts and service Sales,Sales by Type
+282,Sales by Type - Used vehicle Sales,Sales by Type
+283,Segment Revenues - Corporate and other,Segment Revenues
+284,Segment Revenues - Corporate and other Revenue,Segment Revenues
+285,Segment Revenues - Domestic,Segment Revenues
+286,Segment Revenues - Domestic Revenue,Segment Revenues
+287,Segment Revenues - Import,Segment Revenues
+288,Segment Revenues - Import Revenue,Segment Revenues
+289,Segment Revenues - Premium Luxury,Segment Revenues
+290,Segment Revenues - Premium Luxury Revenue,Segment Revenues
+291,Vehicles sold - Total Vehicles sold,Vehicles sold
+292,Vehicles sold - New vehicle,Vehicles sold
+293,Vehicles sold - Used vehicle,Vehicles sold
+294,Domestic Commercial Sales - Total Domestic Commercial Sales,Domestic Commercial Sales
+295,Sales per average store ,Sales per average store 
+296,Segment Sales - Auto Parts Locations,Segment Sales
+297,Segment Sales - Net Sales,Segment Sales
+298,Segment Sales - Other,Segment Sales
+299,Segment Sales - Total domestic commercial sales,Segment Sales
+300,Segment Sales  - Total auto parts sales,Segment Sales 
+301,Segment Stores - Ending Brazil stores,Segment Stores
+302,Segment Stores - Ending Domestic Stores,Segment Stores
+303,Segment Stores - Ending Mexico stores,Segment Stores
+304,Segment Stores - New Stores,Segment Stores
+305,Segment Stores - Total Stores,Segment Stores
+306,Geographic Segment Revenue - Service revenues from International,Geographic Segment Revenue
+307,Geographic Segment Revenue - Service revenues from United States,Geographic Segment Revenue
+308,Geographic Segment Revenue - Vehicle sales from International,Geographic Segment Revenue
+309,Geographic Segment Revenue - Vehicle sales from United States,Geographic Segment Revenue
+310,Revenue by Type - Service revenues,Revenue by Type
+311,Revenue by Type - Vehicle sales,Revenue by Type
+312,Segment Revenue - Service revenues,Segment Revenue
+313,Segment Revenue - United States Revenue,Segment Revenue
+314,Segment Revenue - Vehicle sales,Segment Revenue
+315,Gross profit - Total gross profit per retail unit sold,Gross profit
+316,Price - Average Retail Sales Price ,Price
+317,Sales - Retail units sold ,Sales
+318,Sales - Unit Sales Volume,Sales
+319,Segment Revenue - Interest income Revenue,Segment Revenue
+320,Segment Revenue - Sales Revenue,Segment Revenue
+321,Sub-Segment Revenue - Accident protection plan revenue,Sub-Segment Revenue
+322,Sub-Segment Revenue - Sales Ã¢â‚¬â€œ used autos,Sub-Segment Revenue
+323,Sub-Segment Revenue - Service contract sales,Sub-Segment Revenue
+324,Sub-Segment Revenue - Wholesales third party,Sub-Segment Revenue
+325,Retail Units Sold - Cars,Retail Units Sold
+326,Segment Revenue - Other sales and revenues,Segment Revenue
+327,"Segment Revenue - Used vehicle sales, net",Segment Revenue
+328,Segment Revenue - Wholesale vehicle sales,Segment Revenue
+329,Vehicles Purchased - % Increase Customers,Vehicles Purchased
+330,Average gross profit per unit - New vehicles,Average gross profit per unit
+331,Average gross profit per unit - Used vehicles,Average gross profit per unit
+332,Average selling price - New vehicles,Average selling price
+333,Average selling price - Used vehicles,Average selling price
+334,Customers - Active Customers,Customers
+335,Good Sam Club members,Good Sam Club members
+336,Number of store locations,Number of store locations
+337,Retail locations - Other retail stores,Retail locations
+338,Retail locations - RV dealerships,Retail locations
+339,Retail locations - RV service & retail centers,Retail locations
+340,Same store locations,Same store locations
+341,Same store unit sales - New vehicles,Same store unit sales
+342,Same store unit sales - Used vehicles,Same store unit sales
+343,Segment Revenue - Good Sam Services and Plans Revenue,Segment Revenue
+344,Segment Revenue - RV and Outdoor Retail Revenue,Segment Revenue
+345,Unit sales - New vehicles,Unit sales
+346,Unit sales - New vehicles sales,Unit sales
+347,Unit sales - Used vehicles	sales,Unit sales
+348,Unit sales - Used vehicles,Unit sales
+349,Vehicle inventory per location - New vehicle inventory per dealer location,Vehicle inventory per location
+350,Vehicle inventory per location - Used vehicle inventory per dealer location,Vehicle inventory per location
+351,Revenue by Type - Advertising contributions,Revenue by Type
+352,Revenue by Type - Company-operated store sales,Revenue by Type
+353,Revenue by Type - Franchise royalties and fees,Revenue by Type
+354,Revenue by Type - Independently-operated store sales,Revenue by Type
+355,Revenue by Type - Supply and other revenue,Revenue by Type
+356,Same-Store Sales - Car Wash,Same-Store Sales
+357,Same-Store Sales - Maintenance,Same-Store Sales
+358,"Same-Store Sales - Paint, Collision & Glass",Same-Store Sales
+359,Same-Store Sales - Platform Services,Same-Store Sales
+360,Segment Revenue - Car Wash,Segment Revenue
+361,Segment Revenue - Corporate / Other,Segment Revenue
+362,Segment Revenue - Maintenance,Segment Revenue
+363,"Segment Revenue - Paint, Collision & Glass",Segment Revenue
+364,Segment Revenue - Platform Services,Segment Revenue
+365,Store Count - Car Wash,Store Count
+366,Store Count - Maintenance,Store Count
+367,"Store Count - Paint, Collision & Glass",Store Count
+368,Store Count - Platform Services,Store Count
+369,Average sales price per unit sold - New vehicle retail,Average sales price per unit sold
+370,Average sales price per unit sold - Used vehicle retail,Average sales price per unit sold
+371,Gross profit per unit sold - New vehicle retail sales,Gross profit per unit sold
+372,Gross profit per unit sold - Total used,Gross profit per unit sold
+373,Gross profit per unit sold - Used vehicle retail sales,Gross profit per unit sold
+374,Gross profit per unit sold - Used vehicle wholesale sales,Gross profit per unit sold
+375,Revenue by geographic area - Brazil Revenue,Revenue by geographic area
+376,Revenue by geographic area - U.K. Revenue,Revenue by geographic area
+377,Revenue by geographic area - U.S. Revenue,Revenue by geographic area
+378,"Segment Revenue - Finance, insurance and other, net",Segment Revenue
+379,Segment Revenue - New vehicle retail sales,Segment Revenue
+380,Segment Revenue - Parts and service sales,Segment Revenue
+381,Segment Revenue - Used vehicle retail sales,Segment Revenue
+382,Segment Revenue - Used vehicle wholesale sales,Segment Revenue
+383,Units sold - Retail new vehicles sold,Units sold
+384,Units sold - Retail used vehicles sold,Units sold
+385,Units sold - Wholesale used vehicles sold,Units sold
+386,Revenue by geographic area - International Revenue,Revenue by geographic area
+387,Revenue by geographic area - United States Revenue,Revenue by geographic area
+388,Revenue by Segment - Service revenues,Revenue by Segment
+389,Revenue by Segment - Vehicle sales,Revenue by Segment
+390,Active dealers,Active dealers
+391,Land - Acres of land per site,Land
+392,Number of locations,Number of locations
+393,Private label websites,Private label websites
+394,Sale of used vehicles,Sale of used vehicles
+395,Segment Revenue - Auction fees,Segment Revenue
+396,Segment Revenue - Finance-related revenue,Segment Revenue
+397,Segment Revenue - Purchased vehicle sales,Segment Revenue
+398,Segment Revenue - Service revenue,Segment Revenue
+399,Vehicles - Vehicles floorplanned by AFC,Vehicles
+400,Average Selling Price - Used vehicles,Average Selling Price
+401,Average Selling Price - Wholesale vehicles,Average Selling Price
+402,Average Selling Price for Used Behicles - Used Vehicles,Average Selling Price for Used Behicles
+403,Average Selling Price for Wholesale Vehicles - Wholesale Vehicles,Average Selling Price for Wholesale Vehicles
+404,CarMax Auto Finance - Interest and fee income,CarMax Auto Finance
+405,CarMax Auto Finance Interest and Fee Income - Interest and fee income,CarMax Auto Finance Interest and Fee Income
+406,Segment Revenue - New vehicle sales,Segment Revenue
+407,Segment Revenue - Used vehicle sales,Segment Revenue
+408,Segment Vehicle Unit Sales - Total new vehicle unit sales,Segment Vehicle Unit Sales
+409,Segment Vehicle Unit Sales - Total used vehicle unit sales,Segment Vehicle Unit Sales
+410,Segment Vehicle Unit Sales - Total wholesale vehicle unit sales,Segment Vehicle Unit Sales
+411,Vehicle Sales Changes - Used vehicle revenues,Vehicle Sales Changes
+412,Vehicle Sales Changes - Used vehicle units,Vehicle Sales Changes
+413,Vehicle Sales Changes - Wholesale vehicle revenues,Vehicle Sales Changes
+414,Vehicle Sales Changes - Wholesale vehicle units,Vehicle Sales Changes
+415,Average gross profit per unit - Finance and insurance gross profit per unit,Average gross profit per unit
+416,Average gross profit per unit - New vehicle retail gross profit per unit,Average gross profit per unit
+417,Average gross profit per unit - Total vehicle gross profit per unit,Average gross profit per unit
+418,Average gross profit per unit - Used vehicle retail gross profit per unit,Average gross profit per unit
+419,Driveway Shop units,Driveway Shop units
+420,E-commerce platform Unit Sales,E-commerce platform Unit Sales
+421,Retail units sold - New vehicle retail unit sales,Retail units sold
+422,Retail units sold - Used vehicle retail unit sales,Retail units sold
+423,Segment Revenue - Finance and insurance revenue,Segment Revenue
+424,Segment Revenue - Fleet and other revenue,Segment Revenue
+425,Segment Revenue - New vehicle retail revenue,Segment Revenue
+426,"Segment Revenue - Service, body and parts revenue",Segment Revenue
+427,Segment Revenue - Used vehicle retail revenue,Segment Revenue
+428,Segment Revenue - Used vehicle wholesale revenue,Segment Revenue
+429,Unit Sales - New vehicle retail unit sales,Unit Sales
+430,Unit Sales - Used vehicle retail unit sales,Unit Sales
+431,comparable store sales,comparable store sales
+432,comparable store sales ,comparable store sales 
+433,Revenue by product group - Brakes,Revenue by product group
+434,Revenue by product group - Exhaust,Revenue by product group
+435,Revenue by product group - Maintenance,Revenue by product group
+436,Revenue by product group - Other,Revenue by product group
+437,Revenue by product group - Steering,Revenue by product group
+438,Revenue by product group - Tires,Revenue by product group
+439,Segment - comparable store sales - alignments - Comparable Store Sales,Segment - comparable store sales
+440,Segment - comparable store sales - brakes - comparable store sales,Segment - comparable store sales
+441,Segment - comparable store sales - exhaust -comparable store sales,Segment - comparable store sales
+442,Segment - comparable store sales - Exhaust-comparable store sales,Segment - comparable store sales
+443,Segment - comparable store sales - front end/shocks - comparable store sales,Segment - comparable store sales
+444,Segment - comparable store sales - maintenance services - comparable store sales,Segment - comparable store sales
+445,Segment - comparable store sales - Tires - comparable store sales,Segment - comparable store sales
+446,Segment - comparable store sales  - alignments - Comparable Store Sales,Segment - comparable store sales 
+447,Segment - comparable store sales  - brakes - comparable store sales ,Segment - comparable store sales 
+448,Segment - comparable store sales  - front end/shocks - comparable store sales ,Segment - comparable store sales 
+449,Segment - comparable store sales  - maintenance services - comparable store sales ,Segment - comparable store sales 
+450,Segment - comparable store sales  - Tires - comparable store sales ,Segment - comparable store sales 
+451,Store count,Store count
+452,Segment Sales - Sales,Segment Sales
+453,Segment Sales - Sales per weighted-average square foot,Segment Sales
+454,Segment Sales - Sales per weighted-average store,Segment Sales
+455,Segment Sales  - Other sales and sales adjustments,Segment Sales 
+456,Segment Sales  - Sales to do-it-yourself customers,Segment Sales 
+457,Segment Sales  - Sales to professional service provider customers,Segment Sales 
+458,Store and Team Member Information - Sales per weighted-average square foot,Store and Team Member Information
+459,Store and Team Member Information - Sales per weighted-average store,Store and Team Member Information
+460,Store and Team Member Information - Square footage (in thousands),Store and Team Member Information
+461,Store Count - Ending total store count,Store Count
+462,Average gross profit - Average gross profit per new truck retailed,Average gross profit
+463,Average gross profit - Average gross profit per new vehicle retailed,Average gross profit
+464,Average gross profit - Average gross profit per used truck retailed,Average gross profit
+465,Average gross profit - Average gross profit per used vehicle retailed,Average gross profit
+466,Geographic Revenue - North America,Geographic Revenue
+467,Geographic Revenue - Other International,Geographic Revenue
+468,Geographic Revenue - U.K.,Geographic Revenue
+469,New retail sales revenue per unit,New retail sales revenue per unit
+470,New retail unit sales,New retail unit sales
+471,Revenue by Segment - Commercial Vehicles Australia/Power Systems,Revenue by Segment
+472,Revenue by Segment - Retail Automotive,Revenue by Segment
+473,Revenue by Segment - Retail Commercial Trucks,Revenue by Segment
+474,Same-store average gross profit - Same-store average gross profit per new truck retailed,Same-store average gross profit
+475,Same-store average gross profit - Same-store average gross profit per new vehicle retailed,Same-store average gross profit
+476,Same-store average gross profit - Same-store average gross profit per used truck retailed,Same-store average gross profit
+477,Same-store average gross profit - Same-store average gross profit per used vehicle retailed,Same-store average gross profit
+478,Same-store new retail sales - Same-store new retail sales revenue per unit,Same-store new retail sales
+479,Same-store new retail unit sales,Same-store new retail unit sales
+480,Same-store used retail sales revenue per unit,Same-store used retail sales revenue per unit
+481,Same-store used retail unit sales,Same-store used retail unit sales
+482,Used retail sales revenue per unit,Used retail sales revenue per unit
+483,Used retail unit sales,Used retail unit sales
+484,Absorption ratio,Absorption ratio
+485,Segment Revenue - Finance and insurance Sales,Segment Revenue
+486,Segment Revenue - Lease and rental Sales,Segment Revenue
+487,Segment Revenue - New and used commercial vehicle sales,Segment Revenue
+488,Segment Revenue - Other Sales,Segment Revenue
+489,sold  commercial trucks - sold commercial trucks,sold  commercial trucks
+490,Sub-Segment Revenue - New heavy-duty vehicles - New and used commercial vehicle sales,Sub-Segment Revenue
+491,Sub-Segment Revenue - New light-duty vehicles - New and used commercial vehicle sales,Sub-Segment Revenue
+492,Sub-Segment Revenue - New medium-duty vehicles (including bus sales revenue) - New and used commercial vehicle sales,Sub-Segment Revenue
+493,Sub-Segment Revenue - Other vehicles - New and used commercial vehicle sales,Sub-Segment Revenue
+494,Sub-Segment Revenue - Used vehicles - New and used commercial vehicle sales,Sub-Segment Revenue
+495,Gross Profit Per Unit by segment - EchoPark Same Market-Total used vehicle and F&I,Gross Profit Per Unit by segment
+496,Gross Profit Per Unit by segment - EchoPark-Total used vehicle and F&I,Gross Profit Per Unit by segment
+497,Gross Profit Per Unit by segment - Franchised Dealerships Same Store - Used vehicles,Gross Profit Per Unit by segment
+498,Gross Profit Per Unit by segment - Franchised Dealerships Same Store -New vehicles,Gross Profit Per Unit by segment
+499,Gross Profit Per Unit by segment - Franchised Dealerships-New vehicles,Gross Profit Per Unit by segment
+500,Gross Profit Per Unit by segment - Franchised Dealerships-Used vehicles,Gross Profit Per Unit by segment
+501,Number of Franchised Dealerships,Number of Franchised Dealerships
+502,Revenue by Segment - EchoPark Segment revenues,Revenue by Segment
+503,Revenue by Segment - Franchised Dealerships Segment revenues,Revenue by Segment
+504,"Revenue by Type - Finance, insurance and other Revenue",Revenue by Type
+505,"Revenue by Type - Parts, service and collision repair Revenue",Revenue by Type
+506,Revenue by Type - Vehicles Revenue,Revenue by Type
+507,Revenue per unit by segment - EchoPark -Wholesale vehicles,Revenue per unit by segment
+508,Revenue per unit by segment - EchoPark Same Market-Wholesale vehicles,Revenue per unit by segment
+509,Revenue per unit by segment - EchoPark Segment same store-Used vehicle,Revenue per unit by segment
+510,Revenue per unit by segment - EchoPark Segment-Used vehicle,Revenue per unit by segment
+511,Revenue per unit by segment - Franchised Dealerships Same Store -Wholesale vehicles,Revenue per unit by segment
+512,Revenue per unit by segment - Franchised Dealerships same store-new vehicles,Revenue per unit by segment
+513,Revenue per unit by segment - Franchised Dealerships same store-used vehicles,Revenue per unit by segment
+514,Revenue per unit by segment - Franchised Dealerships Segment reported- used vehicles,Revenue per unit by segment
+515,Revenue per unit by segment - Franchised Dealerships Segment reported-new vehicles,Revenue per unit by segment
+516,Revenue per unit by segment - Franchised Dealerships Segment reported-wholesale vehicles,Revenue per unit by segment
+517,Unit Sales Volume by segment - EchoPark -Wholesale vehicles,Unit Sales Volume by segment
+518,Unit Sales Volume by segment - EchoPark Same Market-Used vehicles,Unit Sales Volume by segment
+519,Unit Sales Volume by segment - EchoPark Same Market-Wholesale vehicles,Unit Sales Volume by segment
+520,Unit Sales Volume by segment - EchoPark-New vehicles,Unit Sales Volume by segment
+521,Unit Sales Volume by segment - EchoPark-Used vehicles,Unit Sales Volume by segment
+522,Unit Sales Volume by segment - Franchised Dealerships -  Retail new & used vehicles,Unit Sales Volume by segment
+523,Unit Sales Volume by segment - Franchised Dealerships -  Used-to-New Ratio,Unit Sales Volume by segment
+524,Unit Sales Volume by segment - Franchised Dealerships - New vehicles,Unit Sales Volume by segment
+525,Unit Sales Volume by segment - Franchised Dealerships - Used vehicles,Unit Sales Volume by segment
+526,Unit Sales Volume by segment - Franchised Dealerships - Wholesale vehicles,Unit Sales Volume by segment
+527,Unit Sales Volume by segment - Franchised Dealerships Same Store - Retail new & used vehicles,Unit Sales Volume by segment
+528,Unit Sales Volume by segment - Franchised Dealerships Same Store - Used vehicles,Unit Sales Volume by segment
+529,Unit Sales Volume by segment - Franchised Dealerships Same Store - Used-to-New Ratio,Unit Sales Volume by segment
+530,Unit Sales Volume by segment - Franchised Dealerships Same Store -New vehicles,Unit Sales Volume by segment
+531,Unit Sales Volume by segment - Franchised Dealerships Same Store -Wholesale vehicles,Unit Sales Volume by segment
+532,Average days to sale,Average days to sale
+533,Average monthly unique visitors,Average monthly unique visitors
+534,Average selling price- By segment - Ecommerce,Average selling price- By segment
+535,Average selling price- By segment - Wholesale,Average selling price- By segment
+536,Ecommerce ASP,Ecommerce ASP
+537,Ecommerce Units,Ecommerce Units
+538,Ecommerce vehicles available for sale,Ecommerce vehicles available for sale
+539,Gross Profit per Unit by segment - Ecommerce Gross Profit per Unit,Gross Profit per Unit by segment
+540,Gross Profit per Unit by segment - Other Gross Profit per Unit,Gross Profit per Unit by segment
+541,Gross Profit per Unit by segment - Wholesale Gross Profit per Unit,Gross Profit per Unit by segment
+542,Number of regional hubs,Number of regional hubs
+543,"Segment Revenue - Ecommerce revenue, net",Segment Revenue
+544,Segment Revenue - Other revenue,Segment Revenue
+545,Segment Revenue - Wholesale vehicle revenue,Segment Revenue
+546,Total units sold,Total units sold
+547,Units sold by segment - Ecommerce units,Units sold by segment
+548,Units sold by segment - Wholesale units,Units sold by segment
+549,Units sold- By segment - Ecommerce,Units sold- By segment
+550,Units sold- By segment - Wholesale,Units sold- By segment
+551,Wholesale ASP,Wholesale ASP
+552,Segment Revenue - All Other,Segment Revenue
+553,Segment Revenue - Ecommerce,Segment Revenue
+554,Segment Revenue - TDA,Segment Revenue
+555,Segment Revenue - Wholesale,Segment Revenue
+556,Unique visitors - Average monthly unique visitors,Unique visitors
+557,Units Sold - E-commerce,Units Sold
+558,Units Sold - TDA,Units Sold
+559,Units Sold - Wholesale,Units Sold
+560,"Merchandise Sales - Apparel, Electronics, & Other",Merchandise Sales
+561,Merchandise Sales - Consumables,Merchandise Sales
+562,Merchandise Sales - Food,Merchandise Sales
+563,Merchandise Sales - Furniture,Merchandise Sales
+564,Merchandise Sales - Hard Home,Merchandise Sales
+565,Merchandise Sales - Seasonal,Merchandise Sales
+566,Merchandise Sales - Soft Home,Merchandise Sales
+567,Revenue - Ecommerce ,Revenue
+568,Revenue,Revenue
+569,Revenues by merchandise category - Consumables,Revenues by merchandise category
+570,"Revenues by merchandise category - Electronics, Toys, & Accessories",Revenues by merchandise category
+571,Revenues by merchandise category - Food,Revenues by merchandise category
+572,Revenues by merchandise category - Furniture,Revenues by merchandise category
+573,Revenues by merchandise category - Hard Home,Revenues by merchandise category
+574,Revenues by merchandise category - Seasonal,Revenues by merchandise category
+575,Revenues by merchandise category - Soft Home,Revenues by merchandise category
+576,Lease Payments - Total Long Term Lease Liabilities,Lease Payments
+577,Sales - Other Revenue,Sales
+578,Sales,Sales
+579,Stores - New store count potential,Stores
+580,Stores - Total Closed or Relocated Stores,Stores
+581,Stores - Total New Stores,Stores
+582,Stores - Total operating stores,Stores
+583,Net Sales by Segment - Construction,Net Sales by Segment
+584,Net Sales by Segment - Retail Operations,Net Sales by Segment
+585,Net Sales by Segment - Retail operations,Net Sales by Segment
+586,Sales - Retail sales per square foot,Sales
+587,Stores - Total retail store count at end of period,Stores
+588,Comparable store sales,Comparable store sales
+589,New stores opened,New stores opened
+590,Revenue by Type - Non-perishable,Revenue by Type
+591,Revenue by Type - Perishable,Revenue by Type
+592,Stores - Stores count,Stores
+593,Additional shops - Planning Underway,Additional shops
+594,Card holders - Kohl's Charge card holders,Card holders
+595,Customer acquisition - Sephora customers new to Kohl's,Customer acquisition
+596,Kohl's shops and comprehensive digital experience - Sephora,Kohl's shops and comprehensive digital experience
+597,Loyalty Members,Loyalty Members
+598,Segment Revenue - Accessories,Segment Revenue
+599,Segment Revenue - Children's,Segment Revenue
+600,Segment Revenue - Footwear,Segment Revenue
+601,Segment Revenue - Home,Segment Revenue
+602,Segment Revenue - Men's,Segment Revenue
+603,Segment Revenue - MenÃ¢â‚¬â„¢s,Segment Revenue
+604,Segment Revenue - Women's,Segment Revenue
+605,Store visits,Store visits
+606,Total stores,Total stores
+607,User growth - Kohl's App user growth,User growth
+608,Website visits,Website visits
+609,New customers,New customers
+610,New customers - Through the digital channel,New customers
+611,New customers  through Digital Channel,New customers  through Digital Channel
+612,Number of New Customers,Number of New Customers
+613,Revenue by Business type - Home/Other,Revenue by Business type
+614,Revenue by Business type - Men's and Kids',Revenue by Business type
+615,"Revenue by Business type - Women's Accessories, Intimate Apparel, Shoes, Cosmetics and Fragrances",Revenue by Business type
+616,Revenue by Business type - Women's Apparel,Revenue by Business type
+617,"Segment Revenue - Credit card revenues, net",Segment Revenue
+618,Segment Revenue - Home/Other,Segment Revenue
+619,Segment Revenue - Men's and Kids',Segment Revenue
+620,Segment Revenue - Net sales,Segment Revenue
+621,"Segment Revenue - Women's Accessories, Intimate Apparel, Shoes, Cosmetics and Fragrances",Segment Revenue
+622,Segment Revenue - Women's Apparel,Segment Revenue
+623,Average Net Sales Per Store,Average Net Sales Per Store
+624,Comparable Store Count,Comparable Store Count
+625,Net Sales,Net Sales
+626,Stores - Number of Closed Stores,Stores
+627,Stores - Number of New Stores,Stores
+628,Stores - Number of Stores,Stores
+629,Stores - Number of Stores Open at Beginning of Quarter,Stores
+630,Stores - Number of Stores Re-Opened,Stores
+631,Comparable Sales - Brand comparable sales,Comparable Sales
+632,New Stores Openings - Corporate Stores,New Stores Openings
+633,New Stores Openings - Franchise Stores,New Stores Openings
+634,Number of Franchise Stores,Number of Franchise Stores
+635,Number of Stores - Corporate Stores,Number of Stores
+636,Number of Stores - Franchise Stores,Number of Stores
+637,Number of Stores - Halloween City Stores,Number of Stores
+638,Segment Sales - Net Wholesale,Segment Sales
+639,Segment Sales - Retail,Segment Sales
+640,Segment Sales - Wholesale,Segment Sales
+641,Share of Shelf - Manufacturing Share of Shelf,Share of Shelf
+642,Share of Shelf - Wholesale Share of Shelf,Share of Shelf
+643,Store Acquisitions - Corporate Stores,Store Acquisitions
+644,Store Closures - Corporate Stores,Store Closures
+645,Store Closures - Franchise Stores,Store Closures
+646,Store Count - Grand Total,Store Count
+647,Store Sales - Franchise Stores Sold to Party City,Store Sales
+648,Stores - The total number of corporate Party City stores,Stores
+649,Revenue by Category - Furniture Revenue,Revenue by Category
+650,Revenue by Category - Non-Furniture Revenue,Revenue by Category
+651,Segment Revenue - RH Segment Revenue,Segment Revenue
+652,Segment Revenue - Waterworks Revenue,Segment Revenue
+653,Stores - Total Galleries,Stores
+654,Stores - Waterworks Showrooms,Stores
+655,Revenue by Product Category - Accessories Revenue,Revenue by Product Category
+656,Revenue by Product Category - Apparel/Footwear Revenue,Revenue by Product Category
+657,Revenue by Product Category - Bags Revenue,Revenue by Product Category
+658,Revenue by Product Category - Home Revenue,Revenue by Product Category
+659,Revenue by Product Category - Other Revenue,Revenue by Product Category
+660,Revenue by Product Category - Travel Revenue,Revenue by Product Category
+661,Segment Revenue - Pura Vida Segment Revenue,Segment Revenue
+662,Segment Revenue - VB Direct Segment Revenue,Segment Revenue
+663,Segment Revenue - VB Indirect Segment Revenue,Segment Revenue
+664,Customer reach - Customer reach with Drive Up & Go and Home Delivery,Customer reach
+665,Memberships - Loyalty Memberships,Memberships
+666,New Items launched,New Items launched
+667,Retention rate - Retention rate with actively engaged members,Retention rate
+668,Revenue by type - Fuel revenue,Revenue by type
+669,Revenue by type - Non-perishables revenue,Revenue by type
+670,Revenue by type - Other revenue,Revenue by type
+671,Revenue by type - Perishables revenue,Revenue by type
+672,Revenue by type - Pharmacy revenue,Revenue by type
+673,Sales growth - Digital sales growth,Sales growth
+674,Sales growth - Identical sales growth,Sales growth
+675,Sales growth,Sales growth
+676,COVID-19 vaccins - COVID-19 vaccine doses administrated,COVID-19 vaccins
+677,Delivery locations,Delivery locations
+678,Delivery price per customer - unlimited delivery price per customer,Delivery price per customer
+679,Hourly wage - Average hourly wage,Hourly wage
+680,Kroger households covered,Kroger households covered
+681,new items launched,new items launched
+682,Pickup locations,Pickup locations
+683,Segment Sales - Convenience stores,Segment Sales
+684,Segment Sales - Other Sales,Segment Sales
+685,Segment Sales - Supermarket Fuel Sales,Segment Sales
+686,Segment Sales - Total sales ,Segment Sales
+687,Segment Sales - Total sales to retail customers without fuel,Segment Sales
+688,Segment Sales - Total Sales to Retail Customers without Fuel Sales,Segment Sales
+689,"Segment Sales - Total Sales to Retail Customers without Fuel, Supermarket Fuel and Other 
+Sales",Segment Sales
+690,Revenue by product category - Dietary supplements revenue,Revenue by product category
+691,Revenue by product category - Grocery revenue,Revenue by product category
+692,Revenue by product category - Other revenue,Revenue by product category
+693,Stores - Number of new stores,Stores
+694,Stores - Number of new stores opened,Stores
+695,Stores - Number of relocated/remodeled,Stores
+696,Stores - Number of stores relocated/remodeled,Stores
+697,Stores - Number of relocations/remodels,Stores
+698,Average store size,Average store size
+699,Comparable store sales growth,Comparable store sales growth
+700,Comparable Store Sales Growth,Comparable Store Sales Growth
+701,New Store Openings - Annual Unit Growth,New Store Openings
+702,New Store Openings - Unit Growth,New Store Openings
+703,Number of Stores,Number of Stores
+704,Revenue - Non-Perishables,Revenue
+705,Revenue - Perishables,Revenue
+706,Store Closures,Store Closures
+707,Store Relocations,Store Relocations
+708,Total Number of Stores,Total Number of Stores
+709,Unit growth,Unit growth
+710,Segment Revenues - Food Distribution Revenue,Segment Revenues
+711,Segment Revenues - Military Revenue,Segment Revenues
+712,Segment Revenues - Retail Revenue,Segment Revenues
+713,Sub Segment Revenue by Category - Center store Revenue,Sub Segment Revenue by Category
+714,Sub Segment Revenue by Category - Fresh Revenue,Sub Segment Revenue by Category
+715,Sub Segment Revenue by Category - Fuel Revenue,Sub Segment Revenue by Category
+716,Sub Segment Revenue by Category - Individuals Revenue,Sub Segment Revenue by Category
+717,"Sub Segment Revenue by Category - Manufacturers, brokers and distributors Revenue",Sub Segment Revenue by Category
+718,Sub Segment Revenue by Category - Non-food Revenue,Sub Segment Revenue by Category
+719,Sub Segment Revenue by Category - Other Revenue,Sub Segment Revenue by Category
+720,Sub Segment Revenue by Category - Other Revenue from products,Sub Segment Revenue by Category
+721,Sub Segment Revenue by Category - Retailers Revenue,Sub Segment Revenue by Category
+722,Fleet Optimization,Fleet Optimization
+723,Net Sales - Non Core Banner Net Sales,Net Sales
+724,No of Stores - Stores Closed,No of Stores
+725,Sales Penetration - Digital Sales Penetration,Sales Penetration
+726,Website - Visits to Website,Website
+727,Net Sales - Accent decor,Net Sales
+728,Net Sales - Home furnishings,Net Sales
+729,Net Sales - Other,Net Sales
+730,Stores - Total stores,Stores
+731,Net Sales by Channel - Internet Net Sales,Net Sales by Channel
+732,Net Sales by Channel - Other Net Sales,Net Sales by Channel
+733,Net Sales by Channel - Showrooms Net Sales,Net Sales by Channel
+734,Net Sales by Product - Accessories Net Sales,Net Sales by Product
+735,Net Sales by Product - Other Net Sales,Net Sales by Product
+736,Net Sales by Product - Sacs Net Sales,Net Sales by Product
+737,Net Sales by Product - Sactionals Net Sales,Net Sales by Product
+738,Showroom Count - Ending Showroom Count,Showroom Count
+739,"Average Leased Square
+Footage Per Store","Average Leased Square
+Footage Per Store"
+740,Closings Store Count,Closings Store Count
+741,Openings Store Count,Openings Store Count
+742,Revenue by Brand - Other,Revenue by Brand
+743,Revenue by Brand - Pottery Barn,Revenue by Brand
+744,Revenue by Brand - Pottery Barn Kids and Teen,Revenue by Brand
+745,Revenue by Brand - West Elm,Revenue by Brand
+746,Revenue by Brand - Williams Sonoma,Revenue by Brand
+747,Total Store Count,Total Store Count
+748,"Revenue by Category - Gypsum, roofing & insulation",Revenue by Category
+749,Revenue by Category - Lumber & lumber sheet goods,Revenue by Category
+750,Revenue by Category - Manufactured products,Revenue by Category
+751,Revenue by Category - Other building products & services,Revenue by Category
+752,"Revenue by Category - Siding, metal & concrete products",Revenue by Category
+753,"Revenue by Category - Windows, doors & millwork",Revenue by Category
+754,Revenue By Type - Adjacent categories,Revenue By Type
+755,Revenue By Type - Decorative accessories / wall tile,Revenue By Type
+756,Revenue By Type - Installation materials and tools,Revenue By Type
+757,Revenue By Type - Laminate / luxury vinyl plank,Revenue By Type
+758,Revenue By Type - Natural stone,Revenue By Type
+759,Revenue By Type - Other,Revenue By Type
+760,Revenue By Type - Tile,Revenue By Type
+761,Revenue By Type - Wood,Revenue By Type
+762,Stores - New warehouse stores,Stores
+763,Stores - new warehouse-format stores,Stores
+764,Stores - warehouse stores operating,Stores
+765,Studios - Design studios,Studios
+766,Average ticket,Average ticket
+767,Average Ticket - Change in Average Ticket,Average Ticket
+768,Big Ticket Sales,Big Ticket Sales
+769,Comparable Average Ticket,Comparable Average Ticket
+770,Comparable Sales - Change in Comparable Sales,Comparable Sales
+771,Comparable sales - Total comparable sales,Comparable sales
+772,Comparable Store Sales,Comparable Store Sales
+773,Comparable Transactions,Comparable Transactions
+774,Customer Transactions - Comparable Customer Transactions,Customer Transactions
+775,Customer Transactions,Customer Transactions
+776,Customer transactions - Customer transactions (in millions),Customer transactions
+777,Geographic Net Sales - Outside the U.S. Net Sales,Geographic Net Sales
+778,Geographic Net Sales - U.S. Net Sales,Geographic Net Sales
+779,Geographic Sales - Outside the U.S. Net Sales,Geographic Sales
+780,Geographic Sales - U.S. Net Sales,Geographic Sales
+781,Net sales by major product lines - Building Materials Net Sales,Net sales by major product lines
+782,Net sales by major product lines - Decor Net Sales,Net sales by major product lines
+783,Net sales by major product lines - Hardlines Net Sales,Net sales by major product lines
+784,Net sales by products - Products Net Sales,Net sales by products
+785,Net sales by Services - Services Net Sales,Net sales by Services
+786,Online Sales,Online Sales
+787,ROIC - (ROIC) Return on Invested Capital,ROIC
+788,Sales per square foot,Sales per square foot
+789,Segment Sales - Building Materials Net Sales,Segment Sales
+790,Segment Sales - Decor Net Sales,Segment Sales
+791,Segment Sales - Hardlines Net Sales,Segment Sales
+792,Segment Sales - Online Sales,Segment Sales
+793,Segment Sales - Products Net Sales,Segment Sales
+794,Segment Sales - Services Net Sales,Segment Sales
+795,Customer Transactions - Total Customer Transactions,Customer Transactions
+796,Geographical Sales - Canada Sales,Geographical Sales
+797,Geographical Sales - International Sales,Geographical Sales
+798,Geographical Sales - United States	,Geographical Sales
+799,Merchandise Sales - Building Products Sales,Merchandise Sales
+800,Merchandise Sales - Hardlines Sales,Merchandise Sales
+801,Merchandise Sales - Home Decor Sales,Merchandise Sales
+802,Merchandise Sales - Other Sales,Merchandise Sales
+803,Net sales,Net sales
+804,Net sales - Other,Net sales
+805,Net sales - Products,Net sales
+806,Net sales - Services,Net sales
+807,Number of Stores - Company-Operated Stores,Number of Stores
+808,Number of Stores - Dealer-Operated Stores,Number of Stores
+809,Operations - Home improved in number,Operations
+810,Operations - Home improved in square feet,Operations
+811,Sales Floor Square Feet,Sales Floor Square Feet
+812,Segment sales - Other Sales,Segment sales
+813,Segment sales - Products Sales,Segment sales
+814,Segment sales - Services Sales,Segment sales
+815,Store Size - Average Store Size Selling Square Feet ,Store Size
+816,Operating clubs - Total operating clubs,Operating clubs
+817,Segment Revenue - Gasoline and Other,Segment Revenue
+818,Segment Revenue - General Merchandise & Services,Segment Revenue
+819,Segment Revenue - Grocery,Segment Revenue
+820,Segment Revenue - Membership fee income,Segment Revenue
+821,Segment Revenue - Net Sales,Segment Revenue
+822,Fuel - Fuel gallons on a same-store basis,Fuel
+823,New Stores - Acquisitions,New Stores
+824,New stores - Construction,New stores
+825,No. Of Stores,No. Of Stores
+826,Sales by Category - Fuel Sales,Sales by Category
+827,Sales by Category - Grocery & Other Merchandise Sales,Sales by Category
+828,Sales by Category - Other Sales,Sales by Category
+829,Sales by Category - Prepared Food & Fountain Sales,Sales by Category
+830,Segment Sales - Fuel Sales,Segment Sales
+831,Segment Sales - Grocery & Other Merchandise Sales,Segment Sales
+832,Segment Sales - Prepared Food & Fountain Sales,Segment Sales
+833,Cardholders - Total Cardholders,Cardholders
+834,Geographic Revenue - Revenue from Canadian Operations,Geographic Revenue
+835,Geographic Revenue - Revenue from Other International Operations,Geographic Revenue
+836,Geographic Revenue - Revenue from United States Operations,Geographic Revenue
+837,Members - Household Members,Members
+838,Membership Fee Income,Membership Fee Income
+839,Renewal Rate,Renewal Rate
+840,Segment Revenue - Membership fees revenue,Segment Revenue
+841,Sub-segment Revenue - Net sales from Ancillary,Sub-segment Revenue
+842,Sub-segment Revenue - Net sales from Ancillary and other,Sub-segment Revenue
+843,Sub-segment Revenue - Net sales from Food and Sundries,Sub-segment Revenue
+844,Sub-segment Revenue - Net sales from Fresh Foods,Sub-segment Revenue
+845,Sub-segment Revenue - Net sales from Hardlines,Sub-segment Revenue
+846,Sub-segment Revenue - Net sales from Softlines,Sub-segment Revenue
+847,Warehouses - No. of Warehouses,Warehouses
+848,Digital Comparable Sales,Digital Comparable Sales
+849,Other - Other Revenue,Other
+850,Product Net Sales - Target Credit Card,Product Net Sales
+851,Product Net Sales - Target Debit Card,Product Net Sales
+852,Revenue from other sources - Apparel and accessories,Revenue from other sources
+853,Revenue from other sources - Beauty and household essentials,Revenue from other sources
+854,Revenue from other sources - Credit card profit sharing,Revenue from other sources
+855,Revenue from other sources - Food and beverage,Revenue from other sources
+856,Revenue from other sources - Hardlines,Revenue from other sources
+857,Revenue from other sources - Home furnishings and decor,Revenue from other sources
+858,Revenue from other sources - Other Revenue,Revenue from other sources
+859,Revenue from other sources - Others,Revenue from other sources
+860,Same-day services,Same-day services
+861,Segment Net Sales - Comparable sales growth in Signature Categories,Segment Net Sales
+862,Segment Net Sales - Digital comparable sales,Segment Net Sales
+863,Segment Net Sales - Digitally originated comparable sales change,Segment Net Sales
+864,Segment Net Sales - Sales by Digitally originated,Segment Net Sales
+865,Segment Net Sales - Sales by Stores Originated,Segment Net Sales
+866,"Segment Net Sales - Same-day services (Order Pick Up, Drive Up and Shipt)",Segment Net Sales
+867,Segment Net Sales - Stores originated channel comparable sales,Segment Net Sales
+868,Segment Net Sales - Stores originated channel comparable sales change,Segment Net Sales
+869,Store Comparable Sales,Store Comparable Sales
+870,Global Segment Sales - Global eCommerce sales,Global Segment Sales
+871,Member Subscription - Sam's Club Member Count,Member Subscription
+872,Other - Membership and other income,Other
+873,Segment Sales - Sam's Club eCommerce sales,Segment Sales
+874,Segment Sales - Sam's Club comp sales with fuel,Segment Sales
+875,Segment Sales - Sam's Club comp sales without fuel,Segment Sales
+876,Segment Sales - Sam's Club Sales,Segment Sales
+877,Segment Sales - Walmart International Sales,Segment Sales
+878,"Segment Sales - Walmart International Sales, Excluding currency",Segment Sales
+879,Segment Sales - Walmart U.S Sales,Segment Sales
+880,Segment Sales - Walmart U.S. comp sales with fuel,Segment Sales
+881,Segment Sales - Walmart U.S. comp sales without fuel,Segment Sales
+882,Segment Sales - Walmart U.S. eCommerce sales,Segment Sales
+883,Stores - New Store Count,Stores
+884,Marketplace - Marketplace GMV,Marketplace
+885,Marketplace - Marketplace Units,Marketplace
+886,Segment Revenue - Customer assurance revenue,Segment Revenue
+887,Segment Revenue - Marketplace and service revenue,Segment Revenue
+888,Amazon Web Services - AWS Availability Zones,Amazon Web Services
+889,Amazon Web Services - Geographic Regions,Amazon Web Services
+890,Contact center - Contact center interactions,Contact center
+891,Holiday Season Sales,Holiday Season Sales
+892,Prime Day Sales,Prime Day Sales
+893,Product Net Sales - AWS,Product Net Sales
+894,Product Net Sales - Online stores,Product Net Sales
+895,Product Net Sales - Other,Product Net Sales
+896,Product Net Sales - Physical stores,Product Net Sales
+897,Product Net Sales - Retail products,Product Net Sales
+898,Product Net Sales - Retail subscription services,Product Net Sales
+899,Product Net Sales - Retail third-party seller services,Product Net Sales
+900,Product Net Sales - Subscription services,Product Net Sales
+901,Product Net Sales - Third-party seller services,Product Net Sales
+902,Seasonal - Grocery Delivery,Seasonal
+903,Seasonal - Incremental COVID-19 Costs,Seasonal
+904,Seasonal - Shipment Zero,Seasonal
+905,Segment Net Sales - AWS Segment,Segment Net Sales
+906,Segment Net Sales - International Segment,Segment Net Sales
+907,Segment Net Sales - North America Segment,Segment Net Sales
+908,Order Value - Average Order Value,Order Value
+909,Revenue by Category - Commerce,Revenue by Category
+910,Revenue by Category - Direct to Consumer,Revenue by Category
+911,Revenue by Category - Other,Revenue by Category
+912,Subscriptions - Active Subscriptions,Subscriptions
+913,Subscriptions - Average Monthly Subscription Shipment Churn,Subscriptions
+914,Subscriptions  - New Subscriptions ,Subscriptions 
+915,Average monthly unique users - International,Average monthly unique users
+916,Average monthly unique users - U.S.,Average monthly unique users
+917,Revenue by geography - International,Revenue by geography
+918,Revenue by geography - United States,Revenue by geography
+919,Revenue by Source - Marketplace subscription revenue,Revenue by Source
+920,Revenue by Source - Other revenue,Revenue by Source
+921,Total paying dealers,Total paying dealers
+922,Dealer Customers,Dealer Customers
+923,Revenues by Major products and services - Display advertising,Revenues by Major products and services
+924,Revenues by Major products and services - Other,Revenues by Major products and services
+925,Revenues by Major products and services - Pay per lead,Revenues by Major products and services
+926,Revenues by Major products and services - Subscription advertising and digital solutions,Revenues by Major products and services
+927,Segment revenues - Dealer,Segment revenues
+928,Segment revenues - OEM and National,Segment revenues
+929,Segment revenues - Other,Segment revenues
+930,Unique Visitors - Average Monthly Unique Visitors,Unique Visitors
+931,Website customers - Growth in website customers,Website customers
+932,Customers - Active customers,Customers
+933,Sales	 - Autoship customer sales	,Sales	
+934,Sales	 - Autoship customer sales,Sales	
+935,Sales	 - Autoship customer sales as a percentage of net sales,Sales	
+936,Sales	 - Net sales per active customer,Sales	
+937,Segment Revenue - Consumables Revenue,Segment Revenue
+938,Segment Revenue - Hardgoods Revenue,Segment Revenue
+939,Segment Revenue - Other Revenue,Segment Revenue
+940,Active Buyers,Active Buyers
+941,Gross merchandise value,Gross merchandise value
+942,Number of Orders,Number of Orders
+943,Revenue by Segment - Other services,Revenue by Segment
+944,Revenue by Segment - Seller marketplace services,Revenue by Segment
+945,Annual active buyers,Annual active buyers
+946,Annual active sellers,Annual active sellers
+947,Geographic Revenues - Germany Revenues,Geographic Revenues
+948,Geographic Revenues - Rest of world Revenues,Geographic Revenues
+949,Geographic Revenues - South Korea Revenues,Geographic Revenues
+950,Geographic Revenues - Total Geographic Revenues,Geographic Revenues
+951,Geographic Revenues - U.S. Revenues,Geographic Revenues
+952,Geographic Revenues - United Kingdom Revenues,Geographic Revenues
+953,GMV - Gross Merchandise Volume,GMV
+954,Segment Revenues - Classifieds / Other Revenues,Segment Revenues
+955,Segment Revenues - Elimination of inter-segment net Revenues,Segment Revenues
+956,Segment Revenues - Marketing services and other revenues,Segment Revenues
+957,Segment Revenues - Marketing services and other revenues Classifieds,Segment Revenues
+958,Segment Revenues - Marketing services and other revenues from Marketplace,Segment Revenues
+959,"Segment Revenues - Marketing services and other revenues StubHub, Corporate and other",Segment Revenues
+960,Segment Revenues - Marketplace Revenues,Segment Revenues
+961,Segment Revenues - Net transaction revenues,Segment Revenues
+962,Segment Revenues - Net transaction revenues from Marketplace,Segment Revenues
+963,Segment Revenues - Net transaction revenues from StubHub,Segment Revenues
+964,Segment Revenues - Total net revenues,Segment Revenues
+965,Segment Revenues - Total Segment Revenues,Segment Revenues
+966,Take rate,Take rate
+967,Active Sellers,Active Sellers
+968,Gross merchandise sales,Gross Merchandise Sales
+969,International Gross Merchandise Sales,International Gross Merchandise Sales
+970,Mobile Gross Merchandise Sales,Mobile Gross Merchandise Sales
+971,Segment Revenue - Gross merchandise sales,Segment Revenue
+972,Segment Revenue - Marketplace revenue,Segment Revenue
+973,Segment Revenue - Marketplace Rvenue,Segment Revenue
+974,Segment Revenue - Services Revenue,Segment Revenue
+975,Active customers,Active customers
+976,Average order value,Average order value
+977,Geographical Revenue - Rest of the world,Geographical Revenue
+978,Geographical Revenue - United States,Geographical Revenue
+979,Revenue Segment - Non-scrubs,Revenue Segment
+980,Revenue Segment - Scrubs,Revenue Segment
+981,Revenues by Channel - E-commerce Revenue,Revenues by Channel
+982,Revenues by Channel - E-commerce Revenue (combined online and telephonic) ,Revenues by Channel
+983,Revenues by Channel - Other Revenue,Revenues by Channel
+984,Segment Revenue - 1-800-Flowers.com Consumer Floral Revenue,Segment Revenue
+985,Segment Revenue - BloomNet Revenue,Segment Revenue
+986,Segment Revenue - BloomNet Wire Service Revenue,Segment Revenue
+987,Segment Revenue - Consumer Floral & Gifts Revenue,Segment Revenue
+988,Segment Revenue - Gourmet Food & Gift Baskets Revenue,Segment Revenue
+989,Segment Revenue - Intercompany eliminations,Segment Revenue
+990,Active customers for the trailing twelve months,active customers for the trailing twelve months
+991,Gross billings,Gross billings
+992,Revenue by Type - Product,Revenue by Type
+993,Revenue by Type - Service,Revenue by Type
+994,Total units - Total units of International,Total units
+995,Total units - Total units of North America,Total units
+996,TTM Active customers,TTM Active customers
+997,TTM Active customers - TTM Active customers of International,TTM Active customers
+998,TTM Active customers - TTM Active customers of North America,TTM Active customers
+999,Orders - Average order value,Orders
+1000,Orders - Active customers,Orders
+1001,Orders - Mobile Device,Orders
+1002,Orders - Orders delivered,Orders
+1003,Orders - Orders per active customer,Orders
+1004,Gross Merchandise Value (GMV),Gross Merchandise Value (GMV)
+1005,Revenue by Product type - Branded Hard Parts,Revenue by Product type
+1006,Revenue by Product type - Branded Performance,Revenue by Product type
+1007,Revenue by Product type - Branded Replacement Parts,Revenue by Product type
+1008,Revenue by Product type - House Brands Hard Parts,Revenue by Product type
+1009,Revenue by Product type - House Brands Performance,Revenue by Product type
+1010,Revenue by Product type - House Brands Replacement Parts,Revenue by Product type
+1011,Annual Purchases - Existing Customers,Annual Purchases
+1012,Money Spent - Existing Customers,Money Spent
+1013,Number of Customers,Number of Customers
+1014,Product Revenue - Accessories,Product Revenue
+1015,Product Revenue - Apparel,Product Revenue
+1016,Product Revenue - Beauty,Product Revenue
+1017,Product Revenue - Electronics,Product Revenue
+1018,Product Revenue - Home,Product Revenue
+1019,Product Revenue - Jewelry,Product Revenue
+1020,Product Revenue - Other revenue,Product Revenue
+1021,Segment Revenue - Corp and other,Segment Revenue
+1022,Segment Revenue - QVC Int'l,Segment Revenue
+1023,Segment Revenue - QxH,Segment Revenue
+1024,Segment Revenue - Zulily,Segment Revenue
+1025,Active buyers,Active buyers
+1026,AOV - Average order value,AOV
+1027,Gross Merchandise Value,Gross Merchandise Value
+1028,Orders reached,Orders reached
+1029,Revenue - Consignment and service revenue,Revenue
+1030,Revenue - Direct revenue,Revenue
+1031,Gross bookings value,Gross bookings value
+1032,New bookings,New bookings
+1033,Repeat bookings,Repeat bookings
+1034,Segment Revenue - New bookings Revenue,Segment Revenue
+1035,Segment Revenue - Repeat Bookings Revenue,Segment Revenue
+1036,Total Bookings  - Total Bookings,Total Bookings 
+1037,Geographic Revenue - Revenue from Rest of the world,Geographic Revenue
+1038,Revenue by by Product Category - Beauty Product Revenue,Revenue by by Product Category
+1039,Revenue by by Product Category - Dresses Revenue,Revenue by by Product Category
+1040,Revenue by by Product Category - Fashion Apparel Product Revenue,Revenue by by Product Category
+1041,"Revenue by by Product Category - Handbags, Shoes and Accessories Revenue",Revenue by by Product Category
+1042,Revenue by by Product Category - Other Product Revenue,Revenue by by Product Category
+1043,Segment Revenue - FORWARD Revenue,Segment Revenue
+1044,Segment Revenue - REVOLVE Revenue,Segment Revenue
+1045,Total orders placed,Total orders placed
+1046,Active clients,Active clients
+1047,Active clients - Net revenue per active client,Active clients
+1048,Key metrics - Net revenue,Key metrics
+1049,Net revenue per active client,Net revenue per active client
+1050,Active orders,Active orders
+1051,Segment Revenue - Consignment,Segment Revenue
+1052,Segment Revenue - Product,Segment Revenue
+1053,Average order value ,Average order value 
+1054,LTM Net Revenue - LTM Net Revenue Per Active Customer,LTM Net Revenue
+1055,Orders delivered ,Orders delivered 
+1056,Orders delivered  - orders delivered via a mobile device,Orders delivered 
+1057,Orders per customer,Orders per customer
+1058,Orders placed by repeat customers,Orders placed by repeat customers
+1059,Orders placed via a mobile device,Orders placed via a mobile device
+1060,Repeat customers,Repeat customers
+1061,Repeat customers orders,Repeat customers orders
+1062,Revenue by type - International net revenue,Revenue by type
+1063,Revenue by type - U.S. net revenue,Revenue by type
+1064,Active users - monthly active users,Active users
+1065,Countries - number of countries,Countries
+1066,Revenue by type - Logistics Revenue,Revenue by type
+1067,Revenue by type - Marketplace Revenue,Revenue by type
+1068,Revenue Per Active Buyer,Revenue Per Active Buyer
+1069,Number stores - Number of Company-operated stores,Number stores
+1070,Number stores - Number of franchised stores,Number stores
+1071,Same Store Revenues,Same Store Revenues
+1072,Segment revenues - Franchise Royalties and Fees,Segment revenues
+1073,Segment revenues - Lease and Retail Revenues,Segment revenues
+1074,Segment revenues - Non-Retail Sales,Segment revenues
+1075,Segment revenues - Retail Sales,Segment revenues
+1076,No. of Stores,No. of Stores
+1077,Revenue by Category - Apparel Revenue,Revenue by Category
+1078,Revenue by Category - Footwear Revenue,Revenue by Category
+1079,Revenue by Category - Other Sales Revenue,Revenue by Category
+1080,Revenue by Category - Outdoors Revenue,Revenue by Category
+1081,Revenue by Category - Sports and Recreation Revenue,Revenue by Category
+1082,Comparable sales - Domestic comparable online sales,Comparable sales
+1083,Comparable sales - Domestic comparable sales,Comparable sales
+1084,Comparable sales - Enterprise comparable sales,Comparable sales
+1085,Comparable sales - International comparable sales,Comparable sales
+1086,Geographic Revenue - Domestic Revenue,Geographic Revenue
+1087,Geographic Revenue - International Revenue,Geographic Revenue
+1088,Geographic Segment Revenue - Domestic Revenue from Appliances,Geographic Segment Revenue
+1089,Geographic Segment Revenue - Domestic Revenue from Computing and  Phones,Geographic Segment Revenue
+1090,Geographic Segment Revenue - Domestic Revenue from Computing and Mobile Phones,Geographic Segment Revenue
+1091,Geographic Segment Revenue - Domestic Revenue from Consumer Electronics,Geographic Segment Revenue
+1092,Geographic Segment Revenue - Domestic Revenue from Entertainment,Geographic Segment Revenue
+1093,Geographic Segment Revenue - Domestic Revenue from Other,Geographic Segment Revenue
+1094,Geographic Segment Revenue - Domestic Revenue from Services,Geographic Segment Revenue
+1095,Geographic Segment Revenue - International Revenue from Appliances,Geographic Segment Revenue
+1096,Geographic Segment Revenue - International Revenue from Computing and  Phones,Geographic Segment Revenue
+1097,Geographic Segment Revenue - International Revenue from Computing and Mobile Phones,Geographic Segment Revenue
+1098,Geographic Segment Revenue - International Revenue from Consumer Electronics,Geographic Segment Revenue
+1099,Geographic Segment Revenue - International Revenue from Entertainment,Geographic Segment Revenue
+1100,Geographic Segment Revenue - International Revenue from Other,Geographic Segment Revenue
+1101,Geographic Segment Revenue - International Revenue from Services,Geographic Segment Revenue
+1102,Revenue by Product - Appliances,Revenue by Product
+1103,Revenue by Product - Computing and Mobile Phones,Revenue by Product
+1104,Revenue by Product - Consumer Electronics,Revenue by Product
+1105,Revenue by Product - Entertainment,Revenue by Product
+1106,Revenue by Product - Other,Revenue by Product
+1107,Revenue by Product - Services,Revenue by Product
+1108,Segment Revenue - Domestic Revenue,Segment Revenue
+1109,Net Sales by Major Merchandise Categories - Apparel,Net Sales by Major Merchandise Categories
+1110,Net Sales by Major Merchandise Categories - Footwear,Net Sales by Major Merchandise Categories
+1111,"Net Sales by Major Merchandise Categories - Hats, accessories and other",Net Sales by Major Merchandise Categories
+1112,Segment Net Sales - E-commerce,Segment Net Sales
+1113,Segment Net Sales - E-commerce Revenue,Segment Net Sales
+1114,Segment Net Sales - Retail Stores Revenue,Segment Net Sales
+1115,Segment Net Sales - Stores,Segment Net Sales
+1116,Stores - new stores,Stores
+1117,Stores - store closed,Stores
+1118,Segment Revenue - Finance charges and other,Segment Revenue
+1119,Segment Revenue - Product sales,Segment Revenue
+1120,Segment Revenue - Repair service agreement commissions,Segment Revenue
+1121,Sub-Segment Revenue - Consumer electronics - Product sales,Sub-Segment Revenue
+1122,Sub-Segment Revenue - Furniture and mattress - Product sales,Sub-Segment Revenue
+1123,Sub-Segment Revenue - Home appliance - Product sales,Sub-Segment Revenue
+1124,Sub-Segment Revenue - Home office - Product sales,Sub-Segment Revenue
+1125,Sub-Segment Revenue - Other - Product sales,Sub-Segment Revenue
+1126,Revenue by Type - External Customer Sales,Revenue by Type
+1127,Revenue by Type - Intersegment Sales,Revenue by Type
+1128,Segment Revenue - Brand Portfolio,Segment Revenue
+1129,Segment Revenue - Canada Retail,Segment Revenue
+1130,Segment Revenue - Elimination of intersegment net Revenue,Segment Revenue
+1131,Segment Revenue - U.S. Retail Revenue,Segment Revenue
+1132,Stores - Total number of stores,Stores
+1133,Segment Net Sales - Apparel Sales,Segment Net Sales
+1134,Segment Net Sales - Consumables Sales,Segment Net Sales
+1135,Segment Net Sales - Home products Sales,Segment Net Sales
+1136,Segment Net Sales - Seasonal Sales,Segment Net Sales
+1137,Store count - Ending Store count,Store count
+1138,Store count - New store openings,Store count
+1139,Store count - Total selling square footage,Store count
+1140,Net Sales - E- Commerce Sales,Net Sales
+1141,Net Sales - Same Store Sales,Net Sales
+1142,Relocated stores - DICK'S Sporting Goods,Relocated stores
+1143,Relocated stores - Specialty Concept Stores,Relocated stores
+1144,Revenue by Net Sales - Sales,Revenue by Net Sales
+1145,Square Footage - DICK'S Sporting Goods,Square Footage
+1146,Square Footage - Specialty Concept Stores,Square Footage
+1147,Stores - DICK'S Sporting Goods,Stores
+1148,Stores - Specialty Concept Stores,Stores
+1149,Change in Average Ticket - Dollar Tree,Change in Average Ticket
+1150,Change in Average Ticket - Family Dollar ,Change in Average Ticket
+1151,Change in Customer Traffic - Dollar Tree,Change in Customer Traffic
+1152,Change in Customer Traffic - Family Dollar ,Change in Customer Traffic
+1153,Growth Rate (Square Footage)  - Dollar Tree,Growth Rate (Square Footage) 
+1154,Growth Rate (Square Footage)  - Family Dollar ,Growth Rate (Square Footage) 
+1155,Growth Rate (Square Footage)  - Retail Selling Square Footage,Growth Rate (Square Footage) 
+1156,New Stores Openings - Dollar Tree,New Stores Openings
+1157,New Stores Openings - Family Dollar ,New Stores Openings
+1158,Re-bannered Stores - Dollar Tree,Re-bannered Stores
+1159,Re-bannered Stores - Family Dollar ,Re-bannered Stores
+1160,Renovated Stores - Completed Renovations,Renovated Stores
+1161,Same Store Sales,Same Store Sales
+1162,Same-Store Sales by Segment - Dollar Tree Same Store Sales,Same-Store Sales by Segment
+1163,Same-Store Sales by Segment - Family Dollar Same Store Sales,Same-Store Sales by Segment
+1164,"Segment Sales - Corporate, support and Other Sales",Segment Sales
+1165,Segment Sales - Dollar Tree Sales,Segment Sales
+1166,Segment Sales - Family Dollar Sales,Segment Sales
+1167,Segment Sales - Total Segment Sales,Segment Sales
+1168,Selling Square Footage  - Dollar Tree,Selling Square Footage 
+1169,Selling Square Footage  - Family Dollar ,Selling Square Footage 
+1170,Store Closures - Dollar Tree,Store Closures
+1171,Store Closures - Family Dollar ,Store Closures
+1172,Stores - Closed Stores,Stores
+1173,Stores - Expanded or Relocated Stores,Stores
+1174,Centers - Net new center openings,Centers
+1175,Centers - Net new centers,Centers
+1176,Centers - Network of locations,Centers
+1177,Segment Revenue - Marketing Fees,Segment Revenue
+1178,Segment Revenue - Product Sales,Segment Revenue
+1179,Segment Revenue - Royalty Fees,Segment Revenue
+1180,Comparable store sales - Comparable store sales growth,Comparable store sales
+1181,New Stores Openings - America's Best Contacts and Eyeglasses Stores,New Stores Openings
+1182,New Stores Openings - Eyeglass World Stores,New Stores Openings
+1183,New Stores Openings - Total Stores,New Stores Openings
+1184,New Stores Openings - Vision Centers - Walmart,New Stores Openings
+1185,New Stores Openings - Vista Optical Stores - Fred Meyer,New Stores Openings
+1186,New Stores Openings - Vista Optical Stores - Military,New Stores Openings
+1187,No of stores open at the end - Corporate/Other,No of stores open at the end
+1188,No of stores open at the end - Legacy segment,No of stores open at the end
+1189,No of stores open at the end - Owned & Host segment,No of stores open at the end
+1190,Number of Stores - America's Best Contacts and Eyeglasses Stores,Number of Stores
+1191,Number of Stores - Eyeglass World Stores,Number of Stores
+1192,Number of Stores - Vision Centers - Walmart,Number of Stores
+1193,Number of Stores - Vista Optical Stores - Fred Meyer,Number of Stores
+1194,Number of Stores - Vista Optical Stores - Military,Number of Stores
+1195,Revenue From Contracts With Customers - Revenues recognized at a point in time,Revenue From Contracts With Customers
+1196,Revenue From Contracts With Customers - Revenues recognized over time,Revenue From Contracts With Customers
+1197,Segment Revenue - Corporate/Other Revenue,Segment Revenue
+1198,Segment Revenue - Legacy Revenue,Segment Revenue
+1199,Segment Revenue - Owned & Host Revenue,Segment Revenue
+1200,Segment Revenue - Reconciliations,Segment Revenue
+1201,Store Closures - America's Best Contacts and Eyeglasses Stores,Store Closures
+1202,Store Closures - Eyeglass World Stores,Store Closures
+1203,Store Closures - Vision Centers - Walmart,Store Closures
+1204,Store Closures - Vista Optical Stores - Fred Meyer,Store Closures
+1205,Store Closures - Vista Optical Stores - Military,Store Closures
+1206,Store Sale Growth - America's Best,Store Sale Growth
+1207,Store Sale Growth - Corporate/Other,Store Sale Growth
+1208,Store Sale Growth - Eyeglass World,Store Sale Growth
+1209,Store Sale Growth - Fred Meyer,Store Sale Growth
+1210,Store Sale Growth - Legacy segment,Store Sale Growth
+1211,Store Sale Growth - Military,Store Sale Growth
+1212,Stores - New Stores,Stores
+1213,Product Revenue - Fashion and home,Product Revenue
+1214,Product Revenue - Leisure,Product Revenue
+1215,Product Revenue - Party and snack,Product Revenue
+1216,Channel Sales - Direct to Customers Sales,Channel Sales
+1217,Channel Sales - Stores Sales,Channel Sales
+1218,Franchise Operations - Franchise stores ,Franchise Operations
+1219,Geographic Sales - International Sales,Geographic Sales
+1220,Geographic Sales - United States Sales,Geographic Sales
+1221,Stores - Total Store Count,Stores
+1222,Revenue by product sales - Collectibles Sales,Revenue by product sales
+1223,Revenue by product sales - Hardware and accessories Sales,Revenue by product sales
+1224,Revenue by product sales - Software Sales,Revenue by product sales
+1225,Sales by Geography - Australia,Sales by Geography
+1226,Sales by Geography - Canada,Sales by Geography
+1227,Sales by Geography - Europe,Sales by Geography
+1228,Sales by Geography - United States,Sales by Geography
+1229,News Store Openings - Number of Stores,News Store Openings
+1230,Segment Revenue - Distribution,Segment Revenue
+1231,Segment Revenue - E-commerce sales,Segment Revenue
+1232,Segment Revenue - Sales at company owned stores,Segment Revenue
+1233,Square Feet - Retail and Warehouse Space,Square Feet
+1234,Store Count - No of Hydroponic garden centers to reach,Store Count
+1235,Store Count - No. of retail hydroponic/gardening stores,Store Count
+1236,Store Count - Number of Stores,Store Count
+1237,Revenue by major products category - Apparel,Revenue by major products category
+1238,Revenue by major products category - Equipment,Revenue by major products category
+1239,Revenue by major products category - Footwear,Revenue by major products category
+1240,Store Count - End of period,Store Count
+1241,Store Count - New stores opened,Store Count
+1242,Store Count - Stores closed,Store Count
+1243,Sales by Product Category - Arts and Crafts and Home Decor Sales,Sales by Product Category
+1244,Sales by Product Category - Other Sales,Sales by Product Category
+1245,Sales by Product Category - Sewing Sales,Sales by Product Category
+1246,Locations and platforms - Physical locations and multiple digital platforms,Locations and platforms
+1247,Net Income,Net Income
+1248,Average Retail Price - Average Retail Price per Unit Sold Increase,Average Retail Price
+1249,Number of new stores,Number of new stores
+1250,Number of stores closed,Number of stores closed
+1251,Number of Stores Open - Number of Stores,Number of Stores Open
+1252,Revenue by Type - Net Merchandise Sales,Revenue by Type
+1253,Revenue by Type - Net Services Sales,Revenue by Type
+1254,Revenues by major product category - Installation and Delivery Services,Revenues by major product category
+1255,Revenues by major product category - Manufactured Products,Revenues by major product category
+1256,Revenues by major product category - Moldings and Accessories and Other,Revenues by major product category
+1257,Revenues by major product category - Solid and Engineered Hardwood,Revenues by major product category
+1258,Backlog - Direct orders,Backlog
+1259,Backlog - Retail orders,Backlog
+1260,Direct orders,Direct orders
+1261,Revenue by geography - Canada,Revenue by geography
+1262,"Revenue by geography - Europe, the Middle East and Africa",Revenue by geography
+1263,Revenue by geography - Others,Revenue by geography
+1264,Revenue by geography - United States ,Revenue by geography
+1265,Revenue by type - Extended warranties and services,Revenue by type
+1266,Revenue by type - Others,Revenue by type
+1267,Revenue by type - Product Sales,Revenue by type
+1268,Sales order backlog,Sales order backlog
+1269,Segment Sales - Direct sales,Segment Sales
+1270,Segment Sales - Retail sales,Segment Sales
+1271,Segment Sales - Royalty,Segment Sales
+1272,Average square footage per store - Retail Division,Average square footage per store
+1273,Revenue by Type - Products Revenue,Revenue by Type
+1274,Revenue by Type - Services Revenue,Revenue by Type
+1275,Segment Revenue - Business Solutions Division,Segment Revenue
+1276,Segment Revenue - CompuCom Division,Segment Revenue
+1277,Segment Revenue - Other,Segment Revenue
+1278,Segment Revenue - Retail Division,Segment Revenue
+1279,Stores closed - Retail Division,Stores closed
+1280,Stores count - Retail Division,Stores count
+1281,Total retail stores,Total retail stores
+1282,Total square footage - Retail Division,Total square footage
+1283,Company-operated locations - Mexico Segment,Company-operated locations
+1284,Company-operated locations - Rent-A-Center Business segmen,Company-operated locations
+1285,Franchise-operated locations - Franchising Segment,Franchise-operated locations
+1286,GMV,GMV
+1287,Revenues by type - Acima,Revenues by type
+1288,Revenues by type - Franchising,Revenues by type
+1289,Revenues by type - Mexico,Revenues by type
+1290,Revenues by type - Rent-A-Center Business,Revenues by type
+1291,Segment Revenues - Franchise-Merchandise sales,Segment Revenues
+1292,Segment Revenues - Franchise-Royalty income and fees,Segment Revenues
+1293,Segment Revenues - Store-Installment sales,Segment Revenues
+1294,Segment Revenues - Store-Merchandise sales,Segment Revenues
+1295,Segment Revenues - Store-Other,Segment Revenues
+1296,Segment Revenues - Store-Rentals and fees,Segment Revenues
+1297,Number of stores BSG - Company-operated stores,Number of stores BSG
+1298,Number of stores BSG - Franchise stores,Number of stores BSG
+1299,Number of stores SBS - Company-operated stores,Number of stores SBS
+1300,Number of stores SBS - Franchise stores,Number of stores SBS
+1301,Sales consultants - Number of BSG distributor sales consultants,Sales consultants
+1302,Same store sales growth - BSG,Same store sales growth
+1303,Same store sales growth - SBS,Same store sales growth
+1304,Segment Revenue - Beauty Systems Group (BSG),Segment Revenue
+1305,Segment Revenue - Sally Beauty Supply (SBS),Segment Revenue
+1306,New opened store,New opened store
+1307,Revenue by Product Category - Accessories and Other,Revenue by Product Category
+1308,Revenue by Product Category - Athletics Children's,Revenue by Product Category
+1309,Revenue by Product Category - Athletics Men's,Revenue by Product Category
+1310,Revenue by Product Category - Athletics Women's,Revenue by Product Category
+1311,Revenue by Product Category - Non-Athletics Children's,Revenue by Product Category
+1312,Revenue by Product Category - Non-Athletics Men's,Revenue by Product Category
+1313,Revenue by Product Category - Non-Athletics Women's,Revenue by Product Category
+1314,Shoe Perks customer loyalty program,Shoe Perks customer loyalty program
+1315,Store Updates - Stores Closed,Store Updates
+1316,Total Members - Shoe Perks customer loyalty program membership,Total Members
+1317,Revenue by Type - Apparel,Revenue by Type
+1318,Revenue by Type - Apparel Revenue,Revenue by Type
+1319,Revenue by Type - Camping,Revenue by Type
+1320,Revenue by Type - Camping Revenue,Revenue by Type
+1321,Revenue by Type - Fishing,Revenue by Type
+1322,Revenue by Type - Fishing Revenue,Revenue by Type
+1323,Revenue by Type - Footwear,Revenue by Type
+1324,Revenue by Type - Footwear Revenue,Revenue by Type
+1325,Revenue by Type - Hunting and Shooting,Revenue by Type
+1326,Revenue by Type - Hunting and Shooting Revenue,Revenue by Type
+1327,"Revenue by Type - Optics, Electronics, Accessories, and Other",Revenue by Type
+1328,"Revenue by Type - Optics, Electronics, Accessories, and Other Revenue",Revenue by Type
+1329,Net Sales - Elfa third-party,Net Sales
+1330,Net Sales - TCS,Net Sales
+1331,Average inventory per store,Average inventory per store
+1332,Average transaction value,Average transaction value
+1333,Inventory turns,Inventory turns
+1334,New Petsense stores,New Petsense stores
+1335,New Tractor Supply stores,New Tractor Supply stores
+1336,No. Of Stores - Petsense,No. Of Stores
+1337,No. Of Stores - Tractor Supply,No. Of Stores
+1338,Revenue by Product - Agriculture,Revenue by Product
+1339,Revenue by Product - Clothing and Footwear,Revenue by Product
+1340,"Revenue by Product - Hardware, Tools and Truck",Revenue by Product
+1341,Revenue by Product - Livestock and Pet,Revenue by Product
+1342,"Revenue by Product - Seasonal, Gift and Toy Products",Revenue by Product
+1343,Gross square feet - total gross square feet at the end of the quater,Gross square feet
+1344,Net Sales - E-commerce Percentage of net sales,Net Sales
+1345,Net Sales - Net sales percentage,Net Sales
+1346,Net Sales - Salon sales Percentage of net sales,Net Sales
+1347,Net Sales by primary category - Cosmetics Percentage of net sales,Net Sales by primary category
+1348,Net Sales by primary category - Haircare Products & Styling Tools Percentage of net sales,Net Sales by primary category
+1349,Net Sales by primary category - Other Percentage of net sales,Net Sales by primary category
+1350,Net Sales by primary category - Salon Services Percentage of net sales,Net Sales by primary category
+1351,"Net Sales by primary category - Skincare, Bath & Fragrance Percentage of net sales",Net Sales by primary category
+1352,"Percentage of net sales by primary category - Bath, and fragrance",Percentage of net sales by primary category
+1353,Percentage of net sales by primary category - Cosmetics,Percentage of net sales by primary category
+1354,Percentage of net sales by primary category - Haircare products and styling tools,Percentage of net sales by primary category
+1355,"Percentage of net sales by primary category - Other (nail products, accessories, and other)",Percentage of net sales by primary category
+1356,Percentage of net sales by primary category - Services,Percentage of net sales by primary category
+1357,Percentage of net sales by primary category - Skincare,Percentage of net sales by primary category
+1358,"Percentage of net sales by primary category - Skincare, bath, and fragrance",Percentage of net sales by primary category
+1359,Remodel and relocation projects,Remodel and relocation projects
+1360,Revenue by Distribution Channel - E-commerce,Revenue by Distribution Channel
+1361,Revenue by Distribution Channel - Other,Revenue by Distribution Channel
+1362,Revenue by Distribution Channel - Retail stores,Revenue by Distribution Channel
+1363,Revenue by Distribution Channel - Salon services,Revenue by Distribution Channel
+1364,Segment Revenue - E-commerce ,Segment Revenue
+1365,Segment Revenue - E-commerce Percentage of net sales,Segment Revenue
+1366,Segment Revenue - Retail stores and salon Percentage of net sales,Segment Revenue
+1367,Segment Revenue - Salon ,Segment Revenue
+1368,Store Expansion - Number of stores closed during the quarter,Store Expansion
+1369,Store Expansion - Number of stores opened during the quarter,Store Expansion
+1370,Store Expansion - Total stores open at beginning of the quarter,Store Expansion
+1371,"Stores - New stores, net",Stores
+1372,Total Revenue - Net sales revenue,Total Revenue
+1373,comparable sales ,Comparable sales 
+1374,Grooming & Nutrition Perk Members,Grooming & Nutrition Perk Members
+1375,Net New Customers,Net New Customers
+1376,Revenue by Product - Consumables,Revenue by Product
+1377,Revenue by Product  - Dog and cat food,Revenue by Product 
+1378,Revenue by Product  - Services and other,Revenue by Product 
+1379,Revenue by Product  - Supplies and companion animals,Revenue by Product 
+1380,Total Active Customers,Total Active Customers
+1381,Vital Care Subscription,Vital Care Subscription

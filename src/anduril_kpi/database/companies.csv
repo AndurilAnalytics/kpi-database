@@ -1,0 +1,1493 @@
+ticker,company_name,kpi_name,kpi_id,kpi_category
+AEO,"American Eagle Outfitters, Inc.",Geographic Revenue - Revenue from Foreign,0,Geographic Revenue
+AEO,"American Eagle Outfitters, Inc.",Geographic Revenue - Revenue from United States,1,Geographic Revenue
+AEO,"American Eagle Outfitters, Inc.",Inventory - Total Consolidated-ending Inventory at Cost,2,Inventory
+AEO,"American Eagle Outfitters, Inc.",New Stores Openings - AE77 Store ,3,New Stores Openings
+AEO,"American Eagle Outfitters, Inc.",New Stores Openings - Aerie Side-by-side Store ,4,New Stores Openings
+AEO,"American Eagle Outfitters, Inc.",New Stores Openings - Aerie stand-alone Store ,5,New Stores Openings
+AEO,"American Eagle Outfitters, Inc.",New Stores Openings - Todd Snyder Store ,6,New Stores Openings
+AEO,"American Eagle Outfitters, Inc.",New Stores Openings - Unsubscribed Store,7,New Stores Openings
+AEO,"American Eagle Outfitters, Inc.",Segment Revenue - Aerie Revenue,8,Segment Revenue
+AEO,"American Eagle Outfitters, Inc.",Segment Revenue - American Eagle Revenue,9,Segment Revenue
+AEO,"American Eagle Outfitters, Inc.",Segment Revenue - Corporate Revenue,10,Segment Revenue
+AEO,"American Eagle Outfitters, Inc.",Store Closures - Aerie Stand-alone Store,11,Store Closures
+AEO,"American Eagle Outfitters, Inc.",Store Closures - American Eagle Brand Store,12,Store Closures
+AEO,"American Eagle Outfitters, Inc.",Total Stores - International Licensed/Franchised Stores,13,Total Stores
+AEO,"American Eagle Outfitters, Inc.","Total Stores - International Third-Party Operated Stores, non-Inclusive in the Consolidated Store Data",14,Total Stores
+AEO,"American Eagle Outfitters, Inc.","Total Stores - Total Consolidated Stores, Inclusive of New Openings",15,Total Stores
+AEO,"American Eagle Outfitters, Inc.",Total Stores Area - Total Gross Square Footage,16,Total Stores Area
+ANF,ABERCROMBIE & FITCH CO.,Net Sales by Brand - Abercrombie,17,Net Sales by Brand
+ANF,ABERCROMBIE & FITCH CO.,Net Sales by Brand - Hollister,18,Net Sales by Brand
+ANF,ABERCROMBIE & FITCH CO.,Net Sales by Region - APAC,19,Net Sales by Region
+ANF,ABERCROMBIE & FITCH CO.,Net Sales by Region - EMEA,20,Net Sales by Region
+ANF,ABERCROMBIE & FITCH CO.,Net Sales by Region - Other,21,Net Sales by Region
+ANF,ABERCROMBIE & FITCH CO.,Net Sales by Region - United States,22,Net Sales by Region
+BBWI,Bath & Body Works Inc,Company Operated Stores - Canada,23,Company Operated Stores
+BBWI,Bath & Body Works Inc,Company Operated Stores - United States,24,Company Operated Stores
+BBWI,Bath & Body Works Inc,New Store Count - Company Operated stores,25,New Store Count
+BBWI,Bath & Body Works Inc,New Store Count - Partner operated stores,26,New Store Count
+BBWI,Bath & Body Works Inc,New Stores Openings - Company-Operated Stores ,27,New Stores Openings
+BBWI,Bath & Body Works Inc,New Stores Openings - Partner-Operated Stores,28,New Stores Openings
+BBWI,Bath & Body Works Inc,Partner Operated Stores - International,29,Partner Operated Stores
+BBWI,Bath & Body Works Inc,Partner Operated Stores - International- Travel Retail,30,Partner Operated Stores
+BBWI,Bath & Body Works Inc,Partner operated stores,31,Partner operated stores
+BBWI,Bath & Body Works Inc,Segment Revenue - Bath & Body Works Direct,32,Segment Revenue
+BBWI,Bath & Body Works Inc,Segment Revenue - Bath & Body Works International,33,Segment Revenue
+BBWI,Bath & Body Works Inc,Segment Revenue - Bath & Body Works Stores - U.S. and Canada,34,Segment Revenue
+BBWI,Bath & Body Works Inc,Segment Revenue - Victoria's Secret Direct,35,Segment Revenue
+BBWI,Bath & Body Works Inc,Segment Revenue - Victoria's Secret International,36,Segment Revenue
+BBWI,Bath & Body Works Inc,Segment Revenue - Victoria's Secret Stores - U.S. and Canada,37,Segment Revenue
+BBWI,Bath & Body Works Inc,Store Closures - Company-Operated Stores ,38,Store Closures
+BBWI,Bath & Body Works Inc,Store Closures - Partner-Operated Stores,39,Store Closures
+CHS,"Chico's FAS, Inc.",Sales - Comparable Sales,40,Sales
+CHS,"Chico's FAS, Inc.",Segment Revenue - Chico's Revenue,41,Segment Revenue
+CHS,"Chico's FAS, Inc.",Segment Revenue - Soma Revenue,42,Segment Revenue
+CHS,"Chico's FAS, Inc.",Segment Revenue - White House Black Market Revenue,43,Segment Revenue
+CHS,"Chico's FAS, Inc.",Selling Square Footage - Net Selling Square Footage (SSF),44,Selling Square Footage
+CHS,"Chico's FAS, Inc.",Stores - Franchised Stores,45,Stores
+CHS,"Chico's FAS, Inc.",Stores - Total Stores,46,Stores
+CHS,"Chico's FAS, Inc.",Stores - Chico's Frontline Boutiques ,47,Stores
+CHS,"Chico's FAS, Inc.",Stores - Chico's Outlets ,48,Stores
+CHS,"Chico's FAS, Inc.",Stores - Soma Frontline Boutiques ,49,Stores
+CHS,"Chico's FAS, Inc.",Stores - Soma Outlets ,50,Stores
+CHS,"Chico's FAS, Inc.",Stores - WHBM Frontline Boutiques ,51,Stores
+CHS,"Chico's FAS, Inc.",Stores - WHBM Outlets ,52,Stores
+CHS,"Chico's FAS, Inc.",Stores - Store Closures,53,Stores
+CRI,Carter's Inc.,Geographic Net Sales - International,54,Geographic Net Sales
+CRI,Carter's Inc.,Geographic Net Sales - U.S. Retail,55,Geographic Net Sales
+CRI,Carter's Inc.,Geographic Net Sales - U.S. Wholesale,56,Geographic Net Sales
+CRI,Carter's Inc.,Revenue by Source - Direct-to-consumer,57,Revenue by Source
+CRI,Carter's Inc.,Revenue by Source - Wholesale channel,58,Revenue by Source
+CURV,Torrid Holdings Inc,Revenue by Product Category - Apparel Net Sales,59,Revenue by Product Category
+CURV,Torrid Holdings Inc,Revenue by Product Category - Non-Apparel Net Sales,60,Revenue by Product Category
+DLTH,Duluth Holdings Inc,Segment Revenue - Direct-to-consumer,61,Segment Revenue
+DLTH,Duluth Holdings Inc,Segment Revenue - Stores,62,Segment Revenue
+EXPR,"EXPRESS, INC.",No. of Company-Operated Stores - Closed,63,No. of Company-Operated Stores
+EXPR,"EXPRESS, INC.",No. of Company-Operated Stores - Express Edit Concept Stores,64,No. of Company-Operated Stores
+EXPR,"EXPRESS, INC.",No. of Company-Operated Stores - Opened,65,No. of Company-Operated Stores
+EXPR,"EXPRESS, INC.",No. of Company-Operated Stores - Outlet Stores,66,No. of Company-Operated Stores
+EXPR,"EXPRESS, INC.",No. of Company-Operated Stores - Retail Stores,67,No. of Company-Operated Stores
+EXPR,"EXPRESS, INC.",No. of Company-Operated Stores - Store Count,68,No. of Company-Operated Stores
+EXPR,"EXPRESS, INC.",No. of Company-Operated Stores - UpWest Stores,69,No. of Company-Operated Stores
+EXPR,"EXPRESS, INC.",Segment Revenue by Channel - Other Channel revenue,70,Segment Revenue by Channel
+EXPR,"EXPRESS, INC.",Segment Revenue by Channel - Outlet Revenue,71,Segment Revenue by Channel
+EXPR,"EXPRESS, INC.",Segment Revenue by Channel - Retail Revenue,72,Segment Revenue by Channel
+EXPR,"EXPRESS, INC.",Segment Revenue by Product - Accessories and other Revenue,73,Segment Revenue by Product
+EXPR,"EXPRESS, INC.",Segment Revenue by Product - Apparel Revenue,74,Segment Revenue by Product
+EXPR,"EXPRESS, INC.",Segment Revenue by Product - Other Product revenue,75,Segment Revenue by Product
+GCO,GENESCO INC,Segment Revenue - Corporate and Other Revenue,76,Segment Revenue
+GCO,GENESCO INC,Segment Revenue - Johnston & Murphy Group Revenue,77,Segment Revenue
+GCO,GENESCO INC,Segment Revenue - Journeys Group Revenue,78,Segment Revenue
+GCO,GENESCO INC,Segment Revenue - Licensed Brands Revenue,79,Segment Revenue
+GCO,GENESCO INC,Segment Revenue - Schuh Group Revenue,80,Segment Revenue
+GCO,GENESCO INC,Stores - Store Closed,81,Stores
+GCO,GENESCO INC,Stores - Total Stores,46,Stores
+GES,GUESS INC,Revenue by Geographic area - Canada,82,Revenue by Geographic area
+GES,GUESS INC,Revenue by Geographic area - Germany,83,Revenue by Geographic area
+GES,GUESS INC,Revenue by Geographic area - Italy,84,Revenue by Geographic area
+GES,GUESS INC,Revenue by Geographic area - Other foreign countries,85,Revenue by Geographic area
+GES,GUESS INC,Revenue by Geographic area - South Korea,86,Revenue by Geographic area
+GES,GUESS INC,Revenue by Geographic area - Spain,87,Revenue by Geographic area
+GES,GUESS INC,Revenue by Geographic area - U.S.,88,Revenue by Geographic area
+GES,GUESS INC,Revenue by Product - Net royalties ,89,Revenue by Product
+GES,GUESS INC,Revenue by Product - Product sales,90,Revenue by Product
+GES,GUESS INC,Segment Revenue - Americas Retail,91,Segment Revenue
+GES,GUESS INC,Segment Revenue - Americas Retail comp sales,92,Segment Revenue
+GES,GUESS INC,Segment Revenue - Americas Retail comp sales,92,Segment Revenue
+GES,GUESS INC,Segment Revenue - Americas Wholesale,93,Segment Revenue
+GES,GUESS INC,Segment Revenue - Americas Wholesale,93,Segment Revenue
+GES,GUESS INC,Segment Revenue - Asia,94,Segment Revenue
+GES,GUESS INC,Segment Revenue - Asia Retail comp sales,95,Segment Revenue
+GES,GUESS INC,Segment Revenue - Asia Retail comp sales,95,Segment Revenue
+GES,GUESS INC,Segment Revenue - Europe,96,Segment Revenue
+GES,GUESS INC,Segment Revenue - Europe Retail comp sales,97,Segment Revenue
+GES,GUESS INC,Segment Revenue - Europe Retail comp sales,97,Segment Revenue
+GES,GUESS INC,Segment Revenue - Licensing,98,Segment Revenue
+GES,GUESS INC,Segment Revenue - Licensing,98,Segment Revenue
+GPS,"THE GAP, INC.",Sales by Brand - Athleta Sales,99,Sales by Brand
+GPS,"THE GAP, INC.",Sales by Brand - Banana Republic Global Sales,100,Sales by Brand
+GPS,"THE GAP, INC.",Sales by Brand - Gap Global,101,Sales by Brand
+GPS,"THE GAP, INC.",Sales by Brand - Gap Global Sales,102,Sales by Brand
+GPS,"THE GAP, INC.",Sales by Brand - Old Navy Global,103,Sales by Brand
+GPS,"THE GAP, INC.",Sales by Brand - Old Navy Global Sales,104,Sales by Brand
+GPS,"THE GAP, INC.",Sales by Brand - Other Sales,105,Sales by Brand
+GPS,"THE GAP, INC.",Sales by Brand - Total net sales,106,Sales by Brand
+GPS,"THE GAP, INC.",Sales by Geographic Region - Asia Sales,107,Sales by Geographic Region
+GPS,"THE GAP, INC.",Sales by Geographic Region - Canada Sales,108,Sales by Geographic Region
+GPS,"THE GAP, INC.",Sales by Geographic Region - Europe Sales,109,Sales by Geographic Region
+GPS,"THE GAP, INC.",Sales by Geographic Region - Other Regions Sales,110,Sales by Geographic Region
+GPS,"THE GAP, INC.",Sales by Geographic Region - Total net sales,111,Sales by Geographic Region
+GPS,"THE GAP, INC.",Sales by Geographic Region - total sales ,112,Sales by Geographic Region
+GPS,"THE GAP, INC.",Sales by Geographic Region - U.S. Sales,113,Sales by Geographic Region
+GPS,"THE GAP, INC.",Segment Sales - Online sales,114,Segment Sales
+GPS,"THE GAP, INC.",Segment Sales - Store sales,115,Segment Sales
+GPS,"THE GAP, INC.",Segment Sales - Total net sales,116,Segment Sales
+JWN,"NORDSTROM, INC.",Revenues by Category - Credit card revenues,117,Revenues by Category
+JWN,"NORDSTROM, INC.",Sales - Anniversary Event Sales,118,Sales
+JWN,"NORDSTROM, INC.",Sales - Digital Sales,119,Sales
+JWN,"NORDSTROM, INC.",Segment Revenue - Nordstrom Rack Sales,120,Segment Revenue
+JWN,"NORDSTROM, INC.",Segment Revenue - Nordstrom Sales,121,Segment Revenue
+LEVI,Levi Strauss & Co.,Geographic revenues - Americas,122,Geographic revenues
+LEVI,Levi Strauss & Co.,Geographic revenues - Asia,123,Geographic revenues
+LEVI,Levi Strauss & Co.,Geographic revenues - Europe,124,Geographic revenues
+LEVI,Levi Strauss & Co.,Segment Revenue by Channel - Direct-to-consumer from Americas,125,Segment Revenue by Channel
+LEVI,Levi Strauss & Co.,Segment Revenue by Channel - Direct-to-consumer from Asia,126,Segment Revenue by Channel
+LEVI,Levi Strauss & Co.,Segment Revenue by Channel - Direct-to-consumer from Europe,127,Segment Revenue by Channel
+LEVI,Levi Strauss & Co.,Segment Revenue by Channel - Wholesale revenue from Americas,128,Segment Revenue by Channel
+LEVI,Levi Strauss & Co.,Segment Revenue by Channel - Wholesale revenue from Asia,129,Segment Revenue by Channel
+LEVI,Levi Strauss & Co.,Segment Revenue by Channel - Wholesale revenue from Europe,130,Segment Revenue by Channel
+PLBY,PLBY Group Inc,Revenue by Segment - Digital Subscription and Content,131,Revenue by Segment
+PLBY,PLBY Group Inc,Revenue by Segment - Direct-to-Consumer,132,Revenue by Segment
+PLBY,PLBY Group Inc,Revenue by Segment - Licensing,133,Revenue by Segment
+PLBY,PLBY Group Inc,Revenue by Segment - Other,134,Revenue by Segment
+PLBY,PLBY Group Inc,Revenue by Type - Consumer Products,135,Revenue by Type
+PLBY,PLBY Group Inc,Revenue by Type - Magazine and Digital Subscriptions,136,Revenue by Type
+PLBY,PLBY Group Inc,Revenue by Type - Trademark Licensing,137,Revenue by Type
+PLBY,PLBY Group Inc,Revenue by Type - TV and Cable Programming,138,Revenue by Type
+PLCE,"THE CHILDREN'S PLACE, INC.",Geographic Revenue - International & Other Sales,139,Geographic Revenue
+PLCE,"THE CHILDREN'S PLACE, INC.",Geographic Revenue - Mid-West Sales,140,Geographic Revenue
+PLCE,"THE CHILDREN'S PLACE, INC.",Geographic Revenue - North East Sales,141,Geographic Revenue
+PLCE,"THE CHILDREN'S PLACE, INC.",Geographic Revenue - South Sales,142,Geographic Revenue
+PLCE,"THE CHILDREN'S PLACE, INC.",Geographic Revenue - West Sales,143,Geographic Revenue
+PLCE,"THE CHILDREN'S PLACE, INC.",Segment Revenue - The Children's Place International,144,Segment Revenue
+PLCE,"THE CHILDREN'S PLACE, INC.",Segment Revenue - The Children's Place U.S.,145,Segment Revenue
+PLCE,"THE CHILDREN'S PLACE, INC.",Stores - Closed store count,146,Stores
+PLCE,"THE CHILDREN'S PLACE, INC.",Stores - Total store count,147,Stores
+ROST,Ross Stores Inc,"sales mix - Accessories, Lingerie, Fine Jewelry, and Fragrances",148,sales mix
+ROST,Ross Stores Inc,sales mix - Children's,149,sales mix
+ROST,Ross Stores Inc,sales mix - Home Accents and Bed and Bath,150,sales mix
+ROST,Ross Stores Inc,sales mix - Ladies,151,sales mix
+ROST,Ross Stores Inc,sales mix - Men's,152,sales mix
+ROST,Ross Stores Inc,sales mix - Shoes,153,sales mix
+ROST,Ross Stores Inc,Store Count - Beginning of the period,154,Store Count
+ROST,Ross Stores Inc,Store Count - Closed in the period,155,Store Count
+ROST,Ross Stores Inc,Store Count - End of the period,156,Store Count
+ROST,Ross Stores Inc,Store Count - Opened in the period,157,Store Count
+ROST,Ross Stores Inc,Store count - Store count at end of period,158,Store count
+TJX,"The TJX Companies, Inc.",Geographic Sales - HomeGoods Sales From US,159,Geographic Sales
+TJX,"The TJX Companies, Inc.",Geographic Sales - Marmaxx Sales From US,160,Geographic Sales
+TJX,"The TJX Companies, Inc.",Geographic Sales - TJX Canada Sales,161,Geographic Sales
+TJX,"The TJX Companies, Inc.",Geographic Sales - TJX Europe,162,Geographic Sales
+TJX,"The TJX Companies, Inc.",Geographic Sales - TJX International Sales,163,Geographic Sales
+TJX,"The TJX Companies, Inc.",Geographic Sales  - TJX Canada Sales 	,164,Geographic Sales 
+TJX,"The TJX Companies, Inc.",Geographic Sales  - TJX International (Europe & Australia) Sales 	,165,Geographic Sales 
+TJX,"The TJX Companies, Inc.",Geographic Sales  - TJX International (Europe & Australia) Sales,166,Geographic Sales 
+TJX,"The TJX Companies, Inc.",Geographic Segment Sales  - HomeGoods (U.S.) Sales,167,Geographic Segment Sales 
+TJX,"The TJX Companies, Inc.",Geographic Segment Sales  - Marmaxx (U.S.) Sales,168,Geographic Segment Sales 
+TJX,"The TJX Companies, Inc.",Newly Opened Stores,169,Newly Opened Stores
+TJX,"The TJX Companies, Inc.",Store Count - Total Store Count,170,Store Count
+TLYS,"TILLY'S, INC.",New Stores Opened - New Stores Opened During Quarter,171,New Stores Opened
+TLYS,"TILLY'S, INC.",Segment Revenues - E-commerce,172,Segment Revenues
+TLYS,"TILLY'S, INC.",Segment Revenues - Proprietary,173,Segment Revenues
+TLYS,"TILLY'S, INC.",Segment Revenues - Proprietary,173,Segment Revenues
+TLYS,"TILLY'S, INC.",Segment Revenues - Retail stores,174,Segment Revenues
+TLYS,"TILLY'S, INC.",Segment Revenues - Third-party,175,Segment Revenues
+TLYS,"TILLY'S, INC.",Segment Revenues - Third-party,175,Segment Revenues
+TLYS,"TILLY'S, INC.",Stores Permanently Closed During Quarter,176,Stores Permanently Closed During Quarter
+TLYS,"TILLY'S, INC.",Sub Segment Revenue by Category - Accessories,177,Sub Segment Revenue by Category
+TLYS,"TILLY'S, INC.",Sub Segment Revenue by Category - Accessories,177,Sub Segment Revenue by Category
+TLYS,"TILLY'S, INC.",Sub Segment Revenue by Category - Boys,178,Sub Segment Revenue by Category
+TLYS,"TILLY'S, INC.",Sub Segment Revenue by Category - Boys,178,Sub Segment Revenue by Category
+TLYS,"TILLY'S, INC.",Sub Segment Revenue by Category - Footwear,179,Sub Segment Revenue by Category
+TLYS,"TILLY'S, INC.",Sub Segment Revenue by Category - Footwear,179,Sub Segment Revenue by Category
+TLYS,"TILLY'S, INC.",Sub Segment Revenue by Category - Girls,180,Sub Segment Revenue by Category
+TLYS,"TILLY'S, INC.",Sub Segment Revenue by Category - Girls,180,Sub Segment Revenue by Category
+TLYS,"TILLY'S, INC.",Sub Segment Revenue by Category - Mens,181,Sub Segment Revenue by Category
+TLYS,"TILLY'S, INC.",Sub Segment Revenue by Category - Mens,181,Sub Segment Revenue by Category
+TLYS,"TILLY'S, INC.",Sub Segment Revenue by Category - Outdoor,182,Sub Segment Revenue by Category
+TLYS,"TILLY'S, INC.",Sub Segment Revenue by Category - Outdoor,182,Sub Segment Revenue by Category
+TLYS,"TILLY'S, INC.",Sub Segment Revenue by Category - Women,183,Sub Segment Revenue by Category
+TLYS,"TILLY'S, INC.",Sub Segment Revenue by Category - Womens,184,Sub Segment Revenue by Category
+TLYS,"TILLY'S, INC.",Total Gross Square Footage at End of Quarter,185,Total Gross Square Footage at End of Quarter
+TLYS,"TILLY'S, INC.",Total Stores at End of Quarter,186,Total Stores at End of Quarter
+TPR,"TAPESTRY, INC.",Customers - new customers,187,Customers
+TPR,"TAPESTRY, INC.",Geographic Revenues - Greater China Revenues,188,Geographic Revenues
+TPR,"TAPESTRY, INC.",Geographic Revenues - North America Revenues,189,Geographic Revenues
+TPR,"TAPESTRY, INC.",Geographic Revenues - Other Asia Revenues,190,Geographic Revenues
+TPR,"TAPESTRY, INC.",Geographic Revenues - Other Revenues,191,Geographic Revenues
+TPR,"TAPESTRY, INC.",Geographic Revenues - Total,192,Geographic Revenues
+TPR,"TAPESTRY, INC.",Segment Revenues - Coach Revenues,193,Segment Revenues
+TPR,"TAPESTRY, INC.",Segment Revenues - Kate Spade Revenues,194,Segment Revenues
+TPR,"TAPESTRY, INC.",Segment Revenues - Stuart Weitzman Revenues,195,Segment Revenues
+TPR,"TAPESTRY, INC.",Segment Revenues - Total,196,Segment Revenues
+URBN,"URBAN OUTFITTERS, INC.",Net sales by brand - Anthropologie Group,197,Net sales by brand
+URBN,"URBAN OUTFITTERS, INC.",Net sales by brand - Free People Group,198,Net sales by brand
+URBN,"URBAN OUTFITTERS, INC.",Net sales by brand - Menus & Venues,199,Net sales by brand
+URBN,"URBAN OUTFITTERS, INC.",Net sales by brand - Nuuly,200,Net sales by brand
+URBN,"URBAN OUTFITTERS, INC.",Net sales by brand - Urban Outfitters,201,Net sales by brand
+URBN,"URBAN OUTFITTERS, INC.",Net sales by segment - Retail Segment,202,Net sales by segment
+URBN,"URBAN OUTFITTERS, INC.",Net sales by segment - Subscription Segment,203,Net sales by segment
+URBN,"URBAN OUTFITTERS, INC.",Net sales by segment - Wholesale Segment,204,Net sales by segment
+URBN,"URBAN OUTFITTERS, INC.",No. of New Stores Opened - New retail locations,205,No. of New Stores Opened
+URBN,"URBAN OUTFITTERS, INC.",Stores - Closed franchisee-owned stores,206,Stores
+URBN,"URBAN OUTFITTERS, INC.",Stores - Total closed retail stores,207,Stores
+URBN,"URBAN OUTFITTERS, INC.",Stores - Total new retail location stores,208,Stores
+VSCO,Victoria`s Secret & Co,Company-Operated Stores - Greater China - Beauty & Accessories,209,Company-Operated Stores
+VSCO,Victoria`s Secret & Co,Company-Operated Stores - Greater China - Full Assortment,210,Company-Operated Stores
+VSCO,Victoria`s Secret & Co,Company-Operated Stores - Stores in Canada,211,Company-Operated Stores
+VSCO,Victoria`s Secret & Co,Company-Operated Stores - Stores in U.S,212,Company-Operated Stores
+VSCO,Victoria`s Secret & Co,"New Store Openings - Company-Operated Stores in  Greater China - Beauty & Accessories
+",213,New Store Openings
+VSCO,Victoria`s Secret & Co,New Store Openings - Company-Operated Stores in Canada ,214,New Store Openings
+VSCO,Victoria`s Secret & Co,New Store Openings - Company-Operated Stores in Greater China - Full Assortment ,215,New Store Openings
+VSCO,Victoria`s Secret & Co,New Store Openings - Company-Operated Stores in U.S.,216,New Store Openings
+VSCO,Victoria`s Secret & Co,New Store Openings - Partner-Operated Stores - Beauty & Accessories,217,New Store Openings
+VSCO,Victoria`s Secret & Co,New Store Openings - Partner-Operated Stores - Full Assortment,218,New Store Openings
+VSCO,Victoria`s Secret & Co,Number of Stores - Company-Operated Stores in  Greater China - Beauty & Accessories ,219,Number of Stores
+VSCO,Victoria`s Secret & Co,Number of Stores - Company-Operated Stores in Canada ,220,Number of Stores
+VSCO,Victoria`s Secret & Co,Number of Stores - Company-Operated Stores in Greater China - Full Assortment ,221,Number of Stores
+VSCO,Victoria`s Secret & Co,Number of Stores - Company-Operated Stores in U.S.,222,Number of Stores
+VSCO,Victoria`s Secret & Co,Number of Stores - Partner-Operated Stores - Beauty & Accessories,223,Number of Stores
+VSCO,Victoria`s Secret & Co,Number of Stores - Partner-Operated Stores - Full Assortment,224,Number of Stores
+VSCO,Victoria`s Secret & Co,Partner-Operated Stores - Beauty & Accessories ,225,Partner-Operated Stores
+VSCO,Victoria`s Secret & Co,Partner-Operated Stores - Full Assortment,226,Partner-Operated Stores
+VSCO,Victoria`s Secret & Co,Sales per Average Selling Square Foot - Company-Operated Stores- Sales per Average Selling Square Foot,227,Sales per Average Selling Square Foot
+VSCO,Victoria`s Secret & Co,Sales per Average Store - Company-Operated Stores - Sales per Average Store,228,Sales per Average Store
+VSCO,Victoria`s Secret & Co,Segment Revenue - Direct Revenue,229,Segment Revenue
+VSCO,Victoria`s Secret & Co,Segment Revenue - International Revenue,230,Segment Revenue
+VSCO,Victoria`s Secret & Co,Segment Revenue - Revenue from Stores of North America,231,Segment Revenue
+VSCO,Victoria`s Secret & Co,Store Closures - Company-Operated Stores in  Greater China - Beauty & Accessories,232,Store Closures
+VSCO,Victoria`s Secret & Co,Store Closures - Company-Operated Stores in Canada ,233,Store Closures
+VSCO,Victoria`s Secret & Co,Store Closures - Company-Operated Stores in Greater China - Full Assortment ,234,Store Closures
+VSCO,Victoria`s Secret & Co,Store Closures - Company-Operated Stores in U.S.,235,Store Closures
+VSCO,Victoria`s Secret & Co,Store Closures - Partner-Operated Stores - Beauty & Accessories,236,Store Closures
+VSCO,Victoria`s Secret & Co,Store Closures - Partner-Operated Stores - Full Assortment,237,Store Closures
+ZUMZ,Zumiez Inc,Revenue by geographic region - Australia,238,Revenue by geographic region
+ZUMZ,Zumiez Inc,Revenue by geographic region - Canada,239,Revenue by geographic region
+ZUMZ,Zumiez Inc,Revenue by geographic region - Europe,240,Revenue by geographic region
+ZUMZ,Zumiez Inc,Revenue by geographic region - United States,241,Revenue by geographic region
+AAP,"ADVANCE AUTO PARTS, INC.",Segment Net Sales - Accessories and chemicals Sales,242,Segment Net Sales
+AAP,"ADVANCE AUTO PARTS, INC.",Segment Net Sales - Accessories Sales,243,Segment Net Sales
+AAP,"ADVANCE AUTO PARTS, INC.",Segment Net Sales - Chemicals Sales,244,Segment Net Sales
+AAP,"ADVANCE AUTO PARTS, INC.",Segment Net Sales - Eliminations,245,Segment Net Sales
+AAP,"ADVANCE AUTO PARTS, INC.",Segment Net Sales - Engine maintenance Sales,246,Segment Net Sales
+AAP,"ADVANCE AUTO PARTS, INC.",Segment Net Sales - Guarantor Subsidiaries,247,Segment Net Sales
+AAP,"ADVANCE AUTO PARTS, INC.",Segment Net Sales - Non-Guarantor Subsidiaries,248,Segment Net Sales
+AAP,"ADVANCE AUTO PARTS, INC.",Segment Net Sales - Oil Sales,249,Segment Net Sales
+AAP,"ADVANCE AUTO PARTS, INC.",Segment Net Sales - Other Sales,250,Segment Net Sales
+AAP,"ADVANCE AUTO PARTS, INC.",Segment Net Sales - Parts and batteries Sales,251,Segment Net Sales
+AAP,"ADVANCE AUTO PARTS, INC.",Stores and Branches - Closures or Consolidations,252,Stores and Branches
+AAP,"ADVANCE AUTO PARTS, INC.",Stores and Branches - New Openings,253,Stores and Branches
+AAP,"ADVANCE AUTO PARTS, INC.",Stores and Branches - Total Number,254,Stores and Branches
+ABG,ASBURY AUTOMOTIVE GROUP INC,Average selling price - New vehicle Average selling price,255,Average selling price
+ABG,ASBURY AUTOMOTIVE GROUP INC,Average selling price - Same store New vehicle Average selling price,256,Average selling price
+ABG,ASBURY AUTOMOTIVE GROUP INC,Average selling price - Same store Used vehicle retail Average selling price,257,Average selling price
+ABG,ASBURY AUTOMOTIVE GROUP INC,Average selling price - Used vehicle retail Average selling price,258,Average selling price
+ABG,ASBURY AUTOMOTIVE GROUP INC,No. of New vehicle sold - Same store,259,No. of New vehicle sold
+ABG,ASBURY AUTOMOTIVE GROUP INC,No. of New vehicle sold - Total Company,260,No. of New vehicle sold
+ABG,ASBURY AUTOMOTIVE GROUP INC,No. of Used vehicle retail sold - Same store,261,No. of Used vehicle retail sold
+ABG,ASBURY AUTOMOTIVE GROUP INC,No. of Used vehicle retail sold - Total Company,262,No. of Used vehicle retail sold
+ABG,ASBURY AUTOMOTIVE GROUP INC,Number of Franchises,263,Number of Franchises
+ABG,ASBURY AUTOMOTIVE GROUP INC,Segment Revenue - Finance and insurance,264,Segment Revenue
+ABG,ASBURY AUTOMOTIVE GROUP INC,Segment Revenue - New vehicle,265,Segment Revenue
+ABG,ASBURY AUTOMOTIVE GROUP INC,Segment Revenue - Parts and service,266,Segment Revenue
+ABG,ASBURY AUTOMOTIVE GROUP INC,Segment Revenue - Used Vehicle,267,Segment Revenue
+ABG,ASBURY AUTOMOTIVE GROUP INC,Sub Segment Revenue - Luxury - New vehicle,268,Sub Segment Revenue
+ABG,ASBURY AUTOMOTIVE GROUP INC,Sub Segment Revenue - Retail - Used Vehicle,269,Sub Segment Revenue
+ABG,ASBURY AUTOMOTIVE GROUP INC,Sub Segment Revenue - Wholesale - Used Vehicle,270,Sub Segment Revenue
+ABG,ASBURY AUTOMOTIVE GROUP INC,Volume - New vehicle,271,Volume
+ABG,ASBURY AUTOMOTIVE GROUP INC,Volume - Used vehicle retail,272,Volume
+AN,"AutoNation, Inc.","Revenue - Finance and insurance, net",273,Revenue
+AN,"AutoNation, Inc.",Revenue - New vehicle,274,Revenue
+AN,"AutoNation, Inc.",Revenue - Other,275,Revenue
+AN,"AutoNation, Inc.",Revenue - Parts and service,276,Revenue
+AN,"AutoNation, Inc.",Revenue - Used vehicle,277,Revenue
+AN,"AutoNation, Inc.","Sales by Type - Finance and insurance, net Sales",278,Sales by Type
+AN,"AutoNation, Inc.",Sales by Type - New vehicle Sales,279,Sales by Type
+AN,"AutoNation, Inc.",Sales by Type - Other Sales,280,Sales by Type
+AN,"AutoNation, Inc.",Sales by Type - Parts and service Sales,281,Sales by Type
+AN,"AutoNation, Inc.",Sales by Type - Used vehicle Sales,282,Sales by Type
+AN,"AutoNation, Inc.",Segment Revenues - Corporate and other,283,Segment Revenues
+AN,"AutoNation, Inc.",Segment Revenues - Corporate and other Revenue,284,Segment Revenues
+AN,"AutoNation, Inc.",Segment Revenues - Domestic,285,Segment Revenues
+AN,"AutoNation, Inc.",Segment Revenues - Domestic Revenue,286,Segment Revenues
+AN,"AutoNation, Inc.",Segment Revenues - Import,287,Segment Revenues
+AN,"AutoNation, Inc.",Segment Revenues - Import Revenue,288,Segment Revenues
+AN,"AutoNation, Inc.",Segment Revenues - Premium Luxury,289,Segment Revenues
+AN,"AutoNation, Inc.",Segment Revenues - Premium Luxury Revenue,290,Segment Revenues
+AN,"AutoNation, Inc.",Vehicles sold - Total Vehicles sold,291,Vehicles sold
+AN,"AutoNation, Inc.",Vehicles sold - New vehicle,292,Vehicles sold
+AN,"AutoNation, Inc.",Vehicles sold - Used vehicle,293,Vehicles sold
+AZO,"AUTOZONE, INC.",Domestic Commercial Sales - Total Domestic Commercial Sales,294,Domestic Commercial Sales
+AZO,"AUTOZONE, INC.",Sales per average store ,295,Sales per average store 
+AZO,"AUTOZONE, INC.",Segment Sales - Auto Parts Locations,296,Segment Sales
+AZO,"AUTOZONE, INC.",Segment Sales - Net Sales,297,Segment Sales
+AZO,"AUTOZONE, INC.",Segment Sales - Other,298,Segment Sales
+AZO,"AUTOZONE, INC.",Segment Sales - Total domestic commercial sales,299,Segment Sales
+AZO,"AUTOZONE, INC.",Segment Sales  - Total auto parts sales,300,Segment Sales 
+AZO,"AUTOZONE, INC.",Segment Stores - Ending Brazil stores,301,Segment Stores
+AZO,"AUTOZONE, INC.",Segment Stores - Ending Domestic Stores,302,Segment Stores
+AZO,"AUTOZONE, INC.",Segment Stores - Ending Mexico stores,303,Segment Stores
+AZO,"AUTOZONE, INC.",Segment Stores - New Stores,304,Segment Stores
+AZO,"AUTOZONE, INC.",Segment Stores - Total Stores,305,Segment Stores
+CPRT,COPART INC,Geographic Segment Revenue - Service revenues from International,306,Geographic Segment Revenue
+CPRT,COPART INC,Geographic Segment Revenue - Service revenues from United States,307,Geographic Segment Revenue
+CPRT,COPART INC,Geographic Segment Revenue - Vehicle sales from International,308,Geographic Segment Revenue
+CPRT,COPART INC,Geographic Segment Revenue - Vehicle sales from United States,309,Geographic Segment Revenue
+CPRT,COPART INC,Revenue by Type - Service revenues,310,Revenue by Type
+CPRT,COPART INC,Revenue by Type - Vehicle sales,311,Revenue by Type
+CPRT,COPART INC,Segment Revenue - International Revenue,230,Segment Revenue
+CPRT,COPART INC,Segment Revenue - Service revenues,312,Segment Revenue
+CPRT,COPART INC,Segment Revenue - United States Revenue,313,Segment Revenue
+CPRT,COPART INC,Segment Revenue - Vehicle sales,314,Segment Revenue
+CRMT,AMERICA'S CAR-MART INC,Gross profit - Total gross profit per retail unit sold,315,Gross profit
+CRMT,AMERICA'S CAR-MART INC,Price - Average Retail Sales Price ,316,Price
+CRMT,AMERICA'S CAR-MART INC,Sales - Retail units sold ,317,Sales
+CRMT,AMERICA'S CAR-MART INC,Sales - Unit Sales Volume,318,Sales
+CRMT,AMERICA'S CAR-MART INC,Segment Revenue - Interest income Revenue,319,Segment Revenue
+CRMT,AMERICA'S CAR-MART INC,Segment Revenue - Sales Revenue,320,Segment Revenue
+CRMT,AMERICA'S CAR-MART INC,Sub-Segment Revenue - Accident protection plan revenue,321,Sub-Segment Revenue
+CRMT,AMERICA'S CAR-MART INC,Sub-Segment Revenue - Sales Ã¢â‚¬â€œ used autos,322,Sub-Segment Revenue
+CRMT,AMERICA'S CAR-MART INC,Sub-Segment Revenue - Service contract sales,323,Sub-Segment Revenue
+CRMT,AMERICA'S CAR-MART INC,Sub-Segment Revenue - Wholesales third party,324,Sub-Segment Revenue
+CVNA,Carvana Co,Retail Units Sold - Cars,325,Retail Units Sold
+CVNA,Carvana Co,Retail Units Sold - Cars,325,Retail Units Sold
+CVNA,Carvana Co,Segment Revenue - Other sales and revenues,326,Segment Revenue
+CVNA,Carvana Co,"Segment Revenue - Used vehicle sales, net",327,Segment Revenue
+CVNA,Carvana Co,Segment Revenue - Wholesale vehicle sales,328,Segment Revenue
+CVNA,Carvana Co,Vehicles Purchased - % Increase Customers,329,Vehicles Purchased
+CWH,Camping World Holdings Inc,Average gross profit per unit - New vehicles,330,Average gross profit per unit
+CWH,Camping World Holdings Inc,Average gross profit per unit - Used vehicles,331,Average gross profit per unit
+CWH,Camping World Holdings Inc,Average selling price - New vehicles,332,Average selling price
+CWH,Camping World Holdings Inc,Average selling price - Used vehicles,333,Average selling price
+CWH,Camping World Holdings Inc,Customers - Active Customers,334,Customers
+CWH,Camping World Holdings Inc,Good Sam Club members,335,Good Sam Club members
+CWH,Camping World Holdings Inc,Number of store locations,336,Number of store locations
+CWH,Camping World Holdings Inc,Retail locations - Other retail stores,337,Retail locations
+CWH,Camping World Holdings Inc,Retail locations - RV dealerships,338,Retail locations
+CWH,Camping World Holdings Inc,Retail locations - RV service & retail centers,339,Retail locations
+CWH,Camping World Holdings Inc,Same store locations,340,Same store locations
+CWH,Camping World Holdings Inc,Same store unit sales - New vehicles,341,Same store unit sales
+CWH,Camping World Holdings Inc,Same store unit sales - Used vehicles,342,Same store unit sales
+CWH,Camping World Holdings Inc,Segment Revenue - Good Sam Services and Plans Revenue,343,Segment Revenue
+CWH,Camping World Holdings Inc,Segment Revenue - RV and Outdoor Retail Revenue,344,Segment Revenue
+CWH,Camping World Holdings Inc,Unit sales - New vehicles,345,Unit sales
+CWH,Camping World Holdings Inc,Unit sales - New vehicles sales,346,Unit sales
+CWH,Camping World Holdings Inc,Unit sales - Used vehicles	sales,347,Unit sales
+CWH,Camping World Holdings Inc,Unit sales - Used vehicles,348,Unit sales
+CWH,Camping World Holdings Inc,Vehicle inventory per location - New vehicle inventory per dealer location,349,Vehicle inventory per location
+CWH,Camping World Holdings Inc,Vehicle inventory per location - Used vehicle inventory per dealer location,350,Vehicle inventory per location
+DRVN,Driven Brands Holdings Inc,Revenue by Type - Advertising contributions,351,Revenue by Type
+DRVN,Driven Brands Holdings Inc,Revenue by Type - Company-operated store sales,352,Revenue by Type
+DRVN,Driven Brands Holdings Inc,Revenue by Type - Franchise royalties and fees,353,Revenue by Type
+DRVN,Driven Brands Holdings Inc,Revenue by Type - Independently-operated store sales,354,Revenue by Type
+DRVN,Driven Brands Holdings Inc,Revenue by Type - Supply and other revenue,355,Revenue by Type
+DRVN,Driven Brands Holdings Inc,Same-Store Sales - Car Wash,356,Same-Store Sales
+DRVN,Driven Brands Holdings Inc,Same-Store Sales - Maintenance,357,Same-Store Sales
+DRVN,Driven Brands Holdings Inc,"Same-Store Sales - Paint, Collision & Glass",358,Same-Store Sales
+DRVN,Driven Brands Holdings Inc,Same-Store Sales - Platform Services,359,Same-Store Sales
+DRVN,Driven Brands Holdings Inc,Segment Revenue - Car Wash,360,Segment Revenue
+DRVN,Driven Brands Holdings Inc,Segment Revenue - Corporate / Other,361,Segment Revenue
+DRVN,Driven Brands Holdings Inc,Segment Revenue - Maintenance,362,Segment Revenue
+DRVN,Driven Brands Holdings Inc,"Segment Revenue - Paint, Collision & Glass",363,Segment Revenue
+DRVN,Driven Brands Holdings Inc,Segment Revenue - Platform Services,364,Segment Revenue
+DRVN,Driven Brands Holdings Inc,Store Count - Car Wash,365,Store Count
+DRVN,Driven Brands Holdings Inc,Store Count - Maintenance,366,Store Count
+DRVN,Driven Brands Holdings Inc,"Store Count - Paint, Collision & Glass",367,Store Count
+DRVN,Driven Brands Holdings Inc,Store Count - Platform Services,368,Store Count
+GPI,"Group 1 Automotive, Inc.",Average sales price per unit sold - New vehicle retail,369,Average sales price per unit sold
+GPI,"Group 1 Automotive, Inc.",Average sales price per unit sold - Used vehicle retail,370,Average sales price per unit sold
+GPI,"Group 1 Automotive, Inc.",Gross profit per unit sold - New vehicle retail sales,371,Gross profit per unit sold
+GPI,"Group 1 Automotive, Inc.",Gross profit per unit sold - Total used,372,Gross profit per unit sold
+GPI,"Group 1 Automotive, Inc.",Gross profit per unit sold - Used vehicle retail sales,373,Gross profit per unit sold
+GPI,"Group 1 Automotive, Inc.",Gross profit per unit sold - Used vehicle wholesale sales,374,Gross profit per unit sold
+GPI,"Group 1 Automotive, Inc.",Revenue by geographic area - Brazil Revenue,375,Revenue by geographic area
+GPI,"Group 1 Automotive, Inc.",Revenue by geographic area - U.K. Revenue,376,Revenue by geographic area
+GPI,"Group 1 Automotive, Inc.",Revenue by geographic area - U.S. Revenue,377,Revenue by geographic area
+GPI,"Group 1 Automotive, Inc.","Segment Revenue - Finance, insurance and other, net",378,Segment Revenue
+GPI,"Group 1 Automotive, Inc.",Segment Revenue - New vehicle retail sales,379,Segment Revenue
+GPI,"Group 1 Automotive, Inc.",Segment Revenue - Parts and service sales,380,Segment Revenue
+GPI,"Group 1 Automotive, Inc.",Segment Revenue - Used vehicle retail sales,381,Segment Revenue
+GPI,"Group 1 Automotive, Inc.",Segment Revenue - Used vehicle wholesale sales,382,Segment Revenue
+GPI,"Group 1 Automotive, Inc.",Units sold - Retail new vehicles sold,383,Units sold
+GPI,"Group 1 Automotive, Inc.",Units sold - Retail used vehicles sold,384,Units sold
+GPI,"Group 1 Automotive, Inc.",Units sold - Wholesale used vehicles sold,385,Units sold
+IAA,Insurance Auto Auctions Inc.,Revenue by geographic area - International Revenue,386,Revenue by geographic area
+IAA,Insurance Auto Auctions Inc.,Revenue by geographic area - United States Revenue,387,Revenue by geographic area
+IAA,Insurance Auto Auctions Inc.,Revenue by Segment - Service revenues,388,Revenue by Segment
+IAA,Insurance Auto Auctions Inc.,Revenue by Segment - Vehicle sales,389,Revenue by Segment
+KAR,"KAR Auction Services, Inc.",Active dealers,390,Active dealers
+KAR,"KAR Auction Services, Inc.",Land - Acres of land per site,391,Land
+KAR,"KAR Auction Services, Inc.",Number of locations,392,Number of locations
+KAR,"KAR Auction Services, Inc.",Private label websites,393,Private label websites
+KAR,"KAR Auction Services, Inc.",Sale of used vehicles,394,Sale of used vehicles
+KAR,"KAR Auction Services, Inc.",Segment Revenue - Auction fees,395,Segment Revenue
+KAR,"KAR Auction Services, Inc.",Segment Revenue - Finance-related revenue,396,Segment Revenue
+KAR,"KAR Auction Services, Inc.",Segment Revenue - Purchased vehicle sales,397,Segment Revenue
+KAR,"KAR Auction Services, Inc.",Segment Revenue - Service revenue,398,Segment Revenue
+KAR,"KAR Auction Services, Inc.",Vehicles - Vehicles floorplanned by AFC,399,Vehicles
+KMX,"CARMAX, INC.",Average Selling Price - Used vehicles,400,Average Selling Price
+KMX,"CARMAX, INC.",Average Selling Price - Wholesale vehicles,401,Average Selling Price
+KMX,"CARMAX, INC.",Average Selling Price for Used Behicles - Used Vehicles,402,Average Selling Price for Used Behicles
+KMX,"CARMAX, INC.",Average Selling Price for Wholesale Vehicles - Wholesale Vehicles,403,Average Selling Price for Wholesale Vehicles
+KMX,"CARMAX, INC.",CarMax Auto Finance - Interest and fee income,404,CarMax Auto Finance
+KMX,"CARMAX, INC.",CarMax Auto Finance Interest and Fee Income - Interest and fee income,405,CarMax Auto Finance Interest and Fee Income
+KMX,"CARMAX, INC.",Segment Revenue - New vehicle sales,406,Segment Revenue
+KMX,"CARMAX, INC.",Segment Revenue - Other sales and revenues,326,Segment Revenue
+KMX,"CARMAX, INC.",Segment Revenue - Used vehicle sales,407,Segment Revenue
+KMX,"CARMAX, INC.",Segment Revenue - Wholesale vehicle sales,328,Segment Revenue
+KMX,"CARMAX, INC.",Segment Vehicle Unit Sales - Total new vehicle unit sales,408,Segment Vehicle Unit Sales
+KMX,"CARMAX, INC.",Segment Vehicle Unit Sales - Total used vehicle unit sales,409,Segment Vehicle Unit Sales
+KMX,"CARMAX, INC.",Segment Vehicle Unit Sales - Total used vehicle unit sales,409,Segment Vehicle Unit Sales
+KMX,"CARMAX, INC.",Segment Vehicle Unit Sales - Total wholesale vehicle unit sales,410,Segment Vehicle Unit Sales
+KMX,"CARMAX, INC.",Segment Vehicle Unit Sales - Total wholesale vehicle unit sales,410,Segment Vehicle Unit Sales
+KMX,"CARMAX, INC.",Vehicle Sales Changes - Used vehicle revenues,411,Vehicle Sales Changes
+KMX,"CARMAX, INC.",Vehicle Sales Changes - Used vehicle units,412,Vehicle Sales Changes
+KMX,"CARMAX, INC.",Vehicle Sales Changes - Wholesale vehicle revenues,413,Vehicle Sales Changes
+KMX,"CARMAX, INC.",Vehicle Sales Changes - Wholesale vehicle units,414,Vehicle Sales Changes
+LAD,"Lithia Motors, Inc.",Average gross profit per unit - Finance and insurance gross profit per unit,415,Average gross profit per unit
+LAD,"Lithia Motors, Inc.",Average gross profit per unit - New vehicle retail gross profit per unit,416,Average gross profit per unit
+LAD,"Lithia Motors, Inc.",Average gross profit per unit - Total vehicle gross profit per unit,417,Average gross profit per unit
+LAD,"Lithia Motors, Inc.",Average gross profit per unit - Used vehicle retail gross profit per unit,418,Average gross profit per unit
+LAD,"Lithia Motors, Inc.",Driveway Shop units,419,Driveway Shop units
+LAD,"Lithia Motors, Inc.",E-commerce platform Unit Sales,420,E-commerce platform Unit Sales
+LAD,"Lithia Motors, Inc.",Retail units sold - New vehicle retail unit sales,421,Retail units sold
+LAD,"Lithia Motors, Inc.",Retail units sold - Used vehicle retail unit sales,422,Retail units sold
+LAD,"Lithia Motors, Inc.",Segment Revenue - Finance and insurance revenue,423,Segment Revenue
+LAD,"Lithia Motors, Inc.",Segment Revenue - Fleet and other revenue,424,Segment Revenue
+LAD,"Lithia Motors, Inc.",Segment Revenue - New vehicle retail revenue,425,Segment Revenue
+LAD,"Lithia Motors, Inc.","Segment Revenue - Service, body and parts revenue",426,Segment Revenue
+LAD,"Lithia Motors, Inc.",Segment Revenue - Used vehicle retail revenue,427,Segment Revenue
+LAD,"Lithia Motors, Inc.",Segment Revenue - Used vehicle wholesale revenue,428,Segment Revenue
+LAD,"Lithia Motors, Inc.",Unit Sales - New vehicle retail unit sales,429,Unit Sales
+LAD,"Lithia Motors, Inc.",Unit Sales - Used vehicle retail unit sales,430,Unit Sales
+MNRO,MONRO MUFFLER BRAKE INC,comparable store sales,431,comparable store sales
+MNRO,MONRO MUFFLER BRAKE INC,comparable store sales,431,comparable store sales
+MNRO,MONRO MUFFLER BRAKE INC,comparable store sales ,432,comparable store sales 
+MNRO,MONRO MUFFLER BRAKE INC,Revenue by product group - Brakes,433,Revenue by product group
+MNRO,MONRO MUFFLER BRAKE INC,Revenue by product group - Exhaust,434,Revenue by product group
+MNRO,MONRO MUFFLER BRAKE INC,Revenue by product group - Maintenance,435,Revenue by product group
+MNRO,MONRO MUFFLER BRAKE INC,Revenue by product group - Other,436,Revenue by product group
+MNRO,MONRO MUFFLER BRAKE INC,Revenue by product group - Steering,437,Revenue by product group
+MNRO,MONRO MUFFLER BRAKE INC,Revenue by product group - Tires,438,Revenue by product group
+MNRO,MONRO MUFFLER BRAKE INC,Segment - comparable store sales - alignments - Comparable Store Sales,439,Segment - comparable store sales
+MNRO,MONRO MUFFLER BRAKE INC,Segment - comparable store sales - alignments - Comparable Store Sales,439,Segment - comparable store sales
+MNRO,MONRO MUFFLER BRAKE INC,Segment - comparable store sales - alignments - Comparable Store Sales,439,Segment - comparable store sales
+MNRO,MONRO MUFFLER BRAKE INC,Segment - comparable store sales - brakes - comparable store sales,440,Segment - comparable store sales
+MNRO,MONRO MUFFLER BRAKE INC,Segment - comparable store sales - brakes - comparable store sales,440,Segment - comparable store sales
+MNRO,MONRO MUFFLER BRAKE INC,Segment - comparable store sales - brakes - comparable store sales,440,Segment - comparable store sales
+MNRO,MONRO MUFFLER BRAKE INC,Segment - comparable store sales - exhaust -comparable store sales,441,Segment - comparable store sales
+MNRO,MONRO MUFFLER BRAKE INC,Segment - comparable store sales - Exhaust-comparable store sales,442,Segment - comparable store sales
+MNRO,MONRO MUFFLER BRAKE INC,Segment - comparable store sales - Exhaust-comparable store sales,442,Segment - comparable store sales
+MNRO,MONRO MUFFLER BRAKE INC,Segment - comparable store sales - front end/shocks - comparable store sales,443,Segment - comparable store sales
+MNRO,MONRO MUFFLER BRAKE INC,Segment - comparable store sales - front end/shocks - comparable store sales,443,Segment - comparable store sales
+MNRO,MONRO MUFFLER BRAKE INC,Segment - comparable store sales - front end/shocks - comparable store sales,443,Segment - comparable store sales
+MNRO,MONRO MUFFLER BRAKE INC,Segment - comparable store sales - maintenance services - comparable store sales,444,Segment - comparable store sales
+MNRO,MONRO MUFFLER BRAKE INC,Segment - comparable store sales - maintenance services - comparable store sales,444,Segment - comparable store sales
+MNRO,MONRO MUFFLER BRAKE INC,Segment - comparable store sales - maintenance services - comparable store sales,444,Segment - comparable store sales
+MNRO,MONRO MUFFLER BRAKE INC,Segment - comparable store sales - Tires - comparable store sales,445,Segment - comparable store sales
+MNRO,MONRO MUFFLER BRAKE INC,Segment - comparable store sales - Tires - comparable store sales,445,Segment - comparable store sales
+MNRO,MONRO MUFFLER BRAKE INC,Segment - comparable store sales - Tires - comparable store sales,445,Segment - comparable store sales
+MNRO,MONRO MUFFLER BRAKE INC,Segment - comparable store sales  - alignments - Comparable Store Sales,446,Segment - comparable store sales 
+MNRO,MONRO MUFFLER BRAKE INC,Segment - comparable store sales  - brakes - comparable store sales ,447,Segment - comparable store sales 
+MNRO,MONRO MUFFLER BRAKE INC,Segment - comparable store sales  - front end/shocks - comparable store sales ,448,Segment - comparable store sales 
+MNRO,MONRO MUFFLER BRAKE INC,Segment - comparable store sales  - maintenance services - comparable store sales ,449,Segment - comparable store sales 
+MNRO,MONRO MUFFLER BRAKE INC,Segment - comparable store sales  - Tires - comparable store sales ,450,Segment - comparable store sales 
+MNRO,MONRO MUFFLER BRAKE INC,Store count,451,Store count
+ORLY,"O'REILLY AUTOMOTIVE, INC.",Segment Sales - Sales,452,Segment Sales
+ORLY,"O'REILLY AUTOMOTIVE, INC.",Segment Sales - Sales per weighted-average square foot,453,Segment Sales
+ORLY,"O'REILLY AUTOMOTIVE, INC.",Segment Sales - Sales per weighted-average store,454,Segment Sales
+ORLY,"O'REILLY AUTOMOTIVE, INC.",Segment Sales  - Other sales and sales adjustments,455,Segment Sales 
+ORLY,"O'REILLY AUTOMOTIVE, INC.",Segment Sales  - Sales to do-it-yourself customers,456,Segment Sales 
+ORLY,"O'REILLY AUTOMOTIVE, INC.",Segment Sales  - Sales to professional service provider customers,457,Segment Sales 
+ORLY,"O'REILLY AUTOMOTIVE, INC.",Store and Team Member Information - Sales per weighted-average square foot,458,Store and Team Member Information
+ORLY,"O'REILLY AUTOMOTIVE, INC.",Store and Team Member Information - Sales per weighted-average store,459,Store and Team Member Information
+ORLY,"O'REILLY AUTOMOTIVE, INC.",Store and Team Member Information - Square footage (in thousands),460,Store and Team Member Information
+ORLY,"O'REILLY AUTOMOTIVE, INC.",Store Count - Ending total store count,461,Store Count
+PAG,"Penske Automotive Group, Inc.",Average gross profit - Average gross profit per new truck retailed,462,Average gross profit
+PAG,"Penske Automotive Group, Inc.",Average gross profit - Average gross profit per new vehicle retailed,463,Average gross profit
+PAG,"Penske Automotive Group, Inc.",Average gross profit - Average gross profit per used truck retailed,464,Average gross profit
+PAG,"Penske Automotive Group, Inc.",Average gross profit - Average gross profit per used vehicle retailed,465,Average gross profit
+PAG,"Penske Automotive Group, Inc.",Geographic Revenue - North America,466,Geographic Revenue
+PAG,"Penske Automotive Group, Inc.",Geographic Revenue - Other International,467,Geographic Revenue
+PAG,"Penske Automotive Group, Inc.",Geographic Revenue - U.K.,468,Geographic Revenue
+PAG,"Penske Automotive Group, Inc.",New retail sales revenue per unit,469,New retail sales revenue per unit
+PAG,"Penske Automotive Group, Inc.",New retail unit sales,470,New retail unit sales
+PAG,"Penske Automotive Group, Inc.",Revenue by Segment - Commercial Vehicles Australia/Power Systems,471,Revenue by Segment
+PAG,"Penske Automotive Group, Inc.",Revenue by Segment - Retail Automotive,472,Revenue by Segment
+PAG,"Penske Automotive Group, Inc.",Revenue by Segment - Retail Commercial Trucks,473,Revenue by Segment
+PAG,"Penske Automotive Group, Inc.",Same-store average gross profit - Same-store average gross profit per new truck retailed,474,Same-store average gross profit
+PAG,"Penske Automotive Group, Inc.",Same-store average gross profit - Same-store average gross profit per new vehicle retailed,475,Same-store average gross profit
+PAG,"Penske Automotive Group, Inc.",Same-store average gross profit - Same-store average gross profit per used truck retailed,476,Same-store average gross profit
+PAG,"Penske Automotive Group, Inc.",Same-store average gross profit - Same-store average gross profit per used vehicle retailed,477,Same-store average gross profit
+PAG,"Penske Automotive Group, Inc.",Same-store new retail sales - Same-store new retail sales revenue per unit,478,Same-store new retail sales
+PAG,"Penske Automotive Group, Inc.",Same-store new retail unit sales,479,Same-store new retail unit sales
+PAG,"Penske Automotive Group, Inc.",Same-store used retail sales revenue per unit,480,Same-store used retail sales revenue per unit
+PAG,"Penske Automotive Group, Inc.",Same-store used retail unit sales,481,Same-store used retail unit sales
+PAG,"Penske Automotive Group, Inc.",Used retail sales revenue per unit,482,Used retail sales revenue per unit
+PAG,"Penske Automotive Group, Inc.",Used retail unit sales,483,Used retail unit sales
+RUSHA,RUSH ENTERPRISES INC,Absorption ratio,484,Absorption ratio
+RUSHA,RUSH ENTERPRISES INC,Segment Revenue - Finance and insurance Sales,485,Segment Revenue
+RUSHA,RUSH ENTERPRISES INC,Segment Revenue - Lease and rental Sales,486,Segment Revenue
+RUSHA,RUSH ENTERPRISES INC,Segment Revenue - New and used commercial vehicle sales,487,Segment Revenue
+RUSHA,RUSH ENTERPRISES INC,Segment Revenue - Other Sales,488,Segment Revenue
+RUSHA,RUSH ENTERPRISES INC,Segment Revenue - Parts and service sales,380,Segment Revenue
+RUSHA,RUSH ENTERPRISES INC,sold  commercial trucks - sold commercial trucks,489,sold  commercial trucks
+RUSHA,RUSH ENTERPRISES INC,Sub-Segment Revenue - New heavy-duty vehicles - New and used commercial vehicle sales,490,Sub-Segment Revenue
+RUSHA,RUSH ENTERPRISES INC,Sub-Segment Revenue - New light-duty vehicles - New and used commercial vehicle sales,491,Sub-Segment Revenue
+RUSHA,RUSH ENTERPRISES INC,Sub-Segment Revenue - New medium-duty vehicles (including bus sales revenue) - New and used commercial vehicle sales,492,Sub-Segment Revenue
+RUSHA,RUSH ENTERPRISES INC,Sub-Segment Revenue - Other vehicles - New and used commercial vehicle sales,493,Sub-Segment Revenue
+RUSHA,RUSH ENTERPRISES INC,Sub-Segment Revenue - Used vehicles - New and used commercial vehicle sales,494,Sub-Segment Revenue
+SAH,"SONIC AUTOMOTIVE, INC.",Gross Profit Per Unit by segment - EchoPark Same Market-Total used vehicle and F&I,495,Gross Profit Per Unit by segment
+SAH,"SONIC AUTOMOTIVE, INC.",Gross Profit Per Unit by segment - EchoPark-Total used vehicle and F&I,496,Gross Profit Per Unit by segment
+SAH,"SONIC AUTOMOTIVE, INC.",Gross Profit Per Unit by segment - Franchised Dealerships Same Store - Used vehicles,497,Gross Profit Per Unit by segment
+SAH,"SONIC AUTOMOTIVE, INC.",Gross Profit Per Unit by segment - Franchised Dealerships Same Store -New vehicles,498,Gross Profit Per Unit by segment
+SAH,"SONIC AUTOMOTIVE, INC.",Gross Profit Per Unit by segment - Franchised Dealerships-New vehicles,499,Gross Profit Per Unit by segment
+SAH,"SONIC AUTOMOTIVE, INC.",Gross Profit Per Unit by segment - Franchised Dealerships-Used vehicles,500,Gross Profit Per Unit by segment
+SAH,"SONIC AUTOMOTIVE, INC.",Number of Franchised Dealerships,501,Number of Franchised Dealerships
+SAH,"SONIC AUTOMOTIVE, INC.",Revenue by Segment - EchoPark Segment revenues,502,Revenue by Segment
+SAH,"SONIC AUTOMOTIVE, INC.",Revenue by Segment - Franchised Dealerships Segment revenues,503,Revenue by Segment
+SAH,"SONIC AUTOMOTIVE, INC.","Revenue by Type - Finance, insurance and other Revenue",504,Revenue by Type
+SAH,"SONIC AUTOMOTIVE, INC.","Revenue by Type - Parts, service and collision repair Revenue",505,Revenue by Type
+SAH,"SONIC AUTOMOTIVE, INC.",Revenue by Type - Vehicles Revenue,506,Revenue by Type
+SAH,"SONIC AUTOMOTIVE, INC.",Revenue per unit by segment - EchoPark -Wholesale vehicles,507,Revenue per unit by segment
+SAH,"SONIC AUTOMOTIVE, INC.",Revenue per unit by segment - EchoPark Same Market-Wholesale vehicles,508,Revenue per unit by segment
+SAH,"SONIC AUTOMOTIVE, INC.",Revenue per unit by segment - EchoPark Segment same store-Used vehicle,509,Revenue per unit by segment
+SAH,"SONIC AUTOMOTIVE, INC.",Revenue per unit by segment - EchoPark Segment-Used vehicle,510,Revenue per unit by segment
+SAH,"SONIC AUTOMOTIVE, INC.",Revenue per unit by segment - Franchised Dealerships Same Store -Wholesale vehicles,511,Revenue per unit by segment
+SAH,"SONIC AUTOMOTIVE, INC.",Revenue per unit by segment - Franchised Dealerships same store-new vehicles,512,Revenue per unit by segment
+SAH,"SONIC AUTOMOTIVE, INC.",Revenue per unit by segment - Franchised Dealerships same store-used vehicles,513,Revenue per unit by segment
+SAH,"SONIC AUTOMOTIVE, INC.",Revenue per unit by segment - Franchised Dealerships Segment reported- used vehicles,514,Revenue per unit by segment
+SAH,"SONIC AUTOMOTIVE, INC.",Revenue per unit by segment - Franchised Dealerships Segment reported-new vehicles,515,Revenue per unit by segment
+SAH,"SONIC AUTOMOTIVE, INC.",Revenue per unit by segment - Franchised Dealerships Segment reported-wholesale vehicles,516,Revenue per unit by segment
+SAH,"SONIC AUTOMOTIVE, INC.",Unit Sales Volume by segment - EchoPark -Wholesale vehicles,517,Unit Sales Volume by segment
+SAH,"SONIC AUTOMOTIVE, INC.",Unit Sales Volume by segment - EchoPark Same Market-Used vehicles,518,Unit Sales Volume by segment
+SAH,"SONIC AUTOMOTIVE, INC.",Unit Sales Volume by segment - EchoPark Same Market-Wholesale vehicles,519,Unit Sales Volume by segment
+SAH,"SONIC AUTOMOTIVE, INC.",Unit Sales Volume by segment - EchoPark-New vehicles,520,Unit Sales Volume by segment
+SAH,"SONIC AUTOMOTIVE, INC.",Unit Sales Volume by segment - EchoPark-Used vehicles,521,Unit Sales Volume by segment
+SAH,"SONIC AUTOMOTIVE, INC.",Unit Sales Volume by segment - Franchised Dealerships -  Retail new & used vehicles,522,Unit Sales Volume by segment
+SAH,"SONIC AUTOMOTIVE, INC.",Unit Sales Volume by segment - Franchised Dealerships -  Used-to-New Ratio,523,Unit Sales Volume by segment
+SAH,"SONIC AUTOMOTIVE, INC.",Unit Sales Volume by segment - Franchised Dealerships - New vehicles,524,Unit Sales Volume by segment
+SAH,"SONIC AUTOMOTIVE, INC.",Unit Sales Volume by segment - Franchised Dealerships - Used vehicles,525,Unit Sales Volume by segment
+SAH,"SONIC AUTOMOTIVE, INC.",Unit Sales Volume by segment - Franchised Dealerships - Wholesale vehicles,526,Unit Sales Volume by segment
+SAH,"SONIC AUTOMOTIVE, INC.",Unit Sales Volume by segment - Franchised Dealerships Same Store - Retail new & used vehicles,527,Unit Sales Volume by segment
+SAH,"SONIC AUTOMOTIVE, INC.",Unit Sales Volume by segment - Franchised Dealerships Same Store - Used vehicles,528,Unit Sales Volume by segment
+SAH,"SONIC AUTOMOTIVE, INC.",Unit Sales Volume by segment - Franchised Dealerships Same Store - Used-to-New Ratio,529,Unit Sales Volume by segment
+SAH,"SONIC AUTOMOTIVE, INC.",Unit Sales Volume by segment - Franchised Dealerships Same Store -New vehicles,530,Unit Sales Volume by segment
+SAH,"SONIC AUTOMOTIVE, INC.",Unit Sales Volume by segment - Franchised Dealerships Same Store -Wholesale vehicles,531,Unit Sales Volume by segment
+SFT,"Shift Technologies, Inc.",Average days to sale,532,Average days to sale
+SFT,"Shift Technologies, Inc.",Average monthly unique visitors,533,Average monthly unique visitors
+SFT,"Shift Technologies, Inc.",Average monthly unique visitors,533,Average monthly unique visitors
+SFT,"Shift Technologies, Inc.",Average selling price- By segment - Ecommerce,534,Average selling price- By segment
+SFT,"Shift Technologies, Inc.",Average selling price- By segment - Wholesale,535,Average selling price- By segment
+SFT,"Shift Technologies, Inc.",Ecommerce ASP,536,Ecommerce ASP
+SFT,"Shift Technologies, Inc.",Ecommerce Units,537,Ecommerce Units
+SFT,"Shift Technologies, Inc.",Ecommerce vehicles available for sale,538,Ecommerce vehicles available for sale
+SFT,"Shift Technologies, Inc.",Gross Profit per Unit by segment - Ecommerce Gross Profit per Unit,539,Gross Profit per Unit by segment
+SFT,"Shift Technologies, Inc.",Gross Profit per Unit by segment - Other Gross Profit per Unit,540,Gross Profit per Unit by segment
+SFT,"Shift Technologies, Inc.",Gross Profit per Unit by segment - Wholesale Gross Profit per Unit,541,Gross Profit per Unit by segment
+SFT,"Shift Technologies, Inc.",Number of regional hubs,542,Number of regional hubs
+SFT,"Shift Technologies, Inc.","Segment Revenue - Ecommerce revenue, net",543,Segment Revenue
+SFT,"Shift Technologies, Inc.",Segment Revenue - Other revenue,544,Segment Revenue
+SFT,"Shift Technologies, Inc.",Segment Revenue - Wholesale vehicle revenue,545,Segment Revenue
+SFT,"Shift Technologies, Inc.",Total units sold,546,Total units sold
+SFT,"Shift Technologies, Inc.",Units sold by segment - Ecommerce units,547,Units sold by segment
+SFT,"Shift Technologies, Inc.",Units sold by segment - Wholesale units,548,Units sold by segment
+SFT,"Shift Technologies, Inc.",Units sold- By segment - Ecommerce,549,Units sold- By segment
+SFT,"Shift Technologies, Inc.",Units sold- By segment - Wholesale,550,Units sold- By segment
+SFT,"Shift Technologies, Inc.",Wholesale ASP,551,Wholesale ASP
+VRM,Vroom Inc.,Segment Revenue - All Other,552,Segment Revenue
+VRM,Vroom Inc.,Segment Revenue - Ecommerce,553,Segment Revenue
+VRM,Vroom Inc.,Segment Revenue - TDA,554,Segment Revenue
+VRM,Vroom Inc.,Segment Revenue - Wholesale,555,Segment Revenue
+VRM,Vroom Inc.,Unique visitors - Average monthly unique visitors,556,Unique visitors
+VRM,Vroom Inc.,Units Sold - E-commerce,557,Units Sold
+VRM,Vroom Inc.,Units Sold - TDA,558,Units Sold
+VRM,Vroom Inc.,Units Sold - Wholesale,559,Units Sold
+BIG,BIG LOTS INC,"Merchandise Sales - Apparel, Electronics, & Other",560,Merchandise Sales
+BIG,BIG LOTS INC,Merchandise Sales - Consumables,561,Merchandise Sales
+BIG,BIG LOTS INC,Merchandise Sales - Food,562,Merchandise Sales
+BIG,BIG LOTS INC,Merchandise Sales - Furniture,563,Merchandise Sales
+BIG,BIG LOTS INC,Merchandise Sales - Hard Home,564,Merchandise Sales
+BIG,BIG LOTS INC,Merchandise Sales - Seasonal,565,Merchandise Sales
+BIG,BIG LOTS INC,Merchandise Sales - Soft Home,566,Merchandise Sales
+BIG,BIG LOTS INC,Revenue - Ecommerce ,567,Revenue
+BIG,BIG LOTS INC,Revenue,568,Revenue
+BIG,BIG LOTS INC,Revenues by merchandise category - Consumables,569,Revenues by merchandise category
+BIG,BIG LOTS INC,"Revenues by merchandise category - Electronics, Toys, & Accessories",570,Revenues by merchandise category
+BIG,BIG LOTS INC,Revenues by merchandise category - Food,571,Revenues by merchandise category
+BIG,BIG LOTS INC,Revenues by merchandise category - Furniture,572,Revenues by merchandise category
+BIG,BIG LOTS INC,Revenues by merchandise category - Hard Home,573,Revenues by merchandise category
+BIG,BIG LOTS INC,Revenues by merchandise category - Seasonal,574,Revenues by merchandise category
+BIG,BIG LOTS INC,Revenues by merchandise category - Soft Home,575,Revenues by merchandise category
+BURL,BURLINGTON STORES INC,Lease Payments - Total Long Term Lease Liabilities,576,Lease Payments
+BURL,BURLINGTON STORES INC,Sales - Other Revenue,577,Sales
+BURL,BURLINGTON STORES INC,Sales,578,Sales
+BURL,BURLINGTON STORES INC,Stores - New store count potential,579,Stores
+BURL,BURLINGTON STORES INC,Stores - Total Closed or Relocated Stores,580,Stores
+BURL,BURLINGTON STORES INC,Stores - Total New Stores,581,Stores
+BURL,BURLINGTON STORES INC,Stores - Total operating stores,582,Stores
+DDS,DILLARDS INC,Net Sales by Segment - Construction,583,Net Sales by Segment
+DDS,DILLARDS INC,Net Sales by Segment - Construction,583,Net Sales by Segment
+DDS,DILLARDS INC,Net Sales by Segment - Retail Operations,584,Net Sales by Segment
+DDS,DILLARDS INC,Net Sales by Segment - Retail operations,585,Net Sales by Segment
+DDS,DILLARDS INC,Sales - Retail sales per square foot,586,Sales
+DDS,DILLARDS INC,Stores - Total retail store count at end of period,587,Stores
+GO,Grocery Outlet Holding Corp,Comparable store sales,588,Comparable store sales
+GO,Grocery Outlet Holding Corp,New stores opened,589,New stores opened
+GO,Grocery Outlet Holding Corp,Revenue by Type - Non-perishable,590,Revenue by Type
+GO,Grocery Outlet Holding Corp,Revenue by Type - Perishable,591,Revenue by Type
+GO,Grocery Outlet Holding Corp,Stores - Stores count,592,Stores
+KSS,KOHL'S CORPORATION,Additional shops - Planning Underway,593,Additional shops
+KSS,KOHL'S CORPORATION,Card holders - Kohl's Charge card holders,594,Card holders
+KSS,KOHL'S CORPORATION,Customer acquisition - Sephora customers new to Kohl's,595,Customer acquisition
+KSS,KOHL'S CORPORATION,Customers - Active Customers,334,Customers
+KSS,KOHL'S CORPORATION,Kohl's shops and comprehensive digital experience - Sephora,596,Kohl's shops and comprehensive digital experience
+KSS,KOHL'S CORPORATION,Loyalty Members,597,Loyalty Members
+KSS,KOHL'S CORPORATION,Segment Revenue - Accessories,598,Segment Revenue
+KSS,KOHL'S CORPORATION,Segment Revenue - Children's,599,Segment Revenue
+KSS,KOHL'S CORPORATION,Segment Revenue - Footwear,600,Segment Revenue
+KSS,KOHL'S CORPORATION,Segment Revenue - Home,601,Segment Revenue
+KSS,KOHL'S CORPORATION,Segment Revenue - Men's,602,Segment Revenue
+KSS,KOHL'S CORPORATION,Segment Revenue - MenÃ¢â‚¬â„¢s,603,Segment Revenue
+KSS,KOHL'S CORPORATION,Segment Revenue - Other revenue,544,Segment Revenue
+KSS,KOHL'S CORPORATION,Segment Revenue - Women's,604,Segment Revenue
+KSS,KOHL'S CORPORATION,Store visits,605,Store visits
+KSS,KOHL'S CORPORATION,Total stores,606,Total stores
+KSS,KOHL'S CORPORATION,User growth - Kohl's App user growth,607,User growth
+KSS,KOHL'S CORPORATION,Website visits,608,Website visits
+M,"MACY'S, INC.",New customers,609,New customers
+M,"MACY'S, INC.",New customers,609,New customers
+M,"MACY'S, INC.",New customers - Through the digital channel,610,New customers
+M,"MACY'S, INC.",New customers  through Digital Channel,611,New customers  through Digital Channel
+M,"MACY'S, INC.",Number of New Customers,612,Number of New Customers
+M,"MACY'S, INC.",Revenue by Business type - Home/Other,613,Revenue by Business type
+M,"MACY'S, INC.",Revenue by Business type - Men's and Kids',614,Revenue by Business type
+M,"MACY'S, INC.","Revenue by Business type - Women's Accessories, Intimate Apparel, Shoes, Cosmetics and Fragrances",615,Revenue by Business type
+M,"MACY'S, INC.",Revenue by Business type - Women's Apparel,616,Revenue by Business type
+M,"MACY'S, INC.","Segment Revenue - Credit card revenues, net",617,Segment Revenue
+M,"MACY'S, INC.",Segment Revenue - Home/Other,618,Segment Revenue
+M,"MACY'S, INC.",Segment Revenue - Men's and Kids',619,Segment Revenue
+M,"MACY'S, INC.",Segment Revenue - Net sales,620,Segment Revenue
+M,"MACY'S, INC.","Segment Revenue - Women's Accessories, Intimate Apparel, Shoes, Cosmetics and Fragrances",621,Segment Revenue
+M,"MACY'S, INC.",Segment Revenue - Women's Apparel,622,Segment Revenue
+OLLI,Ollie's Bargain Outlet Holdings Inc,Average Net Sales Per Store,623,Average Net Sales Per Store
+OLLI,Ollie's Bargain Outlet Holdings Inc,Comparable Store Count,624,Comparable Store Count
+OLLI,Ollie's Bargain Outlet Holdings Inc,Net Sales,625,Net Sales
+OLLI,Ollie's Bargain Outlet Holdings Inc,Stores - Number of Closed Stores,626,Stores
+OLLI,Ollie's Bargain Outlet Holdings Inc,Stores - Number of New Stores,627,Stores
+OLLI,Ollie's Bargain Outlet Holdings Inc,Stores - Number of Stores,628,Stores
+OLLI,Ollie's Bargain Outlet Holdings Inc,Stores - Number of Stores Open at Beginning of Quarter,629,Stores
+OLLI,Ollie's Bargain Outlet Holdings Inc,Stores - Number of Stores Re-Opened,630,Stores
+PRTY,PARTY CITY HOLDCO INC,Comparable Sales - Brand comparable sales,631,Comparable Sales
+PRTY,PARTY CITY HOLDCO INC,New Stores Openings - Corporate Stores,632,New Stores Openings
+PRTY,PARTY CITY HOLDCO INC,New Stores Openings - Franchise Stores,633,New Stores Openings
+PRTY,PARTY CITY HOLDCO INC,Number of Franchise Stores,634,Number of Franchise Stores
+PRTY,PARTY CITY HOLDCO INC,Number of Stores - Corporate Stores,635,Number of Stores
+PRTY,PARTY CITY HOLDCO INC,Number of Stores - Franchise Stores,636,Number of Stores
+PRTY,PARTY CITY HOLDCO INC,Number of Stores - Halloween City Stores,637,Number of Stores
+PRTY,PARTY CITY HOLDCO INC,Segment Sales - Net Wholesale,638,Segment Sales
+PRTY,PARTY CITY HOLDCO INC,Segment Sales - Retail,639,Segment Sales
+PRTY,PARTY CITY HOLDCO INC,Segment Sales - Wholesale,640,Segment Sales
+PRTY,PARTY CITY HOLDCO INC,Share of Shelf - Manufacturing Share of Shelf,641,Share of Shelf
+PRTY,PARTY CITY HOLDCO INC,Share of Shelf - Wholesale Share of Shelf,642,Share of Shelf
+PRTY,PARTY CITY HOLDCO INC,Store Acquisitions - Corporate Stores,643,Store Acquisitions
+PRTY,PARTY CITY HOLDCO INC,Store Closures - Corporate Stores,644,Store Closures
+PRTY,PARTY CITY HOLDCO INC,Store Closures - Franchise Stores,645,Store Closures
+PRTY,PARTY CITY HOLDCO INC,Store Count - Grand Total,646,Store Count
+PRTY,PARTY CITY HOLDCO INC,Store Sales - Franchise Stores Sold to Party City,647,Store Sales
+PRTY,PARTY CITY HOLDCO INC,Stores - The total number of corporate Party City stores,648,Stores
+RH,RESTORATION HARDWARE HOLDINGS INC,Revenue by Category - Furniture Revenue,649,Revenue by Category
+RH,RESTORATION HARDWARE HOLDINGS INC,Revenue by Category - Non-Furniture Revenue,650,Revenue by Category
+RH,RESTORATION HARDWARE HOLDINGS INC,Segment Revenue - RH Segment Revenue,651,Segment Revenue
+RH,RESTORATION HARDWARE HOLDINGS INC,Segment Revenue - Waterworks Revenue,652,Segment Revenue
+RH,RESTORATION HARDWARE HOLDINGS INC,Stores - Total Galleries,653,Stores
+RH,RESTORATION HARDWARE HOLDINGS INC,Stores - Waterworks Showrooms,654,Stores
+VRA,Vera Bradley,Revenue by Product Category - Accessories Revenue,655,Revenue by Product Category
+VRA,Vera Bradley,Revenue by Product Category - Apparel/Footwear Revenue,656,Revenue by Product Category
+VRA,Vera Bradley,Revenue by Product Category - Bags Revenue,657,Revenue by Product Category
+VRA,Vera Bradley,Revenue by Product Category - Home Revenue,658,Revenue by Product Category
+VRA,Vera Bradley,Revenue by Product Category - Other Revenue,659,Revenue by Product Category
+VRA,Vera Bradley,Revenue by Product Category - Travel Revenue,660,Revenue by Product Category
+VRA,Vera Bradley,Segment Revenue - Pura Vida Segment Revenue,661,Segment Revenue
+VRA,Vera Bradley,Segment Revenue - VB Direct Segment Revenue,662,Segment Revenue
+VRA,Vera Bradley,Segment Revenue - VB Indirect Segment Revenue,663,Segment Revenue
+VRA,Vera Bradley,Stores - Total Stores,46,Stores
+ACI,Albertsons Companies Inc,Customer reach - Customer reach with Drive Up & Go and Home Delivery,664,Customer reach
+ACI,Albertsons Companies Inc,Memberships - Loyalty Memberships,665,Memberships
+ACI,Albertsons Companies Inc,New Items launched,666,New Items launched
+ACI,Albertsons Companies Inc,Retention rate - Retention rate with actively engaged members,667,Retention rate
+ACI,Albertsons Companies Inc,Revenue by type - Fuel revenue,668,Revenue by type
+ACI,Albertsons Companies Inc,Revenue by type - Non-perishables revenue,669,Revenue by type
+ACI,Albertsons Companies Inc,Revenue by type - Other revenue,670,Revenue by type
+ACI,Albertsons Companies Inc,Revenue by type - Perishables revenue,671,Revenue by type
+ACI,Albertsons Companies Inc,Revenue by type - Pharmacy revenue,672,Revenue by type
+ACI,Albertsons Companies Inc,Sales growth - Digital sales growth,673,Sales growth
+ACI,Albertsons Companies Inc,Sales growth - Identical sales growth,674,Sales growth
+ACI,Albertsons Companies Inc,Sales growth,675,Sales growth
+KR,THE KROGER CO.,COVID-19 vaccins - COVID-19 vaccine doses administrated,676,COVID-19 vaccins
+KR,THE KROGER CO.,Delivery locations,677,Delivery locations
+KR,THE KROGER CO.,Delivery price per customer - unlimited delivery price per customer,678,Delivery price per customer
+KR,THE KROGER CO.,Hourly wage - Average hourly wage,679,Hourly wage
+KR,THE KROGER CO.,Kroger households covered,680,Kroger households covered
+KR,THE KROGER CO.,new items launched,681,new items launched
+KR,THE KROGER CO.,Pickup locations,682,Pickup locations
+KR,THE KROGER CO.,Segment Sales - Convenience stores,683,Segment Sales
+KR,THE KROGER CO.,Segment Sales - Other Sales,684,Segment Sales
+KR,THE KROGER CO.,Segment Sales - Supermarket Fuel Sales,685,Segment Sales
+KR,THE KROGER CO.,Segment Sales - Total sales ,686,Segment Sales
+KR,THE KROGER CO.,Segment Sales - Total sales to retail customers without fuel,687,Segment Sales
+KR,THE KROGER CO.,Segment Sales - Total Sales to Retail Customers without Fuel Sales,688,Segment Sales
+KR,THE KROGER CO.,"Segment Sales - Total Sales to Retail Customers without Fuel, Supermarket Fuel and Other 
+Sales",689,Segment Sales
+NGVC,"Natural Grocers by Vitamin Cottage, Inc.",Revenue by product category - Dietary supplements revenue,690,Revenue by product category
+NGVC,"Natural Grocers by Vitamin Cottage, Inc.",Revenue by product category - Grocery revenue,691,Revenue by product category
+NGVC,"Natural Grocers by Vitamin Cottage, Inc.",Revenue by product category - Other revenue,692,Revenue by product category
+NGVC,"Natural Grocers by Vitamin Cottage, Inc.",Stores - Number of new stores,693,Stores
+NGVC,"Natural Grocers by Vitamin Cottage, Inc.",Stores - Number of new stores opened,694,Stores
+NGVC,"Natural Grocers by Vitamin Cottage, Inc.",Stores - Number of relocated/remodeled,695,Stores
+NGVC,"Natural Grocers by Vitamin Cottage, Inc.",Stores - Number of stores relocated/remodeled,696,Stores
+NGVC,"Natural Grocers by Vitamin Cottage, Inc.",Stores - Number of relocations/remodels,697,Stores
+NGVC,"Natural Grocers by Vitamin Cottage, Inc.",Stores - Total store count,147,Stores
+SFM,"Sprouts Farmers Market, Inc.",Average store size,698,Average store size
+SFM,"Sprouts Farmers Market, Inc.",Comparable store sales growth,699,Comparable store sales growth
+SFM,"Sprouts Farmers Market, Inc.",Comparable Store Sales Growth,700,Comparable Store Sales Growth
+SFM,"Sprouts Farmers Market, Inc.",Comparable Store Sales Growth,700,Comparable Store Sales Growth
+SFM,"Sprouts Farmers Market, Inc.",New Store Openings - Annual Unit Growth,701,New Store Openings
+SFM,"Sprouts Farmers Market, Inc.",New Store Openings - Unit Growth,702,New Store Openings
+SFM,"Sprouts Farmers Market, Inc.",Number of Stores,703,Number of Stores
+SFM,"Sprouts Farmers Market, Inc.",Revenue - Non-Perishables,704,Revenue
+SFM,"Sprouts Farmers Market, Inc.",Revenue - Perishables,705,Revenue
+SFM,"Sprouts Farmers Market, Inc.",Store Closures,706,Store Closures
+SFM,"Sprouts Farmers Market, Inc.",Store Relocations,707,Store Relocations
+SFM,"Sprouts Farmers Market, Inc.",Total Number of Stores,708,Total Number of Stores
+SFM,"Sprouts Farmers Market, Inc.",Unit growth,709,Unit growth
+SPTN,SpartanNash Co,Segment Revenues - Food Distribution Revenue,710,Segment Revenues
+SPTN,SpartanNash Co,Segment Revenues - Military Revenue,711,Segment Revenues
+SPTN,SpartanNash Co,Segment Revenues - Retail Revenue,712,Segment Revenues
+SPTN,SpartanNash Co,Sub Segment Revenue by Category - Center store Revenue,713,Sub Segment Revenue by Category
+SPTN,SpartanNash Co,Sub Segment Revenue by Category - Fresh Revenue,714,Sub Segment Revenue by Category
+SPTN,SpartanNash Co,Sub Segment Revenue by Category - Fuel Revenue,715,Sub Segment Revenue by Category
+SPTN,SpartanNash Co,Sub Segment Revenue by Category - Individuals Revenue,716,Sub Segment Revenue by Category
+SPTN,SpartanNash Co,"Sub Segment Revenue by Category - Manufacturers, brokers and distributors Revenue",717,Sub Segment Revenue by Category
+SPTN,SpartanNash Co,Sub Segment Revenue by Category - Non-food Revenue,718,Sub Segment Revenue by Category
+SPTN,SpartanNash Co,Sub Segment Revenue by Category - Other Revenue,719,Sub Segment Revenue by Category
+SPTN,SpartanNash Co,Sub Segment Revenue by Category - Other Revenue from products,720,Sub Segment Revenue by Category
+SPTN,SpartanNash Co,Sub Segment Revenue by Category - Retailers Revenue,721,Sub Segment Revenue by Category
+BBBY,BED BATH & BEYOND INC.,Fleet Optimization,722,Fleet Optimization
+BBBY,BED BATH & BEYOND INC.,Net Sales - Non Core Banner Net Sales,723,Net Sales
+BBBY,BED BATH & BEYOND INC.,No of Stores - Stores Closed,724,No of Stores
+BBBY,BED BATH & BEYOND INC.,No of Stores - Stores Closed,724,No of Stores
+BBBY,BED BATH & BEYOND INC.,Sales Penetration - Digital Sales Penetration,725,Sales Penetration
+BBBY,BED BATH & BEYOND INC.,Website - Visits to Website,726,Website
+HOME,At Home Group Inc.,Net Sales - Accent decor,727,Net Sales
+HOME,At Home Group Inc.,Net Sales - Home furnishings,728,Net Sales
+HOME,At Home Group Inc.,Net Sales - Other,729,Net Sales
+HOME,At Home Group Inc.,Stores - Total stores,730,Stores
+LOVE,Lovesac Co,Net Sales by Channel - Internet Net Sales,731,Net Sales by Channel
+LOVE,Lovesac Co,Net Sales by Channel - Other Net Sales,732,Net Sales by Channel
+LOVE,Lovesac Co,Net Sales by Channel - Showrooms Net Sales,733,Net Sales by Channel
+LOVE,Lovesac Co,Net Sales by Product - Accessories Net Sales,734,Net Sales by Product
+LOVE,Lovesac Co,Net Sales by Product - Accessories Net Sales,734,Net Sales by Product
+LOVE,Lovesac Co,Net Sales by Product - Other Net Sales,735,Net Sales by Product
+LOVE,Lovesac Co,Net Sales by Product - Sacs Net Sales,736,Net Sales by Product
+LOVE,Lovesac Co,Net Sales by Product - Sactionals Net Sales,737,Net Sales by Product
+LOVE,Lovesac Co,Showroom Count - Ending Showroom Count,738,Showroom Count
+WSM,"WILLIAMS-SONOMA, INC","Average Leased Square
+Footage Per Store",739,"Average Leased Square
+Footage Per Store"
+WSM,"WILLIAMS-SONOMA, INC","Average Leased Square
+Footage Per Store",739,"Average Leased Square
+Footage Per Store"
+WSM,"WILLIAMS-SONOMA, INC",Closings Store Count,740,Closings Store Count
+WSM,"WILLIAMS-SONOMA, INC",Openings Store Count,741,Openings Store Count
+WSM,"WILLIAMS-SONOMA, INC",Revenue by Brand - Other,742,Revenue by Brand
+WSM,"WILLIAMS-SONOMA, INC",Revenue by Brand - Pottery Barn,743,Revenue by Brand
+WSM,"WILLIAMS-SONOMA, INC",Revenue by Brand - Pottery Barn Kids and Teen,744,Revenue by Brand
+WSM,"WILLIAMS-SONOMA, INC",Revenue by Brand - West Elm,745,Revenue by Brand
+WSM,"WILLIAMS-SONOMA, INC",Revenue by Brand - Williams Sonoma,746,Revenue by Brand
+WSM,"WILLIAMS-SONOMA, INC",Total Store Count,747,Total Store Count
+BLDR,BUILDERS FIRSTSOURCE INC,"Revenue by Category - Gypsum, roofing & insulation",748,Revenue by Category
+BLDR,BUILDERS FIRSTSOURCE INC,Revenue by Category - Lumber & lumber sheet goods,749,Revenue by Category
+BLDR,BUILDERS FIRSTSOURCE INC,Revenue by Category - Manufactured products,750,Revenue by Category
+BLDR,BUILDERS FIRSTSOURCE INC,Revenue by Category - Other building products & services,751,Revenue by Category
+BLDR,BUILDERS FIRSTSOURCE INC,"Revenue by Category - Siding, metal & concrete products",752,Revenue by Category
+BLDR,BUILDERS FIRSTSOURCE INC,"Revenue by Category - Windows, doors & millwork",753,Revenue by Category
+FND,"Floor & Decor Holdings, Inc.",Revenue By Type - Adjacent categories,754,Revenue By Type
+FND,"Floor & Decor Holdings, Inc.",Revenue By Type - Decorative accessories / wall tile,755,Revenue By Type
+FND,"Floor & Decor Holdings, Inc.",Revenue By Type - Installation materials and tools,756,Revenue By Type
+FND,"Floor & Decor Holdings, Inc.",Revenue By Type - Laminate / luxury vinyl plank,757,Revenue By Type
+FND,"Floor & Decor Holdings, Inc.",Revenue By Type - Natural stone,758,Revenue By Type
+FND,"Floor & Decor Holdings, Inc.",Revenue By Type - Other,759,Revenue By Type
+FND,"Floor & Decor Holdings, Inc.",Revenue By Type - Tile,760,Revenue By Type
+FND,"Floor & Decor Holdings, Inc.",Revenue By Type - Wood,761,Revenue By Type
+FND,"Floor & Decor Holdings, Inc.",Stores - New warehouse stores,762,Stores
+FND,"Floor & Decor Holdings, Inc.",Stores - new warehouse-format stores,763,Stores
+FND,"Floor & Decor Holdings, Inc.",Stores - warehouse stores operating,764,Stores
+FND,"Floor & Decor Holdings, Inc.",Studios - Design studios,765,Studios
+HD,"THE HOME DEPOT, INC.",Average ticket,766,Average ticket
+HD,"THE HOME DEPOT, INC.",Average Ticket - Change in Average Ticket,767,Average Ticket
+HD,"THE HOME DEPOT, INC.",Big Ticket Sales,768,Big Ticket Sales
+HD,"THE HOME DEPOT, INC.",Comparable Average Ticket,769,Comparable Average Ticket
+HD,"THE HOME DEPOT, INC.",Comparable Sales - Change in Comparable Sales,770,Comparable Sales
+HD,"THE HOME DEPOT, INC.",Comparable sales - Total comparable sales,771,Comparable sales
+HD,"THE HOME DEPOT, INC.",Comparable Store Sales,772,Comparable Store Sales
+HD,"THE HOME DEPOT, INC.",Comparable Transactions,773,Comparable Transactions
+HD,"THE HOME DEPOT, INC.",Comparable Transactions,773,Comparable Transactions
+HD,"THE HOME DEPOT, INC.",Customer Transactions - Comparable Customer Transactions,774,Customer Transactions
+HD,"THE HOME DEPOT, INC.",Customer Transactions,775,Customer Transactions
+HD,"THE HOME DEPOT, INC.",Customer transactions - Customer transactions (in millions),776,Customer transactions
+HD,"THE HOME DEPOT, INC.",Geographic Net Sales - Outside the U.S. Net Sales,777,Geographic Net Sales
+HD,"THE HOME DEPOT, INC.",Geographic Net Sales - U.S. Net Sales,778,Geographic Net Sales
+HD,"THE HOME DEPOT, INC.",Geographic Sales - Outside the U.S. Net Sales,779,Geographic Sales
+HD,"THE HOME DEPOT, INC.",Geographic Sales - U.S. Net Sales,780,Geographic Sales
+HD,"THE HOME DEPOT, INC.",Net sales by major product lines - Building Materials Net Sales,781,Net sales by major product lines
+HD,"THE HOME DEPOT, INC.",Net sales by major product lines - Decor Net Sales,782,Net sales by major product lines
+HD,"THE HOME DEPOT, INC.",Net sales by major product lines - Hardlines Net Sales,783,Net sales by major product lines
+HD,"THE HOME DEPOT, INC.",Net sales by products - Products Net Sales,784,Net sales by products
+HD,"THE HOME DEPOT, INC.",Net sales by Services - Services Net Sales,785,Net sales by Services
+HD,"THE HOME DEPOT, INC.",Number of Stores,703,Number of Stores
+HD,"THE HOME DEPOT, INC.",Online Sales,786,Online Sales
+HD,"THE HOME DEPOT, INC.",Online Sales,786,Online Sales
+HD,"THE HOME DEPOT, INC.",ROIC - (ROIC) Return on Invested Capital,787,ROIC
+HD,"THE HOME DEPOT, INC.",ROIC - (ROIC) Return on Invested Capital,787,ROIC
+HD,"THE HOME DEPOT, INC.",Sales per square foot,788,Sales per square foot
+HD,"THE HOME DEPOT, INC.",Segment Sales - Building Materials Net Sales,789,Segment Sales
+HD,"THE HOME DEPOT, INC.",Segment Sales - Decor Net Sales,790,Segment Sales
+HD,"THE HOME DEPOT, INC.",Segment Sales - Hardlines Net Sales,791,Segment Sales
+HD,"THE HOME DEPOT, INC.",Segment Sales - Online Sales,792,Segment Sales
+HD,"THE HOME DEPOT, INC.",Segment Sales - Online Sales,792,Segment Sales
+HD,"THE HOME DEPOT, INC.",Segment Sales - Products Net Sales,793,Segment Sales
+HD,"THE HOME DEPOT, INC.",Segment Sales - Services Net Sales,794,Segment Sales
+LOW,"LOWE'S COMPANIES, INC.",Average Ticket - Change in Average Ticket,767,Average Ticket
+LOW,"LOWE'S COMPANIES, INC.",Comparable Sales - Change in Comparable Sales,770,Comparable Sales
+LOW,"LOWE'S COMPANIES, INC.",Customer Transactions - Total Customer Transactions,795,Customer Transactions
+LOW,"LOWE'S COMPANIES, INC.",Geographical Sales - Canada Sales,796,Geographical Sales
+LOW,"LOWE'S COMPANIES, INC.",Geographical Sales - International Sales,797,Geographical Sales
+LOW,"LOWE'S COMPANIES, INC.",Geographical Sales - United States	,798,Geographical Sales
+LOW,"LOWE'S COMPANIES, INC.",Merchandise Sales - Building Products Sales,799,Merchandise Sales
+LOW,"LOWE'S COMPANIES, INC.",Merchandise Sales - Hardlines Sales,800,Merchandise Sales
+LOW,"LOWE'S COMPANIES, INC.",Merchandise Sales - Home Decor Sales,801,Merchandise Sales
+LOW,"LOWE'S COMPANIES, INC.",Merchandise Sales - Other Sales,802,Merchandise Sales
+LOW,"LOWE'S COMPANIES, INC.",Net sales,803,Net sales
+LOW,"LOWE'S COMPANIES, INC.",Net sales - Other,804,Net sales
+LOW,"LOWE'S COMPANIES, INC.",Net sales - Products,805,Net sales
+LOW,"LOWE'S COMPANIES, INC.",Net sales - Services,806,Net sales
+LOW,"LOWE'S COMPANIES, INC.",Number of Stores - Company-Operated Stores,807,Number of Stores
+LOW,"LOWE'S COMPANIES, INC.",Number of Stores - Dealer-Operated Stores,808,Number of Stores
+LOW,"LOWE'S COMPANIES, INC.",Operations - Home improved in number,809,Operations
+LOW,"LOWE'S COMPANIES, INC.",Operations - Home improved in square feet,810,Operations
+LOW,"LOWE'S COMPANIES, INC.",Sales Floor Square Feet,811,Sales Floor Square Feet
+LOW,"LOWE'S COMPANIES, INC.",Segment sales - Other Sales,812,Segment sales
+LOW,"LOWE'S COMPANIES, INC.",Segment sales - Products Sales,813,Segment sales
+LOW,"LOWE'S COMPANIES, INC.",Segment sales - Services Sales,814,Segment sales
+LOW,"LOWE'S COMPANIES, INC.",Store Size - Average Store Size Selling Square Feet ,815,Store Size
+BJ,BJ's Wholesale Club Holdings Inc,Operating clubs - Total operating clubs,816,Operating clubs
+BJ,BJ's Wholesale Club Holdings Inc,Segment Revenue - Gasoline and Other,817,Segment Revenue
+BJ,BJ's Wholesale Club Holdings Inc,Segment Revenue - General Merchandise & Services,818,Segment Revenue
+BJ,BJ's Wholesale Club Holdings Inc,Segment Revenue - Grocery,819,Segment Revenue
+BJ,BJ's Wholesale Club Holdings Inc,Segment Revenue - Membership fee income,820,Segment Revenue
+BJ,BJ's Wholesale Club Holdings Inc,Segment Revenue - Net Sales,821,Segment Revenue
+CASY,CASEYS GENERAL STORES INC,Fuel - Fuel gallons on a same-store basis,822,Fuel
+CASY,CASEYS GENERAL STORES INC,New Stores - Acquisitions,823,New Stores
+CASY,CASEYS GENERAL STORES INC,New stores - Construction,824,New stores
+CASY,CASEYS GENERAL STORES INC,No. Of Stores,825,No. Of Stores
+CASY,CASEYS GENERAL STORES INC,Sales by Category - Fuel Sales,826,Sales by Category
+CASY,CASEYS GENERAL STORES INC,Sales by Category - Grocery & Other Merchandise Sales,827,Sales by Category
+CASY,CASEYS GENERAL STORES INC,Sales by Category - Other Sales,828,Sales by Category
+CASY,CASEYS GENERAL STORES INC,Sales by Category - Prepared Food & Fountain Sales,829,Sales by Category
+CASY,CASEYS GENERAL STORES INC,Segment Sales - Fuel Sales,830,Segment Sales
+CASY,CASEYS GENERAL STORES INC,Segment Sales - Grocery & Other Merchandise Sales,831,Segment Sales
+CASY,CASEYS GENERAL STORES INC,Segment Sales - Other Sales,684,Segment Sales
+CASY,CASEYS GENERAL STORES INC,Segment Sales - Prepared Food & Fountain Sales,832,Segment Sales
+COST,Costco Wholesale Corporation,Cardholders - Total Cardholders,833,Cardholders
+COST,Costco Wholesale Corporation,Geographic Revenue - Revenue from Canadian Operations,834,Geographic Revenue
+COST,Costco Wholesale Corporation,Geographic Revenue - Revenue from Other International Operations,835,Geographic Revenue
+COST,Costco Wholesale Corporation,Geographic Revenue - Revenue from United States Operations,836,Geographic Revenue
+COST,Costco Wholesale Corporation,Members - Household Members,837,Members
+COST,Costco Wholesale Corporation,Membership Fee Income,838,Membership Fee Income
+COST,Costco Wholesale Corporation,Renewal Rate,839,Renewal Rate
+COST,Costco Wholesale Corporation,Segment Revenue - Membership fees revenue,840,Segment Revenue
+COST,Costco Wholesale Corporation,Segment Revenue - Net sales,620,Segment Revenue
+COST,Costco Wholesale Corporation,Sub-segment Revenue - Net sales from Ancillary,841,Sub-segment Revenue
+COST,Costco Wholesale Corporation,Sub-segment Revenue - Net sales from Ancillary and other,842,Sub-segment Revenue
+COST,Costco Wholesale Corporation,Sub-segment Revenue - Net sales from Food and Sundries,843,Sub-segment Revenue
+COST,Costco Wholesale Corporation,Sub-segment Revenue - Net sales from Fresh Foods,844,Sub-segment Revenue
+COST,Costco Wholesale Corporation,Sub-segment Revenue - Net sales from Hardlines,845,Sub-segment Revenue
+COST,Costco Wholesale Corporation,Sub-segment Revenue - Net sales from Softlines,846,Sub-segment Revenue
+COST,Costco Wholesale Corporation,Warehouses - No. of Warehouses,847,Warehouses
+TGT,TARGET CORP,Digital Comparable Sales,848,Digital Comparable Sales
+TGT,TARGET CORP,Other - Other Revenue,849,Other
+TGT,TARGET CORP,Product Net Sales - Target Credit Card,850,Product Net Sales
+TGT,TARGET CORP,Product Net Sales - Target Debit Card,851,Product Net Sales
+TGT,TARGET CORP,Revenue from other sources - Apparel and accessories,852,Revenue from other sources
+TGT,TARGET CORP,Revenue from other sources - Beauty and household essentials,853,Revenue from other sources
+TGT,TARGET CORP,Revenue from other sources - Credit card profit sharing,854,Revenue from other sources
+TGT,TARGET CORP,Revenue from other sources - Food and beverage,855,Revenue from other sources
+TGT,TARGET CORP,Revenue from other sources - Hardlines,856,Revenue from other sources
+TGT,TARGET CORP,Revenue from other sources - Home furnishings and decor,857,Revenue from other sources
+TGT,TARGET CORP,Revenue from other sources - Other Revenue,858,Revenue from other sources
+TGT,TARGET CORP,Revenue from other sources - Others,859,Revenue from other sources
+TGT,TARGET CORP,Same-day services,860,Same-day services
+TGT,TARGET CORP,Segment Net Sales - Comparable sales growth in Signature Categories,861,Segment Net Sales
+TGT,TARGET CORP,Segment Net Sales - Digital comparable sales,862,Segment Net Sales
+TGT,TARGET CORP,Segment Net Sales - Digitally originated comparable sales change,863,Segment Net Sales
+TGT,TARGET CORP,Segment Net Sales - Sales by Digitally originated,864,Segment Net Sales
+TGT,TARGET CORP,Segment Net Sales - Sales by Stores Originated,865,Segment Net Sales
+TGT,TARGET CORP,"Segment Net Sales - Same-day services (Order Pick Up, Drive Up and Shipt)",866,Segment Net Sales
+TGT,TARGET CORP,"Segment Net Sales - Same-day services (Order Pick Up, Drive Up and Shipt)",866,Segment Net Sales
+TGT,TARGET CORP,Segment Net Sales - Stores originated channel comparable sales,867,Segment Net Sales
+TGT,TARGET CORP,Segment Net Sales - Stores originated channel comparable sales change,868,Segment Net Sales
+TGT,TARGET CORP,Segment Net Sales - Stores originated channel comparable sales change,868,Segment Net Sales
+TGT,TARGET CORP,Store Comparable Sales,869,Store Comparable Sales
+WMT,Walmart Inc.,Global Segment Sales - Global eCommerce sales,870,Global Segment Sales
+WMT,Walmart Inc.,Member Subscription - Sam's Club Member Count,871,Member Subscription
+WMT,Walmart Inc.,Other - Membership and other income,872,Other
+WMT,Walmart Inc.,Segment Sales - Sam's Club eCommerce sales,873,Segment Sales
+WMT,Walmart Inc.,Segment Sales - Sam's Club eCommerce sales,873,Segment Sales
+WMT,Walmart Inc.,Segment Sales - Sam's Club comp sales with fuel,874,Segment Sales
+WMT,Walmart Inc.,Segment Sales - Sam's Club comp sales with fuel,874,Segment Sales
+WMT,Walmart Inc.,Segment Sales - Sam's Club comp sales with fuel,874,Segment Sales
+WMT,Walmart Inc.,Segment Sales - Sam's Club comp sales without fuel,875,Segment Sales
+WMT,Walmart Inc.,Segment Sales - Sam's Club comp sales without fuel,875,Segment Sales
+WMT,Walmart Inc.,Segment Sales - Sam's Club Sales,876,Segment Sales
+WMT,Walmart Inc.,Segment Sales - Walmart International Sales,877,Segment Sales
+WMT,Walmart Inc.,"Segment Sales - Walmart International Sales, Excluding currency",878,Segment Sales
+WMT,Walmart Inc.,"Segment Sales - Walmart International Sales, Excluding currency",878,Segment Sales
+WMT,Walmart Inc.,Segment Sales - Walmart U.S Sales,879,Segment Sales
+WMT,Walmart Inc.,Segment Sales - Walmart U.S. comp sales with fuel,880,Segment Sales
+WMT,Walmart Inc.,Segment Sales - Walmart U.S. comp sales with fuel,880,Segment Sales
+WMT,Walmart Inc.,Segment Sales - Walmart U.S. comp sales with fuel,880,Segment Sales
+WMT,Walmart Inc.,Segment Sales - Walmart U.S. comp sales without fuel,881,Segment Sales
+WMT,Walmart Inc.,Segment Sales - Walmart U.S. comp sales without fuel,881,Segment Sales
+WMT,Walmart Inc.,Segment Sales - Walmart U.S. eCommerce sales,882,Segment Sales
+WMT,Walmart Inc.,Segment Sales - Walmart U.S. eCommerce sales,882,Segment Sales
+WMT,Walmart Inc.,Store Count - Total Store Count,170,Store Count
+WMT,Walmart Inc.,Stores - New Store Count,883,Stores
+ACVA,ACV Auctions Inc,Marketplace - Marketplace GMV,884,Marketplace
+ACVA,ACV Auctions Inc,Marketplace - Marketplace Units,885,Marketplace
+ACVA,ACV Auctions Inc,Segment Revenue - Customer assurance revenue,886,Segment Revenue
+ACVA,ACV Auctions Inc,Segment Revenue - Marketplace and service revenue,887,Segment Revenue
+AMZN,"AMAZON.COM, INC.",Amazon Web Services - AWS Availability Zones,888,Amazon Web Services
+AMZN,"AMAZON.COM, INC.",Amazon Web Services - Geographic Regions,889,Amazon Web Services
+AMZN,"AMAZON.COM, INC.",Contact center - Contact center interactions,890,Contact center
+AMZN,"AMAZON.COM, INC.",Holiday Season Sales,891,Holiday Season Sales
+AMZN,"AMAZON.COM, INC.",Prime Day Sales,892,Prime Day Sales
+AMZN,"AMAZON.COM, INC.",Product Net Sales - AWS,893,Product Net Sales
+AMZN,"AMAZON.COM, INC.",Product Net Sales - Online stores,894,Product Net Sales
+AMZN,"AMAZON.COM, INC.",Product Net Sales - Other,895,Product Net Sales
+AMZN,"AMAZON.COM, INC.",Product Net Sales - Physical stores,896,Product Net Sales
+AMZN,"AMAZON.COM, INC.",Product Net Sales - Retail products,897,Product Net Sales
+AMZN,"AMAZON.COM, INC.",Product Net Sales - Retail subscription services,898,Product Net Sales
+AMZN,"AMAZON.COM, INC.",Product Net Sales - Retail third-party seller services,899,Product Net Sales
+AMZN,"AMAZON.COM, INC.",Product Net Sales - Subscription services,900,Product Net Sales
+AMZN,"AMAZON.COM, INC.",Product Net Sales - Third-party seller services,901,Product Net Sales
+AMZN,"AMAZON.COM, INC.",Seasonal - Grocery Delivery,902,Seasonal
+AMZN,"AMAZON.COM, INC.",Seasonal - Incremental COVID-19 Costs,903,Seasonal
+AMZN,"AMAZON.COM, INC.",Seasonal - Shipment Zero,904,Seasonal
+AMZN,"AMAZON.COM, INC.",Segment Net Sales - AWS Segment,905,Segment Net Sales
+AMZN,"AMAZON.COM, INC.",Segment Net Sales - International Segment,906,Segment Net Sales
+AMZN,"AMAZON.COM, INC.",Segment Net Sales - North America Segment,907,Segment Net Sales
+BARK,The Original BARK Company,Order Value - Average Order Value,908,Order Value
+BARK,The Original BARK Company,Revenue by Category - Commerce,909,Revenue by Category
+BARK,The Original BARK Company,Revenue by Category - Direct to Consumer,910,Revenue by Category
+BARK,The Original BARK Company,Revenue by Category - Other,911,Revenue by Category
+BARK,The Original BARK Company,Subscriptions - Active Subscriptions,912,Subscriptions
+BARK,The Original BARK Company,Subscriptions - Average Monthly Subscription Shipment Churn,913,Subscriptions
+BARK,The Original BARK Company,Subscriptions  - New Subscriptions ,914,Subscriptions 
+CARG,CarGurus Inc,Average monthly unique users - International,915,Average monthly unique users
+CARG,CarGurus Inc,Average monthly unique users - U.S.,916,Average monthly unique users
+CARG,CarGurus Inc,Revenue by geography - International,917,Revenue by geography
+CARG,CarGurus Inc,Revenue by geography - United States,918,Revenue by geography
+CARG,CarGurus Inc,Revenue by Source - Marketplace subscription revenue,919,Revenue by Source
+CARG,CarGurus Inc,Revenue by Source - Other revenue,920,Revenue by Source
+CARG,CarGurus Inc,Total paying dealers,921,Total paying dealers
+CARS,Cars.com Inc,Dealer Customers,922,Dealer Customers
+CARS,Cars.com Inc,Revenues by Major products and services - Display advertising,923,Revenues by Major products and services
+CARS,Cars.com Inc,Revenues by Major products and services - Other,924,Revenues by Major products and services
+CARS,Cars.com Inc,Revenues by Major products and services - Pay per lead,925,Revenues by Major products and services
+CARS,Cars.com Inc,Revenues by Major products and services - Subscription advertising and digital solutions,926,Revenues by Major products and services
+CARS,Cars.com Inc,Segment revenues - Dealer,927,Segment revenues
+CARS,Cars.com Inc,Segment revenues - OEM and National,928,Segment revenues
+CARS,Cars.com Inc,Segment revenues - Other,929,Segment revenues
+CARS,Cars.com Inc,Unique Visitors - Average Monthly Unique Visitors,930,Unique Visitors
+CARS,Cars.com Inc,Website customers - Growth in website customers,931,Website customers
+CHWY,Chewy Inc,Customers - Active customers,932,Customers
+CHWY,Chewy Inc,Sales	 - Autoship customer sales	,933,Sales	
+CHWY,Chewy Inc,Sales	 - Autoship customer sales,934,Sales	
+CHWY,Chewy Inc,Sales	 - Autoship customer sales as a percentage of net sales,935,Sales	
+CHWY,Chewy Inc,Sales	 - Net sales per active customer,936,Sales	
+CHWY,Chewy Inc,Segment Revenue - Consumables Revenue,937,Segment Revenue
+CHWY,Chewy Inc,Segment Revenue - Hardgoods Revenue,938,Segment Revenue
+CHWY,Chewy Inc,Segment Revenue - Other Revenue,939,Segment Revenue
+DIBS,"1stdibs.com, Inc.",Active Buyers,940,Active Buyers
+DIBS,"1stdibs.com, Inc.",Gross merchandise value,941,Gross merchandise value
+DIBS,"1stdibs.com, Inc.",Number of Orders,942,Number of Orders
+DIBS,"1stdibs.com, Inc.",Revenue by Segment - Other services,943,Revenue by Segment
+DIBS,"1stdibs.com, Inc.",Revenue by Segment - Seller marketplace services,944,Revenue by Segment
+EBAY,eBay Inc.,Annual active buyers,945,Annual active buyers
+EBAY,eBay Inc.,Annual active sellers,946,Annual active sellers
+EBAY,eBay Inc.,Geographic Revenues - Germany Revenues,947,Geographic Revenues
+EBAY,eBay Inc.,Geographic Revenues - Rest of world Revenues,948,Geographic Revenues
+EBAY,eBay Inc.,Geographic Revenues - South Korea Revenues,949,Geographic Revenues
+EBAY,eBay Inc.,Geographic Revenues - Total Geographic Revenues,950,Geographic Revenues
+EBAY,eBay Inc.,Geographic Revenues - U.S. Revenues,951,Geographic Revenues
+EBAY,eBay Inc.,Geographic Revenues - United Kingdom Revenues,952,Geographic Revenues
+EBAY,eBay Inc.,GMV - Gross Merchandise Volume,953,GMV
+EBAY,eBay Inc.,Segment Revenues - Classifieds / Other Revenues,954,Segment Revenues
+EBAY,eBay Inc.,Segment Revenues - Elimination of inter-segment net Revenues,955,Segment Revenues
+EBAY,eBay Inc.,Segment Revenues - Marketing services and other revenues,956,Segment Revenues
+EBAY,eBay Inc.,Segment Revenues - Marketing services and other revenues Classifieds,957,Segment Revenues
+EBAY,eBay Inc.,Segment Revenues - Marketing services and other revenues from Marketplace,958,Segment Revenues
+EBAY,eBay Inc.,"Segment Revenues - Marketing services and other revenues StubHub, Corporate and other",959,Segment Revenues
+EBAY,eBay Inc.,Segment Revenues - Marketplace Revenues,960,Segment Revenues
+EBAY,eBay Inc.,Segment Revenues - Net transaction revenues,961,Segment Revenues
+EBAY,eBay Inc.,Segment Revenues - Net transaction revenues from Marketplace,962,Segment Revenues
+EBAY,eBay Inc.,Segment Revenues - Net transaction revenues from StubHub,963,Segment Revenues
+EBAY,eBay Inc.,Segment Revenues - Total net revenues,964,Segment Revenues
+EBAY,eBay Inc.,Segment Revenues - Total Segment Revenues,965,Segment Revenues
+EBAY,eBay Inc.,Take rate,966,Take rate
+ETSY,ETSY INC,Active Buyers,940,Active Buyers
+ETSY,ETSY INC,Active Buyers,940,Active Buyers
+ETSY,ETSY INC,Active Sellers,967,Active Sellers
+ETSY,ETSY INC,Active Sellers,967,Active Sellers
+ETSY,ETSY INC,Gross merchandise sales,968,Gross Merchandise Sales
+ETSY,ETSY INC,International Gross Merchandise Sales,969,International Gross Merchandise Sales
+ETSY,ETSY INC,Mobile Gross Merchandise Sales,970,Mobile Gross Merchandise Sales
+ETSY,ETSY INC,Segment Revenue - Gross merchandise sales,971,Segment Revenue
+ETSY,ETSY INC,Segment Revenue - Marketplace revenue,972,Segment Revenue
+ETSY,ETSY INC,Segment Revenue - Marketplace Rvenue,973,Segment Revenue
+ETSY,ETSY INC,Segment Revenue - Services Revenue,974,Segment Revenue
+FIGS,Figs Inc,Active customers,975,Active customers
+FIGS,Figs Inc,Active customers,975,Active customers
+FIGS,Figs Inc,Average order value,976,Average order value
+FIGS,Figs Inc,Geographical Revenue - Rest of the world,977,Geographical Revenue
+FIGS,Figs Inc,Geographical Revenue - United States,978,Geographical Revenue
+FIGS,Figs Inc,Revenue Segment - Non-scrubs,979,Revenue Segment
+FIGS,Figs Inc,Revenue Segment - Scrubs,980,Revenue Segment
+FLWS,1-800-Flowers.com Inc,Revenues by Channel - E-commerce Revenue,981,Revenues by Channel
+FLWS,1-800-Flowers.com Inc,Revenues by Channel - E-commerce Revenue (combined online and telephonic) ,982,Revenues by Channel
+FLWS,1-800-Flowers.com Inc,Revenues by Channel - Other Revenue,983,Revenues by Channel
+FLWS,1-800-Flowers.com Inc,Segment Revenue - 1-800-Flowers.com Consumer Floral Revenue,984,Segment Revenue
+FLWS,1-800-Flowers.com Inc,Segment Revenue - BloomNet Revenue,985,Segment Revenue
+FLWS,1-800-Flowers.com Inc,Segment Revenue - BloomNet Wire Service Revenue,986,Segment Revenue
+FLWS,1-800-Flowers.com Inc,Segment Revenue - Consumer Floral & Gifts Revenue,987,Segment Revenue
+FLWS,1-800-Flowers.com Inc,Segment Revenue - Corporate Revenue,10,Segment Revenue
+FLWS,1-800-Flowers.com Inc,Segment Revenue - Gourmet Food & Gift Baskets Revenue,988,Segment Revenue
+FLWS,1-800-Flowers.com Inc,Segment Revenue - Intercompany eliminations,989,Segment Revenue
+GRPN,"Groupon, Inc.",Active customers for the trailing twelve months,990,active customers for the trailing twelve months
+GRPN,"Groupon, Inc.",Gross billings,991,Gross billings
+GRPN,"Groupon, Inc.",Revenue by Type - Product,992,Revenue by Type
+GRPN,"Groupon, Inc.",Revenue by Type - Service,993,Revenue by Type
+GRPN,"Groupon, Inc.",Total units - Total units of International,994,Total units
+GRPN,"Groupon, Inc.",Total units - Total units of North America,995,Total units
+GRPN,"Groupon, Inc.",TTM Active customers,996,TTM Active customers
+GRPN,"Groupon, Inc.",TTM Active customers - TTM Active customers of International,997,TTM Active customers
+GRPN,"Groupon, Inc.",TTM Active customers - TTM Active customers of North America,998,TTM Active customers
+OSTK,Overstock.com Inc.,Customers - Active customers,932,Customers
+OSTK,Overstock.com Inc.,Orders - Average order value,999,Orders
+OSTK,Overstock.com Inc.,Orders - Active customers,1000,Orders
+OSTK,Overstock.com Inc.,Orders - Mobile Device,1001,Orders
+OSTK,Overstock.com Inc.,Orders - Orders delivered,1002,Orders
+OSTK,Overstock.com Inc.,Orders - Orders delivered,1002,Orders
+OSTK,Overstock.com Inc.,Orders - Orders per active customer,1003,Orders
+OSTK,Overstock.com Inc.,Orders - Orders per active customer,1003,Orders
+POSH,Poshmark Inc,Active Buyers,940,Active Buyers
+POSH,Poshmark Inc,Active Buyers,940,Active Buyers
+POSH,Poshmark Inc,Gross Merchandise Value (GMV),1004,Gross Merchandise Value (GMV)
+POSH,Poshmark Inc,Gross Merchandise Value (GMV),1004,Gross Merchandise Value (GMV)
+PRTS,CarParts.com Inc,Revenue by Product type - Branded Hard Parts,1005,Revenue by Product type
+PRTS,CarParts.com Inc,Revenue by Product type - Branded Performance,1006,Revenue by Product type
+PRTS,CarParts.com Inc,Revenue by Product type - Branded Replacement Parts,1007,Revenue by Product type
+PRTS,CarParts.com Inc,Revenue by Product type - House Brands Hard Parts,1008,Revenue by Product type
+PRTS,CarParts.com Inc,Revenue by Product type - House Brands Performance,1009,Revenue by Product type
+PRTS,CarParts.com Inc,Revenue by Product type - House Brands Replacement Parts,1010,Revenue by Product type
+QRTEA,"Qurate Retail, Inc.",Annual Purchases - Existing Customers,1011,Annual Purchases
+QRTEA,"Qurate Retail, Inc.",Money Spent - Existing Customers,1012,Money Spent
+QRTEA,"Qurate Retail, Inc.",Number of Customers,1013,Number of Customers
+QRTEA,"Qurate Retail, Inc.",Product Revenue - Accessories,1014,Product Revenue
+QRTEA,"Qurate Retail, Inc.",Product Revenue - Apparel,1015,Product Revenue
+QRTEA,"Qurate Retail, Inc.",Product Revenue - Beauty,1016,Product Revenue
+QRTEA,"Qurate Retail, Inc.",Product Revenue - Electronics,1017,Product Revenue
+QRTEA,"Qurate Retail, Inc.",Product Revenue - Home,1018,Product Revenue
+QRTEA,"Qurate Retail, Inc.",Product Revenue - Jewelry,1019,Product Revenue
+QRTEA,"Qurate Retail, Inc.",Product Revenue - Other revenue,1020,Product Revenue
+QRTEA,"Qurate Retail, Inc.",Segment Revenue - Corp and other,1021,Segment Revenue
+QRTEA,"Qurate Retail, Inc.",Segment Revenue - QVC Int'l,1022,Segment Revenue
+QRTEA,"Qurate Retail, Inc.",Segment Revenue - QxH,1023,Segment Revenue
+QRTEA,"Qurate Retail, Inc.",Segment Revenue - Zulily,1024,Segment Revenue
+REAL,The Realreal Inc,Active buyers,1025,Active buyers
+REAL,The Realreal Inc,AOV - Average order value,1026,AOV
+REAL,The Realreal Inc,Gross Merchandise Value,1027,Gross Merchandise Value
+REAL,The Realreal Inc,Orders reached,1028,Orders reached
+REAL,The Realreal Inc,Revenue - Consignment and service revenue,1029,Revenue
+REAL,The Realreal Inc,Revenue - Direct revenue,1030,Revenue
+ROVR,"Rover Group, Inc",Gross bookings value,1031,Gross bookings value
+ROVR,"Rover Group, Inc",New bookings,1032,New bookings
+ROVR,"Rover Group, Inc",Repeat bookings,1033,Repeat bookings
+ROVR,"Rover Group, Inc",Segment Revenue - New bookings Revenue,1034,Segment Revenue
+ROVR,"Rover Group, Inc",Segment Revenue - Repeat Bookings Revenue,1035,Segment Revenue
+ROVR,"Rover Group, Inc",Total Bookings  - Total Bookings,1036,Total Bookings 
+RVLV,Revolve Group Inc,Active customers,975,Active customers
+RVLV,Revolve Group Inc,Average order value,976,Average order value
+RVLV,Revolve Group Inc,Geographic Revenue - Revenue from Rest of the world,1037,Geographic Revenue
+RVLV,Revolve Group Inc,Geographic Revenue - Revenue from United States,1,Geographic Revenue
+RVLV,Revolve Group Inc,Revenue by by Product Category - Beauty Product Revenue,1038,Revenue by by Product Category
+RVLV,Revolve Group Inc,Revenue by by Product Category - Dresses Revenue,1039,Revenue by by Product Category
+RVLV,Revolve Group Inc,Revenue by by Product Category - Fashion Apparel Product Revenue,1040,Revenue by by Product Category
+RVLV,Revolve Group Inc,"Revenue by by Product Category - Handbags, Shoes and Accessories Revenue",1041,Revenue by by Product Category
+RVLV,Revolve Group Inc,Revenue by by Product Category - Other Product Revenue,1042,Revenue by by Product Category
+RVLV,Revolve Group Inc,Segment Revenue - FORWARD Revenue,1043,Segment Revenue
+RVLV,Revolve Group Inc,Segment Revenue - REVOLVE Revenue,1044,Segment Revenue
+RVLV,Revolve Group Inc,Total orders placed,1045,Total orders placed
+SFIX,Stitch Fix Inc,Active clients,1046,Active clients
+SFIX,Stitch Fix Inc,Active clients - Net revenue per active client,1047,Active clients
+SFIX,Stitch Fix Inc,Key metrics - Net revenue,1048,Key metrics
+SFIX,Stitch Fix Inc,Net revenue per active client,1049,Net revenue per active client
+TDUP,ThredUp Inc,Active Buyers,940,Active Buyers
+TDUP,ThredUp Inc,Active orders,1050,Active orders
+TDUP,ThredUp Inc,Segment Revenue - Consignment,1051,Segment Revenue
+TDUP,ThredUp Inc,Segment Revenue - Product,1052,Segment Revenue
+W,WAYFAIR INC,Active customers,975,Active customers
+W,WAYFAIR INC,Average order value ,1053,Average order value 
+W,WAYFAIR INC,LTM Net Revenue - LTM Net Revenue Per Active Customer,1054,LTM Net Revenue
+W,WAYFAIR INC,Orders delivered ,1055,Orders delivered 
+W,WAYFAIR INC,Orders delivered  - orders delivered via a mobile device,1056,Orders delivered 
+W,WAYFAIR INC,Orders per customer,1057,Orders per customer
+W,WAYFAIR INC,Orders placed by repeat customers,1058,Orders placed by repeat customers
+W,WAYFAIR INC,Orders placed via a mobile device,1059,Orders placed via a mobile device
+W,WAYFAIR INC,Repeat customers,1060,Repeat customers
+W,WAYFAIR INC,Repeat customers,1060,Repeat customers
+W,WAYFAIR INC,Repeat customers orders,1061,Repeat customers orders
+W,WAYFAIR INC,Revenue by type - International net revenue,1062,Revenue by type
+W,WAYFAIR INC,Revenue by type - U.S. net revenue,1063,Revenue by type
+WISH,ContextLogic Inc,Active users - monthly active users,1064,Active users
+WISH,ContextLogic Inc,Countries - number of countries,1065,Countries
+WISH,ContextLogic Inc,Revenue by type - Logistics Revenue,1066,Revenue by type
+WISH,ContextLogic Inc,Revenue by type - Marketplace Revenue,1067,Revenue by type
+WISH,ContextLogic Inc,Revenue Per Active Buyer,1068,Revenue Per Active Buyer
+AAN,"The Aaron’s Company, Inc",Number stores - Number of Company-operated stores,1069,Number stores
+AAN,"The Aaron’s Company, Inc",Number stores - Number of franchised stores,1070,Number stores
+AAN,"The Aaron’s Company, Inc",Same Store Revenues,1071,Same Store Revenues
+AAN,"The Aaron’s Company, Inc",Segment revenues - Franchise Royalties and Fees,1072,Segment revenues
+AAN,"The Aaron’s Company, Inc",Segment revenues - Lease and Retail Revenues,1073,Segment revenues
+AAN,"The Aaron’s Company, Inc",Segment revenues - Non-Retail Sales,1074,Segment revenues
+AAN,"The Aaron’s Company, Inc",Segment revenues - Other,929,Segment revenues
+AAN,"The Aaron’s Company, Inc",Segment revenues - Retail Sales,1075,Segment revenues
+ASO,"Academy Sports & Outdoors, Inc.",No. of Stores,1076,No. of Stores
+ASO,"Academy Sports & Outdoors, Inc.",Revenue by Category - Apparel Revenue,1077,Revenue by Category
+ASO,"Academy Sports & Outdoors, Inc.",Revenue by Category - Footwear Revenue,1078,Revenue by Category
+ASO,"Academy Sports & Outdoors, Inc.",Revenue by Category - Other Sales Revenue,1079,Revenue by Category
+ASO,"Academy Sports & Outdoors, Inc.",Revenue by Category - Outdoors Revenue,1080,Revenue by Category
+ASO,"Academy Sports & Outdoors, Inc.",Revenue by Category - Sports and Recreation Revenue,1081,Revenue by Category
+BBY,"BEST BUY CO., INC.",Comparable sales - Domestic comparable online sales,1082,Comparable sales
+BBY,"BEST BUY CO., INC.",Comparable sales - Domestic comparable sales,1083,Comparable sales
+BBY,"BEST BUY CO., INC.",Comparable sales - Enterprise comparable sales,1084,Comparable sales
+BBY,"BEST BUY CO., INC.",Comparable sales - International comparable sales,1085,Comparable sales
+BBY,"BEST BUY CO., INC.",Geographic Revenue - Domestic Revenue,1086,Geographic Revenue
+BBY,"BEST BUY CO., INC.",Geographic Revenue - International Revenue,1087,Geographic Revenue
+BBY,"BEST BUY CO., INC.",Geographic Segment Revenue - Domestic Revenue from Appliances,1088,Geographic Segment Revenue
+BBY,"BEST BUY CO., INC.",Geographic Segment Revenue - Domestic Revenue from Appliances,1088,Geographic Segment Revenue
+BBY,"BEST BUY CO., INC.",Geographic Segment Revenue - Domestic Revenue from Computing and  Phones,1089,Geographic Segment Revenue
+BBY,"BEST BUY CO., INC.",Geographic Segment Revenue - Domestic Revenue from Computing and Mobile Phones,1090,Geographic Segment Revenue
+BBY,"BEST BUY CO., INC.",Geographic Segment Revenue - Domestic Revenue from Computing and Mobile Phones,1090,Geographic Segment Revenue
+BBY,"BEST BUY CO., INC.",Geographic Segment Revenue - Domestic Revenue from Consumer Electronics,1091,Geographic Segment Revenue
+BBY,"BEST BUY CO., INC.",Geographic Segment Revenue - Domestic Revenue from Consumer Electronics,1091,Geographic Segment Revenue
+BBY,"BEST BUY CO., INC.",Geographic Segment Revenue - Domestic Revenue from Entertainment,1092,Geographic Segment Revenue
+BBY,"BEST BUY CO., INC.",Geographic Segment Revenue - Domestic Revenue from Entertainment,1092,Geographic Segment Revenue
+BBY,"BEST BUY CO., INC.",Geographic Segment Revenue - Domestic Revenue from Other,1093,Geographic Segment Revenue
+BBY,"BEST BUY CO., INC.",Geographic Segment Revenue - Domestic Revenue from Other,1093,Geographic Segment Revenue
+BBY,"BEST BUY CO., INC.",Geographic Segment Revenue - Domestic Revenue from Services,1094,Geographic Segment Revenue
+BBY,"BEST BUY CO., INC.",Geographic Segment Revenue - Domestic Revenue from Services,1094,Geographic Segment Revenue
+BBY,"BEST BUY CO., INC.",Geographic Segment Revenue - International Revenue from Appliances,1095,Geographic Segment Revenue
+BBY,"BEST BUY CO., INC.",Geographic Segment Revenue - International Revenue from Appliances,1095,Geographic Segment Revenue
+BBY,"BEST BUY CO., INC.",Geographic Segment Revenue - International Revenue from Computing and  Phones,1096,Geographic Segment Revenue
+BBY,"BEST BUY CO., INC.",Geographic Segment Revenue - International Revenue from Computing and Mobile Phones,1097,Geographic Segment Revenue
+BBY,"BEST BUY CO., INC.",Geographic Segment Revenue - International Revenue from Computing and Mobile Phones,1097,Geographic Segment Revenue
+BBY,"BEST BUY CO., INC.",Geographic Segment Revenue - International Revenue from Consumer Electronics,1098,Geographic Segment Revenue
+BBY,"BEST BUY CO., INC.",Geographic Segment Revenue - International Revenue from Consumer Electronics,1098,Geographic Segment Revenue
+BBY,"BEST BUY CO., INC.",Geographic Segment Revenue - International Revenue from Entertainment,1099,Geographic Segment Revenue
+BBY,"BEST BUY CO., INC.",Geographic Segment Revenue - International Revenue from Entertainment,1099,Geographic Segment Revenue
+BBY,"BEST BUY CO., INC.",Geographic Segment Revenue - International Revenue from Other,1100,Geographic Segment Revenue
+BBY,"BEST BUY CO., INC.",Geographic Segment Revenue - International Revenue from Other,1100,Geographic Segment Revenue
+BBY,"BEST BUY CO., INC.",Geographic Segment Revenue - International Revenue from Services,1101,Geographic Segment Revenue
+BBY,"BEST BUY CO., INC.",Geographic Segment Revenue - International Revenue from Services,1101,Geographic Segment Revenue
+BBY,"BEST BUY CO., INC.",Revenue by Product - Appliances,1102,Revenue by Product
+BBY,"BEST BUY CO., INC.",Revenue by Product - Computing and Mobile Phones,1103,Revenue by Product
+BBY,"BEST BUY CO., INC.",Revenue by Product - Consumer Electronics,1104,Revenue by Product
+BBY,"BEST BUY CO., INC.",Revenue by Product - Entertainment,1105,Revenue by Product
+BBY,"BEST BUY CO., INC.",Revenue by Product - Other,1106,Revenue by Product
+BBY,"BEST BUY CO., INC.",Revenue by Product - Services,1107,Revenue by Product
+BBY,"BEST BUY CO., INC.",Segment Revenue - Domestic Revenue,1108,Segment Revenue
+BBY,"BEST BUY CO., INC.",Segment Revenue - International Revenue,230,Segment Revenue
+BOOT,"Boot Barn Holdings, Inc.",Net Sales by Major Merchandise Categories - Apparel,1109,Net Sales by Major Merchandise Categories
+BOOT,"Boot Barn Holdings, Inc.",Net Sales by Major Merchandise Categories - Footwear,1110,Net Sales by Major Merchandise Categories
+BOOT,"Boot Barn Holdings, Inc.","Net Sales by Major Merchandise Categories - Hats, accessories and other",1111,Net Sales by Major Merchandise Categories
+BOOT,"Boot Barn Holdings, Inc.",Segment Net Sales - E-commerce,1112,Segment Net Sales
+BOOT,"Boot Barn Holdings, Inc.",Segment Net Sales - E-commerce Revenue,1113,Segment Net Sales
+BOOT,"Boot Barn Holdings, Inc.",Segment Net Sales - Retail Stores Revenue,1114,Segment Net Sales
+BOOT,"Boot Barn Holdings, Inc.",Segment Net Sales - Stores,1115,Segment Net Sales
+BOOT,"Boot Barn Holdings, Inc.",Stores - new stores,1116,Stores
+BOOT,"Boot Barn Holdings, Inc.",Stores - store closed,1117,Stores
+CONN,Conn's Inc,Segment Revenue - Finance charges and other,1118,Segment Revenue
+CONN,Conn's Inc,Segment Revenue - Other Revenue,939,Segment Revenue
+CONN,Conn's Inc,Segment Revenue - Product sales,1119,Segment Revenue
+CONN,Conn's Inc,Segment Revenue - Repair service agreement commissions,1120,Segment Revenue
+CONN,Conn's Inc,Segment Revenue - Service revenues,312,Segment Revenue
+CONN,Conn's Inc,Sub-Segment Revenue - Consumer electronics - Product sales,1121,Sub-Segment Revenue
+CONN,Conn's Inc,Sub-Segment Revenue - Furniture and mattress - Product sales,1122,Sub-Segment Revenue
+CONN,Conn's Inc,Sub-Segment Revenue - Home appliance - Product sales,1123,Sub-Segment Revenue
+CONN,Conn's Inc,Sub-Segment Revenue - Home office - Product sales,1124,Sub-Segment Revenue
+CONN,Conn's Inc,Sub-Segment Revenue - Other - Product sales,1125,Sub-Segment Revenue
+DBI,Designer Brands Inc,Revenue by Type - External Customer Sales,1126,Revenue by Type
+DBI,Designer Brands Inc,Revenue by Type - Intersegment Sales,1127,Revenue by Type
+DBI,Designer Brands Inc,Segment Revenue - Brand Portfolio,1128,Segment Revenue
+DBI,Designer Brands Inc,Segment Revenue - Canada Retail,1129,Segment Revenue
+DBI,Designer Brands Inc,Segment Revenue - Elimination of intersegment net Revenue,1130,Segment Revenue
+DBI,Designer Brands Inc,Segment Revenue - Other Revenue,939,Segment Revenue
+DBI,Designer Brands Inc,Segment Revenue - U.S. Retail Revenue,1131,Segment Revenue
+DBI,Designer Brands Inc,Stores - Total number of stores,1132,Stores
+DG,DOLLAR GENERAL CORPORATION,Segment Net Sales - Apparel Sales,1133,Segment Net Sales
+DG,DOLLAR GENERAL CORPORATION,Segment Net Sales - Consumables Sales,1134,Segment Net Sales
+DG,DOLLAR GENERAL CORPORATION,Segment Net Sales - Home products Sales,1135,Segment Net Sales
+DG,DOLLAR GENERAL CORPORATION,Segment Net Sales - Seasonal Sales,1136,Segment Net Sales
+DG,DOLLAR GENERAL CORPORATION,Store count - Ending Store count,1137,Store count
+DG,DOLLAR GENERAL CORPORATION,Store count - New store openings,1138,Store count
+DG,DOLLAR GENERAL CORPORATION,Store count - Total selling square footage,1139,Store count
+DKS,"DICK'S SPORTING GOODS, INC.",Net Sales - E- Commerce Sales,1140,Net Sales
+DKS,"DICK'S SPORTING GOODS, INC.",Net Sales - E- Commerce Sales,1140,Net Sales
+DKS,"DICK'S SPORTING GOODS, INC.",Net Sales - Same Store Sales,1141,Net Sales
+DKS,"DICK'S SPORTING GOODS, INC.",Relocated stores - DICK'S Sporting Goods,1142,Relocated stores
+DKS,"DICK'S SPORTING GOODS, INC.",Relocated stores - Specialty Concept Stores,1143,Relocated stores
+DKS,"DICK'S SPORTING GOODS, INC.",Revenue by Net Sales - Sales,1144,Revenue by Net Sales
+DKS,"DICK'S SPORTING GOODS, INC.",Square Footage - DICK'S Sporting Goods,1145,Square Footage
+DKS,"DICK'S SPORTING GOODS, INC.",Square Footage - Specialty Concept Stores,1146,Square Footage
+DKS,"DICK'S SPORTING GOODS, INC.",Stores - DICK'S Sporting Goods,1147,Stores
+DKS,"DICK'S SPORTING GOODS, INC.",Stores - Specialty Concept Stores,1148,Stores
+DLTR,DOLLAR TREE INC,Change in Average Ticket - Dollar Tree,1149,Change in Average Ticket
+DLTR,DOLLAR TREE INC,Change in Average Ticket - Family Dollar ,1150,Change in Average Ticket
+DLTR,DOLLAR TREE INC,Change in Customer Traffic - Dollar Tree,1151,Change in Customer Traffic
+DLTR,DOLLAR TREE INC,Change in Customer Traffic - Family Dollar ,1152,Change in Customer Traffic
+DLTR,DOLLAR TREE INC,Growth Rate (Square Footage)  - Dollar Tree,1153,Growth Rate (Square Footage) 
+DLTR,DOLLAR TREE INC,Growth Rate (Square Footage)  - Family Dollar ,1154,Growth Rate (Square Footage) 
+DLTR,DOLLAR TREE INC,Growth Rate (Square Footage)  - Retail Selling Square Footage,1155,Growth Rate (Square Footage) 
+DLTR,DOLLAR TREE INC,New Stores Openings - Dollar Tree,1156,New Stores Openings
+DLTR,DOLLAR TREE INC,New Stores Openings - Family Dollar ,1157,New Stores Openings
+DLTR,DOLLAR TREE INC,Re-bannered Stores - Dollar Tree,1158,Re-bannered Stores
+DLTR,DOLLAR TREE INC,Re-bannered Stores - Family Dollar ,1159,Re-bannered Stores
+DLTR,DOLLAR TREE INC,Renovated Stores - Completed Renovations,1160,Renovated Stores
+DLTR,DOLLAR TREE INC,Same Store Sales,1161,Same Store Sales
+DLTR,DOLLAR TREE INC,Same-Store Sales by Segment - Dollar Tree Same Store Sales,1162,Same-Store Sales by Segment
+DLTR,DOLLAR TREE INC,Same-Store Sales by Segment - Family Dollar Same Store Sales,1163,Same-Store Sales by Segment
+DLTR,DOLLAR TREE INC,"Segment Sales - Corporate, support and Other Sales",1164,Segment Sales
+DLTR,DOLLAR TREE INC,Segment Sales - Dollar Tree Sales,1165,Segment Sales
+DLTR,DOLLAR TREE INC,Segment Sales - Family Dollar Sales,1166,Segment Sales
+DLTR,DOLLAR TREE INC,Segment Sales - Total Segment Sales,1167,Segment Sales
+DLTR,DOLLAR TREE INC,Selling Square Footage  - Dollar Tree,1168,Selling Square Footage 
+DLTR,DOLLAR TREE INC,Selling Square Footage  - Family Dollar ,1169,Selling Square Footage 
+DLTR,DOLLAR TREE INC,Store Closures - Dollar Tree,1170,Store Closures
+DLTR,DOLLAR TREE INC,Store Closures - Family Dollar ,1171,Store Closures
+DLTR,DOLLAR TREE INC,Stores - Closed Stores,1172,Stores
+DLTR,DOLLAR TREE INC,Stores - Expanded or Relocated Stores,1173,Stores
+EWCZ,European Wax Center Inc,Centers - Net new center openings,1174,Centers
+EWCZ,European Wax Center Inc,Centers - Net new centers,1175,Centers
+EWCZ,European Wax Center Inc,Centers - Network of locations,1176,Centers
+EWCZ,European Wax Center Inc,Segment Revenue - Marketing Fees,1177,Segment Revenue
+EWCZ,European Wax Center Inc,Segment Revenue - Other Revenue,939,Segment Revenue
+EWCZ,European Wax Center Inc,Segment Revenue - Product Sales,1178,Segment Revenue
+EWCZ,European Wax Center Inc,Segment Revenue - Royalty Fees,1179,Segment Revenue
+EYE,National Vision Holdings Inc,Comparable store sales - Comparable store sales growth,1180,Comparable store sales
+EYE,National Vision Holdings Inc,New Stores Openings - America's Best Contacts and Eyeglasses Stores,1181,New Stores Openings
+EYE,National Vision Holdings Inc,New Stores Openings - Eyeglass World Stores,1182,New Stores Openings
+EYE,National Vision Holdings Inc,New Stores Openings - Total Stores,1183,New Stores Openings
+EYE,National Vision Holdings Inc,New Stores Openings - Vision Centers - Walmart,1184,New Stores Openings
+EYE,National Vision Holdings Inc,New Stores Openings - Vista Optical Stores - Fred Meyer,1185,New Stores Openings
+EYE,National Vision Holdings Inc,New Stores Openings - Vista Optical Stores - Military,1186,New Stores Openings
+EYE,National Vision Holdings Inc,No of stores open at the end - Corporate/Other,1187,No of stores open at the end
+EYE,National Vision Holdings Inc,No of stores open at the end - Legacy segment,1188,No of stores open at the end
+EYE,National Vision Holdings Inc,No of stores open at the end - Owned & Host segment,1189,No of stores open at the end
+EYE,National Vision Holdings Inc,Number of Stores - America's Best Contacts and Eyeglasses Stores,1190,Number of Stores
+EYE,National Vision Holdings Inc,Number of Stores - Eyeglass World Stores,1191,Number of Stores
+EYE,National Vision Holdings Inc,Number of Stores - Vision Centers - Walmart,1192,Number of Stores
+EYE,National Vision Holdings Inc,Number of Stores - Vista Optical Stores - Fred Meyer,1193,Number of Stores
+EYE,National Vision Holdings Inc,Number of Stores - Vista Optical Stores - Military,1194,Number of Stores
+EYE,National Vision Holdings Inc,Revenue From Contracts With Customers - Revenues recognized at a point in time,1195,Revenue From Contracts With Customers
+EYE,National Vision Holdings Inc,Revenue From Contracts With Customers - Revenues recognized over time,1196,Revenue From Contracts With Customers
+EYE,National Vision Holdings Inc,Segment Revenue - Corporate/Other Revenue,1197,Segment Revenue
+EYE,National Vision Holdings Inc,Segment Revenue - Legacy Revenue,1198,Segment Revenue
+EYE,National Vision Holdings Inc,Segment Revenue - Owned & Host Revenue,1199,Segment Revenue
+EYE,National Vision Holdings Inc,Segment Revenue - Reconciliations,1200,Segment Revenue
+EYE,National Vision Holdings Inc,Store Closures - America's Best Contacts and Eyeglasses Stores,1201,Store Closures
+EYE,National Vision Holdings Inc,Store Closures - Eyeglass World Stores,1202,Store Closures
+EYE,National Vision Holdings Inc,Store Closures - Vision Centers - Walmart,1203,Store Closures
+EYE,National Vision Holdings Inc,Store Closures - Vista Optical Stores - Fred Meyer,1204,Store Closures
+EYE,National Vision Holdings Inc,Store Closures - Vista Optical Stores - Military,1205,Store Closures
+EYE,National Vision Holdings Inc,Store Sale Growth - America's Best,1206,Store Sale Growth
+EYE,National Vision Holdings Inc,Store Sale Growth - Corporate/Other,1207,Store Sale Growth
+EYE,National Vision Holdings Inc,Store Sale Growth - Eyeglass World,1208,Store Sale Growth
+EYE,National Vision Holdings Inc,Store Sale Growth - Fred Meyer,1209,Store Sale Growth
+EYE,National Vision Holdings Inc,Store Sale Growth - Legacy segment,1210,Store Sale Growth
+EYE,National Vision Holdings Inc,Store Sale Growth - Military,1211,Store Sale Growth
+EYE,National Vision Holdings Inc,Stores - New Stores,1212,Stores
+FIVE,"Five Below, Inc.",Product Revenue - Fashion and home,1213,Product Revenue
+FIVE,"Five Below, Inc.",Product Revenue - Leisure,1214,Product Revenue
+FIVE,"Five Below, Inc.",Product Revenue - Party and snack,1215,Product Revenue
+FIVE,"Five Below, Inc.",Stores - Total Stores,46,Stores
+FL,"Foot Locker, Inc.",Channel Sales - Direct to Customers Sales,1216,Channel Sales
+FL,"Foot Locker, Inc.",Channel Sales - Stores Sales,1217,Channel Sales
+FL,"Foot Locker, Inc.",Franchise Operations - Franchise stores ,1218,Franchise Operations
+FL,"Foot Locker, Inc.",Geographic Sales - International Sales,1219,Geographic Sales
+FL,"Foot Locker, Inc.",Geographic Sales - United States Sales,1220,Geographic Sales
+FL,"Foot Locker, Inc.",Stores - Total Store Count,1221,Stores
+GME,GAMESTOP CORP,Revenue by product sales - Collectibles Sales,1222,Revenue by product sales
+GME,GAMESTOP CORP,Revenue by product sales - Hardware and accessories Sales,1223,Revenue by product sales
+GME,GAMESTOP CORP,Revenue by product sales - Software Sales,1224,Revenue by product sales
+GME,GAMESTOP CORP,Sales by Geography - Australia,1225,Sales by Geography
+GME,GAMESTOP CORP,Sales by Geography - Canada,1226,Sales by Geography
+GME,GAMESTOP CORP,Sales by Geography - Europe,1227,Sales by Geography
+GME,GAMESTOP CORP,Sales by Geography - United States,1228,Sales by Geography
+GRWG,GrowGeneration Corp,News Store Openings - Number of Stores,1229,News Store Openings
+GRWG,GrowGeneration Corp,Segment Revenue - Distribution,1230,Segment Revenue
+GRWG,GrowGeneration Corp,Segment Revenue - E-commerce sales,1231,Segment Revenue
+GRWG,GrowGeneration Corp,Segment Revenue - Sales at company owned stores,1232,Segment Revenue
+GRWG,GrowGeneration Corp,Square Feet - Retail and Warehouse Space,1233,Square Feet
+GRWG,GrowGeneration Corp,Store Count - No of Hydroponic garden centers to reach,1234,Store Count
+GRWG,GrowGeneration Corp,Store Count - No. of retail hydroponic/gardening stores,1235,Store Count
+GRWG,GrowGeneration Corp,Store Count - Number of Stores,1236,Store Count
+HIBB,"HIBBETT SPORTS, INC.",Revenue by major products category - Apparel,1237,Revenue by major products category
+HIBB,"HIBBETT SPORTS, INC.",Revenue by major products category - Equipment,1238,Revenue by major products category
+HIBB,"HIBBETT SPORTS, INC.",Revenue by major products category - Footwear,1239,Revenue by major products category
+HIBB,"HIBBETT SPORTS, INC.",Store Count - End of period,1240,Store Count
+HIBB,"HIBBETT SPORTS, INC.",Store Count - New stores opened,1241,Store Count
+HIBB,"HIBBETT SPORTS, INC.",Store Count - Stores closed,1242,Store Count
+JOAN,JOANN Inc,Sales by Product Category - Arts and Crafts and Home Decor Sales,1243,Sales by Product Category
+JOAN,JOANN Inc,Sales by Product Category - Other Sales,1244,Sales by Product Category
+JOAN,JOANN Inc,Sales by Product Category - Sewing Sales,1245,Sales by Product Category
+LESL,Leslie's Inc,Locations and platforms - Physical locations and multiple digital platforms,1246,Locations and platforms
+LESL,Leslie's Inc,Net Income,1247,Net Income
+LESL,Leslie's Inc,Net Sales,625,Net Sales
+LL,"Lumber Liquidators Holdings, Inc.",Average Retail Price - Average Retail Price per Unit Sold Increase,1248,Average Retail Price
+LL,"Lumber Liquidators Holdings, Inc.",Number of new stores,1249,Number of new stores
+LL,"Lumber Liquidators Holdings, Inc.",Number of stores closed,1250,Number of stores closed
+LL,"Lumber Liquidators Holdings, Inc.",Number of Stores Open - Number of Stores,1251,Number of Stores Open
+LL,"Lumber Liquidators Holdings, Inc.",Revenue by Type - Net Merchandise Sales,1252,Revenue by Type
+LL,"Lumber Liquidators Holdings, Inc.",Revenue by Type - Net Services Sales,1253,Revenue by Type
+LL,"Lumber Liquidators Holdings, Inc.",Revenues by major product category - Installation and Delivery Services,1254,Revenues by major product category
+LL,"Lumber Liquidators Holdings, Inc.",Revenues by major product category - Manufactured Products,1255,Revenues by major product category
+LL,"Lumber Liquidators Holdings, Inc.",Revenues by major product category - Moldings and Accessories and Other,1256,Revenues by major product category
+LL,"Lumber Liquidators Holdings, Inc.",Revenues by major product category - Solid and Engineered Hardwood,1257,Revenues by major product category
+NLS,Nautilus Inc.,Backlog - Direct orders,1258,Backlog
+NLS,Nautilus Inc.,Backlog - Retail orders,1259,Backlog
+NLS,Nautilus Inc.,Direct orders,1260,Direct orders
+NLS,Nautilus Inc.,Revenue by geography - Canada,1261,Revenue by geography
+NLS,Nautilus Inc.,"Revenue by geography - Europe, the Middle East and Africa",1262,Revenue by geography
+NLS,Nautilus Inc.,Revenue by geography - Others,1263,Revenue by geography
+NLS,Nautilus Inc.,Revenue by geography - United States ,1264,Revenue by geography
+NLS,Nautilus Inc.,Revenue by type - Extended warranties and services,1265,Revenue by type
+NLS,Nautilus Inc.,Revenue by type - Others,1266,Revenue by type
+NLS,Nautilus Inc.,Revenue by type - Product Sales,1267,Revenue by type
+NLS,Nautilus Inc.,Sales order backlog,1268,Sales order backlog
+NLS,Nautilus Inc.,Segment Sales - Direct sales,1269,Segment Sales
+NLS,Nautilus Inc.,Segment Sales - Retail sales,1270,Segment Sales
+NLS,Nautilus Inc.,Segment Sales - Royalty,1271,Segment Sales
+ODP,The ODP Corporation,Average square footage per store - Retail Division,1272,Average square footage per store
+ODP,The ODP Corporation,Revenue by Type - Products Revenue,1273,Revenue by Type
+ODP,The ODP Corporation,Revenue by Type - Services Revenue,1274,Revenue by Type
+ODP,The ODP Corporation,Segment Revenue - Business Solutions Division,1275,Segment Revenue
+ODP,The ODP Corporation,Segment Revenue - CompuCom Division,1276,Segment Revenue
+ODP,The ODP Corporation,Segment Revenue - Other,1277,Segment Revenue
+ODP,The ODP Corporation,Segment Revenue - Retail Division,1278,Segment Revenue
+ODP,The ODP Corporation,Stores closed - Retail Division,1279,Stores closed
+ODP,The ODP Corporation,Stores count - Retail Division,1280,Stores count
+ODP,The ODP Corporation,Total retail stores,1281,Total retail stores
+ODP,The ODP Corporation,Total square footage - Retail Division,1282,Total square footage
+RCII,Rent-A-Center Inc,Company-operated locations - Mexico Segment,1283,Company-operated locations
+RCII,Rent-A-Center Inc,Company-operated locations - Rent-A-Center Business segmen,1284,Company-operated locations
+RCII,Rent-A-Center Inc,Franchise-operated locations - Franchising Segment,1285,Franchise-operated locations
+RCII,Rent-A-Center Inc,GMV,1286,GMV
+RCII,Rent-A-Center Inc,Revenues by type - Acima,1287,Revenues by type
+RCII,Rent-A-Center Inc,Revenues by type - Franchising,1288,Revenues by type
+RCII,Rent-A-Center Inc,Revenues by type - Mexico,1289,Revenues by type
+RCII,Rent-A-Center Inc,Revenues by type - Rent-A-Center Business,1290,Revenues by type
+RCII,Rent-A-Center Inc,Segment Revenues - Franchise-Merchandise sales,1291,Segment Revenues
+RCII,Rent-A-Center Inc,Segment Revenues - Franchise-Royalty income and fees,1292,Segment Revenues
+RCII,Rent-A-Center Inc,Segment Revenues - Store-Installment sales,1293,Segment Revenues
+RCII,Rent-A-Center Inc,Segment Revenues - Store-Merchandise sales,1294,Segment Revenues
+RCII,Rent-A-Center Inc,Segment Revenues - Store-Other,1295,Segment Revenues
+RCII,Rent-A-Center Inc,Segment Revenues - Store-Rentals and fees,1296,Segment Revenues
+SBH,"SALLY BEAUTY HOLDINGS, INC.",Number of stores BSG - Company-operated stores,1297,Number of stores BSG
+SBH,"SALLY BEAUTY HOLDINGS, INC.",Number of stores BSG - Franchise stores,1298,Number of stores BSG
+SBH,"SALLY BEAUTY HOLDINGS, INC.",Number of stores SBS - Company-operated stores,1299,Number of stores SBS
+SBH,"SALLY BEAUTY HOLDINGS, INC.",Number of stores SBS - Franchise stores,1300,Number of stores SBS
+SBH,"SALLY BEAUTY HOLDINGS, INC.",Sales consultants - Number of BSG distributor sales consultants,1301,Sales consultants
+SBH,"SALLY BEAUTY HOLDINGS, INC.",Same store sales growth - BSG,1302,Same store sales growth
+SBH,"SALLY BEAUTY HOLDINGS, INC.",Same store sales growth - SBS,1303,Same store sales growth
+SBH,"SALLY BEAUTY HOLDINGS, INC.",Segment Revenue - Beauty Systems Group (BSG),1304,Segment Revenue
+SBH,"SALLY BEAUTY HOLDINGS, INC.",Segment Revenue - Sally Beauty Supply (SBS),1305,Segment Revenue
+SCVL,"Shoe Carnival, Inc.",New opened store,1306,New opened store
+SCVL,"Shoe Carnival, Inc.",Revenue by Product Category - Accessories and Other,1307,Revenue by Product Category
+SCVL,"Shoe Carnival, Inc.",Revenue by Product Category - Athletics Children's,1308,Revenue by Product Category
+SCVL,"Shoe Carnival, Inc.",Revenue by Product Category - Athletics Men's,1309,Revenue by Product Category
+SCVL,"Shoe Carnival, Inc.",Revenue by Product Category - Athletics Women's,1310,Revenue by Product Category
+SCVL,"Shoe Carnival, Inc.",Revenue by Product Category - Non-Athletics Children's,1311,Revenue by Product Category
+SCVL,"Shoe Carnival, Inc.",Revenue by Product Category - Non-Athletics Men's,1312,Revenue by Product Category
+SCVL,"Shoe Carnival, Inc.",Revenue by Product Category - Non-Athletics Women's,1313,Revenue by Product Category
+SCVL,"Shoe Carnival, Inc.",Shoe Perks customer loyalty program,1314,Shoe Perks customer loyalty program
+SCVL,"Shoe Carnival, Inc.",Store Updates - Stores Closed,1315,Store Updates
+SCVL,"Shoe Carnival, Inc.",Total Members - Shoe Perks customer loyalty program membership,1316,Total Members
+SPWH,Sportsman's Warehouse Holdings Inc,Revenue by Type - Apparel,1317,Revenue by Type
+SPWH,Sportsman's Warehouse Holdings Inc,Revenue by Type - Apparel Revenue,1318,Revenue by Type
+SPWH,Sportsman's Warehouse Holdings Inc,Revenue by Type - Camping,1319,Revenue by Type
+SPWH,Sportsman's Warehouse Holdings Inc,Revenue by Type - Camping Revenue,1320,Revenue by Type
+SPWH,Sportsman's Warehouse Holdings Inc,Revenue by Type - Fishing,1321,Revenue by Type
+SPWH,Sportsman's Warehouse Holdings Inc,Revenue by Type - Fishing Revenue,1322,Revenue by Type
+SPWH,Sportsman's Warehouse Holdings Inc,Revenue by Type - Footwear,1323,Revenue by Type
+SPWH,Sportsman's Warehouse Holdings Inc,Revenue by Type - Footwear Revenue,1324,Revenue by Type
+SPWH,Sportsman's Warehouse Holdings Inc,Revenue by Type - Hunting and Shooting,1325,Revenue by Type
+SPWH,Sportsman's Warehouse Holdings Inc,Revenue by Type - Hunting and Shooting Revenue,1326,Revenue by Type
+SPWH,Sportsman's Warehouse Holdings Inc,"Revenue by Type - Optics, Electronics, Accessories, and Other",1327,Revenue by Type
+SPWH,Sportsman's Warehouse Holdings Inc,"Revenue by Type - Optics, Electronics, Accessories, and Other Revenue",1328,Revenue by Type
+TCS,"THE CONTAINER STORE GROUP, INC.",Net Sales - Elfa third-party,1329,Net Sales
+TCS,"THE CONTAINER STORE GROUP, INC.",Net Sales - TCS,1330,Net Sales
+TSCO,TRACTOR SUPPLY COMPANY,Average inventory per store,1331,Average inventory per store
+TSCO,TRACTOR SUPPLY COMPANY,Average transaction value,1332,Average transaction value
+TSCO,TRACTOR SUPPLY COMPANY,Inventory turns,1333,Inventory turns
+TSCO,TRACTOR SUPPLY COMPANY,New Petsense stores,1334,New Petsense stores
+TSCO,TRACTOR SUPPLY COMPANY,New Tractor Supply stores,1335,New Tractor Supply stores
+TSCO,TRACTOR SUPPLY COMPANY,No. Of Stores - Petsense,1336,No. Of Stores
+TSCO,TRACTOR SUPPLY COMPANY,No. Of Stores - Tractor Supply,1337,No. Of Stores
+TSCO,TRACTOR SUPPLY COMPANY,Revenue by Product - Agriculture,1338,Revenue by Product
+TSCO,TRACTOR SUPPLY COMPANY,Revenue by Product - Clothing and Footwear,1339,Revenue by Product
+TSCO,TRACTOR SUPPLY COMPANY,"Revenue by Product - Hardware, Tools and Truck",1340,Revenue by Product
+TSCO,TRACTOR SUPPLY COMPANY,Revenue by Product - Livestock and Pet,1341,Revenue by Product
+TSCO,TRACTOR SUPPLY COMPANY,"Revenue by Product - Seasonal, Gift and Toy Products",1342,Revenue by Product
+ULTA,"ULTA BEAUTY, INC.",Gross square feet - total gross square feet at the end of the quater,1343,Gross square feet
+ULTA,"ULTA BEAUTY, INC.",Net Sales - E-commerce Percentage of net sales,1344,Net Sales
+ULTA,"ULTA BEAUTY, INC.",Net Sales - Net sales percentage,1345,Net Sales
+ULTA,"ULTA BEAUTY, INC.",Net Sales - Salon sales Percentage of net sales,1346,Net Sales
+ULTA,"ULTA BEAUTY, INC.",Net Sales by primary category - Cosmetics Percentage of net sales,1347,Net Sales by primary category
+ULTA,"ULTA BEAUTY, INC.",Net Sales by primary category - Haircare Products & Styling Tools Percentage of net sales,1348,Net Sales by primary category
+ULTA,"ULTA BEAUTY, INC.",Net Sales by primary category - Other Percentage of net sales,1349,Net Sales by primary category
+ULTA,"ULTA BEAUTY, INC.",Net Sales by primary category - Salon Services Percentage of net sales,1350,Net Sales by primary category
+ULTA,"ULTA BEAUTY, INC.","Net Sales by primary category - Skincare, Bath & Fragrance Percentage of net sales",1351,Net Sales by primary category
+ULTA,"ULTA BEAUTY, INC.","Percentage of net sales by primary category - Bath, and fragrance",1352,Percentage of net sales by primary category
+ULTA,"ULTA BEAUTY, INC.",Percentage of net sales by primary category - Cosmetics,1353,Percentage of net sales by primary category
+ULTA,"ULTA BEAUTY, INC.",Percentage of net sales by primary category - Haircare products and styling tools,1354,Percentage of net sales by primary category
+ULTA,"ULTA BEAUTY, INC.","Percentage of net sales by primary category - Other (nail products, accessories, and other)",1355,Percentage of net sales by primary category
+ULTA,"ULTA BEAUTY, INC.",Percentage of net sales by primary category - Services,1356,Percentage of net sales by primary category
+ULTA,"ULTA BEAUTY, INC.",Percentage of net sales by primary category - Skincare,1357,Percentage of net sales by primary category
+ULTA,"ULTA BEAUTY, INC.","Percentage of net sales by primary category - Skincare, bath, and fragrance",1358,Percentage of net sales by primary category
+ULTA,"ULTA BEAUTY, INC.",Remodel and relocation projects,1359,Remodel and relocation projects
+ULTA,"ULTA BEAUTY, INC.",Revenue by Distribution Channel - E-commerce,1360,Revenue by Distribution Channel
+ULTA,"ULTA BEAUTY, INC.",Revenue by Distribution Channel - Other,1361,Revenue by Distribution Channel
+ULTA,"ULTA BEAUTY, INC.",Revenue by Distribution Channel - Retail stores,1362,Revenue by Distribution Channel
+ULTA,"ULTA BEAUTY, INC.",Revenue by Distribution Channel - Salon services,1363,Revenue by Distribution Channel
+ULTA,"ULTA BEAUTY, INC.",Segment Revenue - E-commerce ,1364,Segment Revenue
+ULTA,"ULTA BEAUTY, INC.",Segment Revenue - E-commerce Percentage of net sales,1365,Segment Revenue
+ULTA,"ULTA BEAUTY, INC.",Segment Revenue - Retail stores and salon Percentage of net sales,1366,Segment Revenue
+ULTA,"ULTA BEAUTY, INC.",Segment Revenue - Retail stores and salon Percentage of net sales,1366,Segment Revenue
+ULTA,"ULTA BEAUTY, INC.",Segment Revenue - Salon ,1367,Segment Revenue
+ULTA,"ULTA BEAUTY, INC.",Store Expansion - Number of stores closed during the quarter,1368,Store Expansion
+ULTA,"ULTA BEAUTY, INC.",Store Expansion - Number of stores opened during the quarter,1369,Store Expansion
+ULTA,"ULTA BEAUTY, INC.",Store Expansion - Total stores open at beginning of the quarter,1370,Store Expansion
+ULTA,"ULTA BEAUTY, INC.","Stores - New stores, net",1371,Stores
+ULTA,"ULTA BEAUTY, INC.",Total Revenue - Net sales revenue,1372,Total Revenue
+WOOF,Petco Health and Wellness Co Inc,comparable sales ,1373,Comparable sales 
+WOOF,Petco Health and Wellness Co Inc,Grooming & Nutrition Perk Members,1374,Grooming & Nutrition Perk Members
+WOOF,Petco Health and Wellness Co Inc,Net New Customers,1375,Net New Customers
+WOOF,Petco Health and Wellness Co Inc,Revenue by Product - Consumables,1376,Revenue by Product
+WOOF,Petco Health and Wellness Co Inc,Revenue by Product  - Dog and cat food,1377,Revenue by Product 
+WOOF,Petco Health and Wellness Co Inc,Revenue by Product  - Services and other,1378,Revenue by Product 
+WOOF,Petco Health and Wellness Co Inc,Revenue by Product  - Supplies and companion animals,1379,Revenue by Product 
+WOOF,Petco Health and Wellness Co Inc,Total Active Customers,1380,Total Active Customers
+WOOF,Petco Health and Wellness Co Inc,Vital Care Subscription,1381,Vital Care Subscription

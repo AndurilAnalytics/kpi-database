@@ -26,32 +26,32 @@ class Saver:
         'append_read': 'a+',
     }
     ENABLED_HANDLERS = ['csv', 'xlsx', 'json']
-    def __init__(self, data, path, text_option='write') -> None:
+    def __init__(self, data, path, text_option='write', include_index=False) -> None:
         self._path = path
         self._data = data
+        self._include_index=include_index
         self._text_option = self.TEXT_OPTIONS[text_option]
 
     def save(self):
         file_extension = self._path.suffix[1:]
 
-        with open(self._path, 'rb') as f:
-            handler = getattr(self, f'_read_{file_extension}')
-            self._data = handler()
-        return self._data
-
+        function = getattr(self, f'_save_{file_extension}', None)
+        function()
+        return True
+        
     def _save_xlsx(self):
         """
             Purpose: Save the data as an xlsx file
         """
-        self.data.to_excel(self._path,
+        self._data.to_excel(self._path,
                            index=False)
 
     def _save_csv(self):
         """
             Purpose: Save the data as a csv file
         """
-        self.data.to_csv(self._path,
-                         index=False)
+        self._data.to_csv(self._path,
+                         index=self._include_index)
 
     def _save_json(self):
         """
@@ -61,6 +61,6 @@ class Saver:
             json.dump(self.data, outfile)
 
 
-def save(data, path):
-    s = Saver(data=data, path=path)
+def save(data, path, include_index=False):
+    s = Saver(data=data, path=path, include_index=include_index)
     return s.save()

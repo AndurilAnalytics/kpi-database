@@ -16,6 +16,10 @@ class KPIMeta(ModelBase):
                 'display_name':'KPI Unit'
             },
             {
+                'name': 'kpi_formula',
+                'display_name':'KPI Formula'
+            },
+            {
                 'name': 'kpi_output_type',
                 'display_name':'KPI Output Type'
             },
@@ -26,26 +30,37 @@ class KPIMeta(ModelBase):
 
         ]
         ,'folder': 'kpi_meta'
+        ,'index': 'kpi_meta_id'
+
     }
     def __init__(self) -> None:
-        super().__init__(columns=self.CONFIG['columns'], folder=self.CONFIG['folder'])
+        super().__init__(columns=self.CONFIG['columns'], folder=self.CONFIG['folder'], index=self.CONFIG['index'])
 
     def _load(self, columns, display=False):
         if display:
+            print(self._data.columns)
             return self._data[columns]    
         return self._data[columns]
 
-    def meta(self, display=False, return_type='df'):
+    def meta(self, display=False, return_type='df', reindex_column=None, include_index=False):
         columns = None
         if display:
             columns=self.display_columns
         else:
             columns = self.file_columns
 
+
+        if reindex_column:
+            columns.append(reindex_column)
         data = self._load(columns=columns, display=display)
-        return dataframes.drop_duplicates(df=data)
+        data = dataframes.drop_duplicates(df=data)
+        
+        if include_index:
+            data = self._add_index(data)
+
+        return data
 
 
-def kpis_meta(display=False, return_type='df'):
+def kpis_meta(display=False, return_type='df', reindex_column=None, include_index=False):
     i = KPIMeta()
-    return i.meta(display=display, return_type=return_type)
+    return i.meta(display=display, return_type=return_type, reindex_column=reindex_column, include_index=include_index)

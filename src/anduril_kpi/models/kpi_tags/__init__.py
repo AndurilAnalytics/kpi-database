@@ -31,16 +31,17 @@ class KPITag(ModelBase):
             }
         ]
         ,'folder': 'kpi_tag'
+        ,'index': 'kpi_tags_id'
     }
     def __init__(self) -> None:
-        super().__init__(columns=self.CONFIG['columns'], folder=self.CONFIG['folder'])
+        super().__init__(columns=self.CONFIG['columns'], folder=self.CONFIG['folder'], index=self.CONFIG['index'])
 
     def _load(self, columns, display=False):
         if display:
             return self._data[columns]    
         return self._data[columns]
 
-    def tags(self, display=False, return_type='df'):
+    def tags(self, display=False, return_type='df',reindex_column=None, include_index=False):
         columns = None
         if display:
             columns=self.display_columns
@@ -50,10 +51,22 @@ class KPITag(ModelBase):
         data = self._load(columns=columns, display=display)
 
         handler = HANDLERS[return_type]
+        
+        data = self._load(columns=columns, display=display)
         data = handler(data)
+        
+        if reindex_column:
+            columns.append(reindex_column)
+        data = self._load(columns=columns, display=display)
+        
+        if include_index:
+            data = self._add_index(data)
+        
         return data
 
 
-def kpis_tags(display=False, return_type='df'):
+def kpis_tags(display=False, return_type='df', reindex_column=None, include_index=False):
     k = KPITag()
-    return k.tags(display=display, return_type=return_type)
+    return k.tags(
+        display=display, return_type=return_type, 
+        reindex_column=reindex_column, include_index=include_index)

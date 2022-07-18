@@ -3,9 +3,9 @@ import pandas as pd
 from numpy import nan
 
 # Application Module Imports
-from ..dataframes import (
-    melt, column_unique, columns, unique_dict, unique_list, dtypes, 
-    select_dtypes, set_dtype, fill_nan, drop_nan, append
+from anduril_kpi.modules.dataframes import (
+    melt, column_unique, columns, merge, unique_dict, unique_list, dtypes, 
+    select_dtypes, set_dtype, fill_nan, drop_nan, append, reindex, merge
 )
 
 DF1_DATA = {
@@ -31,10 +31,23 @@ DF4_DATA = {
     'Q3': [2,2],
 }
 
+DF5_DATA = {
+    'letters': ['A', 'A','A', 'A','B','B'],
+    'numbers': [1,1,2,2,1,2]
+}
+
+DF6_DATA = {
+    'letters': ['C', 'D'],
+    'animals': ['Cat', 'Dog'],
+    'floats': [3.0,4.0]
+}
+
 DF1 = pd.DataFrame(DF1_DATA)
 DF2 = pd.DataFrame(DF2_DATA)
 DF3 = pd.DataFrame(DF3_DATA)
 DF4 = pd.DataFrame(DF4_DATA)
+DF5 = pd.DataFrame(DF5_DATA)
+DF6 = pd.DataFrame(DF6_DATA)
 
 def test_append_dataframes():
     test_df = append([DF1, DF2]) 
@@ -117,3 +130,11 @@ def test_select_dtypes():
     test_df = select_dtypes(DF1, dtypes=['number'])
 
     assert list(test_df.columns) == ['numbers']
+
+def test_reindex():
+    test_df = reindex(DF5, columns=['letters'])
+    assert test_df.index.name == 'letters'
+
+def test_merge():
+    test_df = merge(df=DF2, other_df=DF6, fields=['letters'], join_type='inner')
+    assert ['letters', 'numbers', 'animals', 'floats'] == list(test_df.columns) 

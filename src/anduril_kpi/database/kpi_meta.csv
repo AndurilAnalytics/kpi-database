@@ -1,0 +1,1466 @@
+kpi_unit,kpi_formula,kpi_output_type,kpi_source,kpi_name,kpi_id,kpi_category
+$,"SUM(A1,A2,…,An)",$,EventVester,Geographic Revenue - Revenue from Foreign,0,Geographic Revenue
+$,"SUM(A1,A2,…,An)",$,EventVester,Geographic Revenue - Revenue from United States,1,Geographic Revenue
+$,"SUM(A1,A2,…,An)",$,EventVester,Inventory - Total Consolidated-ending Inventory at Cost,2,Inventory
+stores,"COUNT(A1, A2,…,An)",#,EventVester,New Stores Openings - AE77 Store ,3,New Stores Openings
+stores,"COUNT(A1, A2,…,An)",#,EventVester,New Stores Openings - Aerie Side-by-side Store ,4,New Stores Openings
+stores,"COUNT(A1, A2,…,An)",#,EventVester,New Stores Openings - Aerie stand-alone Store ,5,New Stores Openings
+stores,"COUNT(A1, A2,…,An)",#,EventVester,New Stores Openings - Todd Snyder Store ,6,New Stores Openings
+stores,"COUNT(A1, A2,…,An)",#,EventVester,New Stores Openings - Unsubscribed Store,7,New Stores Openings
+$,"SUM(A1,A2,…,An)",$,EventVester,Segment Revenue - Aerie Revenue,8,Segment Revenue
+$,"SUM(A1,A2,…,An)",$,EventVester,Segment Revenue - American Eagle Revenue,9,Segment Revenue
+$,"SUM(A1,A2,…,An)",$,EventVester,Segment Revenue - Corporate Revenue,10,Segment Revenue
+stores,"SUM(A1,A2,…,An)",$,EventVester,Store Closures - Aerie Stand-alone Store,11,Store Closures
+stores,"SUM(A1,A2,…,An)",$,EventVester,Store Closures - American Eagle Brand Store,12,Store Closures
+stores,"SUM(A1,A2,…,An)",$,EventVester,Total Stores - International Licensed/Franchised Stores,13,Total Stores
+stores,"SUM(A1,A2,…,An)",$,EventVester,"Total Stores - International Third-Party Operated Stores, non-Inclusive in the Consolidated Store Data",14,Total Stores
+stores,"SUM(A1,A2,…,An)",$,EventVester,"Total Stores - Total Consolidated Stores, Inclusive of New Openings",15,Total Stores
+sqf,"SUM(A1,A2,…,An)",A,EventVester,Total Stores Area - Total Gross Square Footage,16,Total Stores Area
+$,A,$,EventVester,Net Sales by Brand - Abercrombie,17,Net Sales by Brand
+$,A,$,EventVester,Net Sales by Brand - Hollister,18,Net Sales by Brand
+$,A,$,EventVester,Net Sales by Region - APAC,19,Net Sales by Region
+$,A,$,EventVester,Net Sales by Region - EMEA,20,Net Sales by Region
+$,A,$,EventVester,Net Sales by Region - Other,21,Net Sales by Region
+$,A,$,EventVester,Net Sales by Region - United States,22,Net Sales by Region
+stores,"SUM(A1,A2,…,An)",$,EventVester,Company Operated Stores - Canada,23,Company Operated Stores
+stores,"SUM(A1,A2,…,An)",$,EventVester,Company Operated Stores - United States,24,Company Operated Stores
+stores,"COUNT(A1, A2,…,An)",#,EventVester,New Store Count - Company Operated stores,25,New Store Count
+stores,"COUNT(A1, A2,…,An)",#,EventVester,New Store Count - Partner operated stores,26,New Store Count
+stores,"COUNT(A1, A2,…,An)",#,EventVester,New Stores Openings - Company-Operated Stores ,27,New Stores Openings
+stores,"COUNT(A1, A2,…,An)",#,EventVester,New Stores Openings - Partner-Operated Stores,28,New Stores Openings
+stores,"SUM(A1,A2,…,An)",$,EventVester,Partner Operated Stores - International,29,Partner Operated Stores
+stores,"SUM(A1,A2,…,An)",$,EventVester,Partner Operated Stores - International- Travel Retail,30,Partner Operated Stores
+stores,"SUM(A1,A2,…,An)",$,EventVester,Partner operated stores,31,Partner operated stores
+$,"SUM(A1,A2,…,An)",$,EventVester,Segment Revenue - Bath & Body Works Direct,32,Segment Revenue
+$,"SUM(A1,A2,…,An)",$,EventVester,Segment Revenue - Bath & Body Works International,33,Segment Revenue
+$,"SUM(A1,A2,…,An)",$,EventVester,Segment Revenue - Bath & Body Works Stores - U.S. and Canada,34,Segment Revenue
+$,"SUM(A1,A2,…,An)",$,EventVester,Segment Revenue - Victoria's Secret Direct,35,Segment Revenue
+$,"SUM(A1,A2,…,An)",$,EventVester,Segment Revenue - Victoria's Secret International,36,Segment Revenue
+$,"SUM(A1,A2,…,An)",$,EventVester,Segment Revenue - Victoria's Secret Stores - U.S. and Canada,37,Segment Revenue
+stores,"SUM(A1,A2,…,An)",$,EventVester,Store Closures - Company-Operated Stores ,38,Store Closures
+stores,"SUM(A1,A2,…,An)",$,EventVester,Store Closures - Partner-Operated Stores,39,Store Closures
+%,(A-B)/A,%,EventVester,Sales - Comparable Sales,40,Sales
+$,"SUM(A1,A2,…,An)",$,EventVester,Segment Revenue - Chico's Revenue,41,Segment Revenue
+$,"SUM(A1,A2,…,An)",$,EventVester,Segment Revenue - Soma Revenue,42,Segment Revenue
+$,"SUM(A1,A2,…,An)",$,EventVester,Segment Revenue - White House Black Market Revenue,43,Segment Revenue
+sqf,A-B,A,EventVester,Selling Square Footage - Net Selling Square Footage (SSF),44,Selling Square Footage
+stores,"SUM(A1,A2,…,An)",$,EventVester,Stores - Franchised Stores,45,Stores
+stores,"SUM(A1,A2,…,An)",$,EventVester,Stores - Total Stores,46,Stores
+stores,"SUM(A1,A2,…,An)",$,EventVester,Stores - Chico's Frontline Boutiques ,47,Stores
+stores,"SUM(A1,A2,…,An)",$,EventVester,Stores - Chico's Outlets ,48,Stores
+stores,"SUM(A1,A2,…,An)",$,EventVester,Stores - Soma Frontline Boutiques ,49,Stores
+stores,"SUM(A1,A2,…,An)",$,EventVester,Stores - Soma Outlets ,50,Stores
+stores,"SUM(A1,A2,…,An)",$,EventVester,Stores - WHBM Frontline Boutiques ,51,Stores
+stores,"SUM(A1,A2,…,An)",$,EventVester,Stores - WHBM Outlets ,52,Stores
+stores,"SUM(A1,A2,…,An)",$,EventVester,Stores - Store Closures,53,Stores
+$,A-B,$,EventVester,Geographic Net Sales - International,54,Geographic Net Sales
+$,A-B,$,EventVester,Geographic Net Sales - U.S. Retail,55,Geographic Net Sales
+$,A-B,$,EventVester,Geographic Net Sales - U.S. Wholesale,56,Geographic Net Sales
+$,A,$,EventVester,Revenue by Source - Direct-to-consumer,57,Revenue by Source
+$,A,$,EventVester,Revenue by Source - Wholesale channel,58,Revenue by Source
+$,A,$,EventVester,Revenue by Product Category - Apparel Net Sales,59,Revenue by Product Category
+$,A,$,EventVester,Revenue by Product Category - Non-Apparel Net Sales,60,Revenue by Product Category
+$,"SUM(A1,A2,…,An)",$,EventVester,Segment Revenue - Direct-to-consumer,61,Segment Revenue
+$,"SUM(A1,A2,…,An)",$,EventVester,Segment Revenue - Stores,62,Segment Revenue
+stores,"COUNT(A1, A2,…,An)",#,EventVester,No. of Company-Operated Stores - Closed,63,No. of Company-Operated Stores
+stores,"COUNT(A1, A2,…,An)",#,EventVester,No. of Company-Operated Stores - Express Edit Concept Stores,64,No. of Company-Operated Stores
+stores,"COUNT(A1, A2,…,An)",#,EventVester,No. of Company-Operated Stores - Opened,65,No. of Company-Operated Stores
+stores,"COUNT(A1, A2,…,An)",#,EventVester,No. of Company-Operated Stores - Outlet Stores,66,No. of Company-Operated Stores
+stores,"COUNT(A1, A2,…,An)",#,EventVester,No. of Company-Operated Stores - Retail Stores,67,No. of Company-Operated Stores
+stores,"COUNT(A1, A2,…,An)",#,EventVester,No. of Company-Operated Stores - Store Count,68,No. of Company-Operated Stores
+stores,"COUNT(A1, A2,…,An)",#,EventVester,No. of Company-Operated Stores - UpWest Stores,69,No. of Company-Operated Stores
+$,A,$,EventVester,Segment Revenue by Channel - Other Channel revenue,70,Segment Revenue by Channel
+$,A,$,EventVester,Segment Revenue by Channel - Outlet Revenue,71,Segment Revenue by Channel
+$,A,$,EventVester,Segment Revenue by Channel - Retail Revenue,72,Segment Revenue by Channel
+$,A,$,EventVester,Segment Revenue by Product - Accessories and other Revenue,73,Segment Revenue by Product
+$,A,$,EventVester,Segment Revenue by Product - Apparel Revenue,74,Segment Revenue by Product
+$,A,$,EventVester,Segment Revenue by Product - Other Product revenue,75,Segment Revenue by Product
+$,A,$,EventVester,Segment Revenue - Corporate and Other Revenue,76,Segment Revenue
+$,A,$,EventVester,Segment Revenue - Johnston & Murphy Group Revenue,77,Segment Revenue
+$,A,$,EventVester,Segment Revenue - Journeys Group Revenue,78,Segment Revenue
+$,A,$,EventVester,Segment Revenue - Licensed Brands Revenue,79,Segment Revenue
+$,A,$,EventVester,Segment Revenue - Schuh Group Revenue,80,Segment Revenue
+stores,"SUM(A1,A2,…,An)",$,EventVester,Stores - Store Closed,81,Stores
+$,A,$,EventVester,Revenue by Geographic area - Canada,82,Revenue by Geographic area
+$,A,$,EventVester,Revenue by Geographic area - Germany,83,Revenue by Geographic area
+$,A,$,EventVester,Revenue by Geographic area - Italy,84,Revenue by Geographic area
+$,A,$,EventVester,Revenue by Geographic area - Other foreign countries,85,Revenue by Geographic area
+$,A,$,EventVester,Revenue by Geographic area - South Korea,86,Revenue by Geographic area
+$,A,$,EventVester,Revenue by Geographic area - Spain,87,Revenue by Geographic area
+$,A,$,EventVester,Revenue by Geographic area - U.S.,88,Revenue by Geographic area
+$,A,$,EventVester,Revenue by Product - Net royalties ,89,Revenue by Product
+$,A,$,EventVester,Revenue by Product - Product sales,90,Revenue by Product
+$,"SUM(A1,A2,…,An)",$,EventVester,Segment Revenue - Americas Retail,91,Segment Revenue
+% decrease yoy,(A-B)/A,%,EventVester,Segment Revenue - Americas Retail comp sales,92,Segment Revenue
+% increase yoy,(A-B)/A,%,EventVester,Segment Revenue - Americas Retail comp sales,92,Segment Revenue
+$,"SUM(A1,A2,…,An)",$,EventVester,Segment Revenue - Americas Wholesale,93,Segment Revenue
+% increase yoy,(A-B)/A,%,EventVester,Segment Revenue - Americas Wholesale,93,Segment Revenue
+$,"SUM(A1,A2,…,An)",$,EventVester,Segment Revenue - Asia,94,Segment Revenue
+% decrease yoy,(A-B)/A,%,EventVester,Segment Revenue - Asia Retail comp sales,95,Segment Revenue
+% increase yoy,(A-B)/A,%,EventVester,Segment Revenue - Asia Retail comp sales,95,Segment Revenue
+$,"SUM(A1,A2,…,An)",$,EventVester,Segment Revenue - Europe,96,Segment Revenue
+% decrease yoy,(A-B)/A,%,EventVester,Segment Revenue - Europe Retail comp sales,97,Segment Revenue
+% increase yoy,(A-B)/A,%,EventVester,Segment Revenue - Europe Retail comp sales,97,Segment Revenue
+$,"SUM(A1,A2,…,An)",$,EventVester,Segment Revenue - Licensing,98,Segment Revenue
+% increase yoy,(A-B)/A,%,EventVester,Segment Revenue - Licensing,98,Segment Revenue
+$,A,$,EventVester,Sales by Brand - Athleta Sales,99,Sales by Brand
+$,A,$,EventVester,Sales by Brand - Banana Republic Global Sales,100,Sales by Brand
+$,A,$,EventVester,Sales by Brand - Gap Global,101,Sales by Brand
+$,A,$,EventVester,Sales by Brand - Gap Global Sales,102,Sales by Brand
+$,A,$,EventVester,Sales by Brand - Old Navy Global,103,Sales by Brand
+$,A,$,EventVester,Sales by Brand - Old Navy Global Sales,104,Sales by Brand
+$,A,$,EventVester,Sales by Brand - Other Sales,105,Sales by Brand
+$,A,$,EventVester,Sales by Brand - Total net sales,106,Sales by Brand
+$,A,$,EventVester,Sales by Geographic Region - Asia Sales,107,Sales by Geographic Region
+$,A,$,EventVester,Sales by Geographic Region - Canada Sales,108,Sales by Geographic Region
+$,A,$,EventVester,Sales by Geographic Region - Europe Sales,109,Sales by Geographic Region
+$,A,$,EventVester,Sales by Geographic Region - Other Regions Sales,110,Sales by Geographic Region
+$,A-B,$,EventVester,Sales by Geographic Region - Total net sales,111,Sales by Geographic Region
+$,A,$,EventVester,Sales by Geographic Region - total sales ,112,Sales by Geographic Region
+$,A,$,EventVester,Sales by Geographic Region - U.S. Sales,113,Sales by Geographic Region
+$,A-B,$,EventVester,Segment Sales - Online sales,114,Segment Sales
+$,A-B,$,EventVester,Segment Sales - Store sales,115,Segment Sales
+$,A-B,$,EventVester,Segment Sales - Total net sales,116,Segment Sales
+$,A,$,EventVester,Revenues by Category - Credit card revenues,117,Revenues by Category
+%,(A-B)/A,%,EventVester,Sales - Anniversary Event Sales,118,Sales
+%,(A-B)/A,%,EventVester,Sales - Digital Sales,119,Sales
+$,"SUM(A1,A2,…,An)",$,EventVester,Segment Revenue - Nordstrom Rack Sales,120,Segment Revenue
+$,"SUM(A1,A2,…,An)",$,EventVester,Segment Revenue - Nordstrom Sales,121,Segment Revenue
+$,"SUM(A1,A2,…,An)",$,EventVester,Geographic revenues - Americas,122,Geographic revenues
+$,"SUM(A1,A2,…,An)",$,EventVester,Geographic revenues - Asia,123,Geographic revenues
+$,"SUM(A1,A2,…,An)",$,EventVester,Geographic revenues - Europe,124,Geographic revenues
+$,A,$,EventVester,Segment Revenue by Channel - Direct-to-consumer from Americas,125,Segment Revenue by Channel
+$,A,$,EventVester,Segment Revenue by Channel - Direct-to-consumer from Asia,126,Segment Revenue by Channel
+$,A,$,EventVester,Segment Revenue by Channel - Direct-to-consumer from Europe,127,Segment Revenue by Channel
+$,A,$,EventVester,Segment Revenue by Channel - Wholesale revenue from Americas,128,Segment Revenue by Channel
+$,A,$,EventVester,Segment Revenue by Channel - Wholesale revenue from Asia,129,Segment Revenue by Channel
+$,A,$,EventVester,Segment Revenue by Channel - Wholesale revenue from Europe,130,Segment Revenue by Channel
+$,A,$,EventVester,Revenue by Segment - Digital Subscription and Content,131,Revenue by Segment
+$,A,$,EventVester,Revenue by Segment - Direct-to-Consumer,132,Revenue by Segment
+$,A,$,EventVester,Revenue by Segment - Licensing,133,Revenue by Segment
+$,A,$,EventVester,Revenue by Segment - Other,134,Revenue by Segment
+$,A,$,EventVester,Revenue by Type - Consumer Products,135,Revenue by Type
+$,A,$,EventVester,Revenue by Type - Magazine and Digital Subscriptions,136,Revenue by Type
+$,A,$,EventVester,Revenue by Type - Trademark Licensing,137,Revenue by Type
+$,A,$,EventVester,Revenue by Type - TV and Cable Programming,138,Revenue by Type
+$,"SUM(A1,A2,…,An)",$,EventVester,Geographic Revenue - International & Other Sales,139,Geographic Revenue
+$,"SUM(A1,A2,…,An)",$,EventVester,Geographic Revenue - Mid-West Sales,140,Geographic Revenue
+$,"SUM(A1,A2,…,An)",$,EventVester,Geographic Revenue - North East Sales,141,Geographic Revenue
+$,"SUM(A1,A2,…,An)",$,EventVester,Geographic Revenue - South Sales,142,Geographic Revenue
+$,"SUM(A1,A2,…,An)",$,EventVester,Geographic Revenue - West Sales,143,Geographic Revenue
+$,"SUM(A1,A2,…,An)",$,EventVester,Segment Revenue - The Children's Place International,144,Segment Revenue
+$,"SUM(A1,A2,…,An)",$,EventVester,Segment Revenue - The Children's Place U.S.,145,Segment Revenue
+stores,"COUNT(A1, A2,…,An)",#,EventVester,Stores - Closed store count,146,Stores
+stores,"COUNT(A1, A2,…,An)",#,EventVester,Stores - Total store count,147,Stores
+%,(A-B)/A,%,EventVester,"sales mix - Accessories, Lingerie, Fine Jewelry, and Fragrances",148,sales mix
+%,(A-B)/A,%,EventVester,sales mix - Children's,149,sales mix
+%,(A-B)/A,%,EventVester,sales mix - Home Accents and Bed and Bath,150,sales mix
+%,(A-B)/A,%,EventVester,sales mix - Ladies,151,sales mix
+%,(A-B)/A,%,EventVester,sales mix - Men's,152,sales mix
+%,(A-B)/A,%,EventVester,sales mix - Shoes,153,sales mix
+stores,"SUM(A1,A2,…,An)",$,EventVester,Store Count - Beginning of the period,154,Store Count
+stores,"SUM(A1,A2,…,An)",$,EventVester,Store Count - Closed in the period,155,Store Count
+stores,"SUM(A1,A2,…,An)",$,EventVester,Store Count - End of the period,156,Store Count
+stores,"SUM(A1,A2,…,An)",$,EventVester,Store Count - Opened in the period,157,Store Count
+stores,"COUNT(A1, A2,…,An)",#,EventVester,Store count - Store count at end of period,158,Store count
+$,A-B,$,EventVester,Geographic Sales - HomeGoods Sales From US,159,Geographic Sales
+$,A-B,$,EventVester,Geographic Sales - Marmaxx Sales From US,160,Geographic Sales
+$,A-B,$,EventVester,Geographic Sales - TJX Canada Sales,161,Geographic Sales
+$,A-B,$,EventVester,Geographic Sales - TJX Europe,162,Geographic Sales
+$,A-B,$,EventVester,Geographic Sales - TJX International Sales,163,Geographic Sales
+$,A-B,$,EventVester,Geographic Sales  - TJX Canada Sales 	,164,Geographic Sales 
+$,A-B,$,EventVester,Geographic Sales  - TJX International (Europe & Australia) Sales 	,165,Geographic Sales 
+$,A-B,$,EventVester,Geographic Sales  - TJX International (Europe & Australia) Sales,166,Geographic Sales 
+$,A-B,$,EventVester,Geographic Segment Sales  - HomeGoods (U.S.) Sales,167,Geographic Segment Sales 
+$,A-B,$,EventVester,Geographic Segment Sales  - Marmaxx (U.S.) Sales,168,Geographic Segment Sales 
+stores,"SUM(A1,A2,…,An)",$,EventVester,Newly Opened Stores,169,Newly Opened Stores
+stores,"SUM(A1,A2,…,An)",$,EventVester,Store Count - Total Store Count,170,Store Count
+stores,"COUNT(A1, A2,…,An)",#,EventVester,New Stores Opened - New Stores Opened During Quarter,171,New Stores Opened
+$,"SUM(A1,A2,…,An)",$,EventVester,Segment Revenues - E-commerce,172,Segment Revenues
+$,"SUM(A1,A2,…,An)",$,EventVester,Segment Revenues - Proprietary,173,Segment Revenues
+%,"SUM(A1,A2,…,An)",%,EventVester,Segment Revenues - Proprietary,173,Segment Revenues
+$,"SUM(A1,A2,…,An)",$,EventVester,Segment Revenues - Retail stores,174,Segment Revenues
+$,"SUM(A1,A2,…,An)",$,EventVester,Segment Revenues - Third-party,175,Segment Revenues
+%,"SUM(A1,A2,…,An)",%,EventVester,Segment Revenues - Third-party,175,Segment Revenues
+stores,"COUNT(A1, A2,…,An)",#,EventVester,Stores Permanently Closed During Quarter,176,Stores Permanently Closed During Quarter
+$,A,$,EventVester,Sub Segment Revenue by Category - Accessories,177,Sub Segment Revenue by Category
+%,(A-B)/A,%,EventVester,Sub Segment Revenue by Category - Accessories,177,Sub Segment Revenue by Category
+$,A,$,EventVester,Sub Segment Revenue by Category - Boys,178,Sub Segment Revenue by Category
+%,(A-B)/A,%,EventVester,Sub Segment Revenue by Category - Boys,178,Sub Segment Revenue by Category
+$,A,$,EventVester,Sub Segment Revenue by Category - Footwear,179,Sub Segment Revenue by Category
+%,(A-B)/A,%,EventVester,Sub Segment Revenue by Category - Footwear,179,Sub Segment Revenue by Category
+$,A,$,EventVester,Sub Segment Revenue by Category - Girls,180,Sub Segment Revenue by Category
+%,(A-B)/A,%,EventVester,Sub Segment Revenue by Category - Girls,180,Sub Segment Revenue by Category
+$,A,$,EventVester,Sub Segment Revenue by Category - Mens,181,Sub Segment Revenue by Category
+%,(A-B)/A,%,EventVester,Sub Segment Revenue by Category - Mens,181,Sub Segment Revenue by Category
+$,A,$,EventVester,Sub Segment Revenue by Category - Outdoor,182,Sub Segment Revenue by Category
+%,(A-B)/A,%,EventVester,Sub Segment Revenue by Category - Outdoor,182,Sub Segment Revenue by Category
+$,A,$,EventVester,Sub Segment Revenue by Category - Women,183,Sub Segment Revenue by Category
+%,(A-B)/A,%,EventVester,Sub Segment Revenue by Category - Womens,184,Sub Segment Revenue by Category
+sft,A,#,EventVester,Total Gross Square Footage at End of Quarter,185,Total Gross Square Footage at End of Quarter
+stores,"COUNT(A1, A2,…,An)",#,EventVester,Total Stores at End of Quarter,186,Total Stores at End of Quarter
+Customers,A,$,EventVester,Customers - new customers,187,Customers
+$,"SUM(A1,A2,…,An)",$,EventVester,Geographic Revenues - Greater China Revenues,188,Geographic Revenues
+$,"SUM(A1,A2,…,An)",$,EventVester,Geographic Revenues - North America Revenues,189,Geographic Revenues
+$,"SUM(A1,A2,…,An)",$,EventVester,Geographic Revenues - Other Asia Revenues,190,Geographic Revenues
+$,"SUM(A1,A2,…,An)",$,EventVester,Geographic Revenues - Other Revenues,191,Geographic Revenues
+$,"SUM(A1,A2,…,An)",$,EventVester,Geographic Revenues - Total,192,Geographic Revenues
+$,"SUM(A1,A2,…,An)",$,EventVester,Segment Revenues - Coach Revenues,193,Segment Revenues
+$,"SUM(A1,A2,…,An)",$,EventVester,Segment Revenues - Kate Spade Revenues,194,Segment Revenues
+$,"SUM(A1,A2,…,An)",$,EventVester,Segment Revenues - Stuart Weitzman Revenues,195,Segment Revenues
+$,"SUM(A1,A2,…,An)",$,EventVester,Segment Revenues - Total,196,Segment Revenues
+$,A,$,EventVester,Net sales by brand - Anthropologie Group,197,Net sales by brand
+$,A,$,EventVester,Net sales by brand - Free People Group,198,Net sales by brand
+$,A,$,EventVester,Net sales by brand - Menus & Venues,199,Net sales by brand
+$,A,$,EventVester,Net sales by brand - Nuuly,200,Net sales by brand
+$,A,$,EventVester,Net sales by brand - Urban Outfitters,201,Net sales by brand
+$,A-B,$,EventVester,Net sales by segment - Retail Segment,202,Net sales by segment
+$,A-B,$,EventVester,Net sales by segment - Subscription Segment,203,Net sales by segment
+$,A-B,$,EventVester,Net sales by segment - Wholesale Segment,204,Net sales by segment
+stores,"COUNT(A1, A2,…,An)",#,EventVester,No. of New Stores Opened - New retail locations,205,No. of New Stores Opened
+stores,"COUNT(A1, A2,…,An)",#,EventVester,Stores - Closed franchisee-owned stores,206,Stores
+stores,"COUNT(A1, A2,…,An)",#,EventVester,Stores - Total closed retail stores,207,Stores
+stores,"COUNT(A1, A2,…,An)",#,EventVester,Stores - Total new retail location stores,208,Stores
+stores,"SUM(A1,A2,…,An)",$,EventVester,Company-Operated Stores - Greater China - Beauty & Accessories,209,Company-Operated Stores
+stores,"SUM(A1,A2,…,An)",$,EventVester,Company-Operated Stores - Greater China - Full Assortment,210,Company-Operated Stores
+stores,"SUM(A1,A2,…,An)",$,EventVester,Company-Operated Stores - Stores in Canada,211,Company-Operated Stores
+stores,"SUM(A1,A2,…,An)",$,EventVester,Company-Operated Stores - Stores in U.S,212,Company-Operated Stores
+stores,"SUM(A1,A2,…,An)",$,EventVester,"New Store Openings - Company-Operated Stores in  Greater China - Beauty & Accessories
+",213,New Store Openings
+stores,"SUM(A1,A2,…,An)",$,EventVester,New Store Openings - Company-Operated Stores in Canada ,214,New Store Openings
+stores,"SUM(A1,A2,…,An)",$,EventVester,New Store Openings - Company-Operated Stores in Greater China - Full Assortment ,215,New Store Openings
+stores,"SUM(A1,A2,…,An)",$,EventVester,New Store Openings - Company-Operated Stores in U.S.,216,New Store Openings
+stores,"SUM(A1,A2,…,An)",$,EventVester,New Store Openings - Partner-Operated Stores - Beauty & Accessories,217,New Store Openings
+stores,"SUM(A1,A2,…,An)",$,EventVester,New Store Openings - Partner-Operated Stores - Full Assortment,218,New Store Openings
+stores,"SUM(A1,A2,…,An)",$,EventVester,Number of Stores - Company-Operated Stores in  Greater China - Beauty & Accessories ,219,Number of Stores
+stores,"SUM(A1,A2,…,An)",$,EventVester,Number of Stores - Company-Operated Stores in Canada ,220,Number of Stores
+stores,"SUM(A1,A2,…,An)",$,EventVester,Number of Stores - Company-Operated Stores in Greater China - Full Assortment ,221,Number of Stores
+stores,"SUM(A1,A2,…,An)",$,EventVester,Number of Stores - Company-Operated Stores in U.S.,222,Number of Stores
+stores,"SUM(A1,A2,…,An)",$,EventVester,Number of Stores - Partner-Operated Stores - Beauty & Accessories,223,Number of Stores
+stores,"SUM(A1,A2,…,An)",$,EventVester,Number of Stores - Partner-Operated Stores - Full Assortment,224,Number of Stores
+stores,"SUM(A1,A2,…,An)",$,EventVester,Partner-Operated Stores - Beauty & Accessories ,225,Partner-Operated Stores
+stores,"SUM(A1,A2,…,An)",$,EventVester,Partner-Operated Stores - Full Assortment,226,Partner-Operated Stores
+$,A/B,$,EventVester,Sales per Average Selling Square Foot - Company-Operated Stores- Sales per Average Selling Square Foot,227,Sales per Average Selling Square Foot
+$,A/B,$,EventVester,Sales per Average Store - Company-Operated Stores - Sales per Average Store,228,Sales per Average Store
+$,"SUM(A1,A2,…,An)",$,EventVester,Segment Revenue - Direct Revenue,229,Segment Revenue
+$,"SUM(A1,A2,…,An)",$,EventVester,Segment Revenue - International Revenue,230,Segment Revenue
+$,"SUM(A1,A2,…,An)",$,EventVester,Segment Revenue - Revenue from Stores of North America,231,Segment Revenue
+stores,"SUM(A1,A2,…,An)",$,EventVester,Store Closures - Company-Operated Stores in  Greater China - Beauty & Accessories,232,Store Closures
+stores,"SUM(A1,A2,…,An)",$,EventVester,Store Closures - Company-Operated Stores in Canada ,233,Store Closures
+stores,"SUM(A1,A2,…,An)",$,EventVester,Store Closures - Company-Operated Stores in Greater China - Full Assortment ,234,Store Closures
+stores,"SUM(A1,A2,…,An)",$,EventVester,Store Closures - Company-Operated Stores in U.S.,235,Store Closures
+stores,"SUM(A1,A2,…,An)",$,EventVester,Store Closures - Partner-Operated Stores - Beauty & Accessories,236,Store Closures
+stores,"SUM(A1,A2,…,An)",$,EventVester,Store Closures - Partner-Operated Stores - Full Assortment,237,Store Closures
+$,A,$,EventVester,Revenue by geographic region - Australia,238,Revenue by geographic region
+$,A,$,EventVester,Revenue by geographic region - Canada,239,Revenue by geographic region
+$,A,$,EventVester,Revenue by geographic region - Europe,240,Revenue by geographic region
+$,A,$,EventVester,Revenue by geographic region - United States,241,Revenue by geographic region
+% of net sales,(A-B)/A,%,EventVester,Segment Net Sales - Accessories and chemicals Sales,242,Segment Net Sales
+% of net sales,(A-B)/A,%,EventVester,Segment Net Sales - Accessories Sales,243,Segment Net Sales
+% of net sales,(A-B)/A,%,EventVester,Segment Net Sales - Chemicals Sales,244,Segment Net Sales
+$,A-B,$,EventVester,Segment Net Sales - Eliminations,245,Segment Net Sales
+% of net sales,(A-B)/A,%,EventVester,Segment Net Sales - Engine maintenance Sales,246,Segment Net Sales
+$,A-B,$,EventVester,Segment Net Sales - Guarantor Subsidiaries,247,Segment Net Sales
+$,A-B,$,EventVester,Segment Net Sales - Non-Guarantor Subsidiaries,248,Segment Net Sales
+% of net sales,(A-B)/A,%,EventVester,Segment Net Sales - Oil Sales,249,Segment Net Sales
+% of net sales,(A-B)/A,%,EventVester,Segment Net Sales - Other Sales,250,Segment Net Sales
+% of net sales,(A-B)/A,%,EventVester,Segment Net Sales - Parts and batteries Sales,251,Segment Net Sales
+stores,"SUM(A1,A2,…,An)",$,EventVester,Stores and Branches - Closures or Consolidations,252,Stores and Branches
+stores,"SUM(A1,A2,…,An)",$,EventVester,Stores and Branches - New Openings,253,Stores and Branches
+stores,"SUM(A1,A2,…,An)",$,EventVester,Stores and Branches - Total Number,254,Stores and Branches
+$,SUM(A1+A2+...+An)/n,$,EventVester,Average selling price - New vehicle Average selling price,255,Average selling price
+$,"SUM(A1,A2,…,An)",$,EventVester,Average selling price - Same store New vehicle Average selling price,256,Average selling price
+$,"SUM(A1,A2,…,An)",$,EventVester,Average selling price - Same store Used vehicle retail Average selling price,257,Average selling price
+$,SUM(A1+A2+...+An)/n,$,EventVester,Average selling price - Used vehicle retail Average selling price,258,Average selling price
+stores,"COUNT(A1, A2,…,An)",#,EventVester,No. of New vehicle sold - Same store,259,No. of New vehicle sold
+units,"COUNT(A1, A2,…,An)",#,EventVester,No. of New vehicle sold - Total Company,260,No. of New vehicle sold
+stores,"COUNT(A1, A2,…,An)",#,EventVester,No. of Used vehicle retail sold - Same store,261,No. of Used vehicle retail sold
+units,"COUNT(A1, A2,…,An)",#,EventVester,No. of Used vehicle retail sold - Total Company,262,No. of Used vehicle retail sold
+units,A,#,EventVester,Number of Franchises,263,Number of Franchises
+$,"SUM(A1,A2,…,An)",$,EventVester,Segment Revenue - Finance and insurance,264,Segment Revenue
+$,"SUM(A1,A2,…,An)",$,EventVester,Segment Revenue - New vehicle,265,Segment Revenue
+$,"SUM(A1,A2,…,An)",$,EventVester,Segment Revenue - Parts and service,266,Segment Revenue
+$,"SUM(A1,A2,…,An)",$,EventVester,Segment Revenue - Used Vehicle,267,Segment Revenue
+$,"SUM(A1,A2,…,An)",$,EventVester,Sub Segment Revenue - Luxury - New vehicle,268,Sub Segment Revenue
+$,"SUM(A1,A2,…,An)",$,EventVester,Sub Segment Revenue - Retail - Used Vehicle,269,Sub Segment Revenue
+$,"SUM(A1,A2,…,An)",$,EventVester,Sub Segment Revenue - Wholesale - Used Vehicle,270,Sub Segment Revenue
+% increase,A-B,%,EventVester,Volume - New vehicle,271,Volume
+% increase,A-B,%,EventVester,Volume - Used vehicle retail,272,Volume
+$,A,$,EventVester,"Revenue - Finance and insurance, net",273,Revenue
+$,A,$,EventVester,Revenue - New vehicle,274,Revenue
+$,A,$,EventVester,Revenue - Other,275,Revenue
+$,A,$,EventVester,Revenue - Parts and service,276,Revenue
+$,A,$,EventVester,Revenue - Used vehicle,277,Revenue
+$,A,$,EventVester,"Sales by Type - Finance and insurance, net Sales",278,Sales by Type
+$,A,$,EventVester,Sales by Type - New vehicle Sales,279,Sales by Type
+$,A,$,EventVester,Sales by Type - Other Sales,280,Sales by Type
+$,A,$,EventVester,Sales by Type - Parts and service Sales,281,Sales by Type
+$,A,$,EventVester,Sales by Type - Used vehicle Sales,282,Sales by Type
+$,A,$,EventVester,Segment Revenues - Corporate and other,283,Segment Revenues
+$,A,$,EventVester,Segment Revenues - Corporate and other Revenue,284,Segment Revenues
+$,A,$,EventVester,Segment Revenues - Domestic,285,Segment Revenues
+$,A,$,EventVester,Segment Revenues - Domestic Revenue,286,Segment Revenues
+$,A,$,EventVester,Segment Revenues - Import,287,Segment Revenues
+$,A,$,EventVester,Segment Revenues - Import Revenue,288,Segment Revenues
+$,A,$,EventVester,Segment Revenues - Premium Luxury,289,Segment Revenues
+$,A,$,EventVester,Segment Revenues - Premium Luxury Revenue,290,Segment Revenues
+vehicles,A,$,EventVester,Vehicles sold - Total Vehicles sold,291,Vehicles sold
+vehicles,A,$,EventVester,Vehicles sold - New vehicle,292,Vehicles sold
+vehicles,A,$,EventVester,Vehicles sold - Used vehicle,293,Vehicles sold
+$,A,$,EventVester,Domestic Commercial Sales - Total Domestic Commercial Sales,294,Domestic Commercial Sales
+$,A,$,EventVester,Sales per average store ,295,Sales per average store 
+$,A,$,EventVester,Segment Sales - Auto Parts Locations,296,Segment Sales
+$,A,$,EventVester,Segment Sales - Net Sales,297,Segment Sales
+$,A,$,EventVester,Segment Sales - Other,298,Segment Sales
+$,A,$,EventVester,Segment Sales - Total domestic commercial sales,299,Segment Sales
+$,A,$,EventVester,Segment Sales  - Total auto parts sales,300,Segment Sales 
+stores,A,$,EventVester,Segment Stores - Ending Brazil stores,301,Segment Stores
+stores,A,$,EventVester,Segment Stores - Ending Domestic Stores,302,Segment Stores
+stores,A,$,EventVester,Segment Stores - Ending Mexico stores,303,Segment Stores
+stores,A,$,EventVester,Segment Stores - New Stores,304,Segment Stores
+stores,A,$,EventVester,Segment Stores - Total Stores,305,Segment Stores
+$,A,$,EventVester,Geographic Segment Revenue - Service revenues from International,306,Geographic Segment Revenue
+$,A,$,EventVester,Geographic Segment Revenue - Service revenues from United States,307,Geographic Segment Revenue
+$,A,$,EventVester,Geographic Segment Revenue - Vehicle sales from International,308,Geographic Segment Revenue
+$,A,$,EventVester,Geographic Segment Revenue - Vehicle sales from United States,309,Geographic Segment Revenue
+$,A,$,EventVester,Revenue by Type - Service revenues,310,Revenue by Type
+$,A,$,EventVester,Revenue by Type - Vehicle sales,311,Revenue by Type
+$,"SUM(A1,A2,…,An)",$,EventVester,Segment Revenue - Service revenues,312,Segment Revenue
+$,"SUM(A1,A2,…,An)",$,EventVester,Segment Revenue - United States Revenue,313,Segment Revenue
+$,"SUM(A1,A2,…,An)",$,EventVester,Segment Revenue - Vehicle sales,314,Segment Revenue
+$,SUM(A1+A2+...+An)/n,$,EventVester,Gross profit - Total gross profit per retail unit sold,315,Gross profit
+%,SUM(A1+A2+...+An)/n,%,EventVester,Price - Average Retail Sales Price ,316,Price
+%,(A-B)/A,%,EventVester,Sales - Retail units sold ,317,Sales
+%,(A-B)/A,%,EventVester,Sales - Unit Sales Volume,318,Sales
+$,"SUM(A1,A2,…,An)",$,EventVester,Segment Revenue - Interest income Revenue,319,Segment Revenue
+$,"SUM(A1,A2,…,An)",$,EventVester,Segment Revenue - Sales Revenue,320,Segment Revenue
+$,"SUM(A1,A2,…,An)",$,EventVester,Sub-Segment Revenue - Accident protection plan revenue,321,Sub-Segment Revenue
+$,"SUM(A1,A2,…,An)",$,EventVester,Sub-Segment Revenue - Sales Ã¢â‚¬â€œ used autos,322,Sub-Segment Revenue
+$,"SUM(A1,A2,…,An)",$,EventVester,Sub-Segment Revenue - Service contract sales,323,Sub-Segment Revenue
+$,"SUM(A1,A2,…,An)",$,EventVester,Sub-Segment Revenue - Wholesales third party,324,Sub-Segment Revenue
+% increase yoy,A,%,EventVester,Retail Units Sold - Cars,325,Retail Units Sold
+units,A,$,EventVester,Retail Units Sold - Cars,325,Retail Units Sold
+$,"SUM(A1,A2,…,An)",$,EventVester,Segment Revenue - Other sales and revenues,326,Segment Revenue
+$,"SUM(A1,A2,…,An)",$,EventVester,"Segment Revenue - Used vehicle sales, net",327,Segment Revenue
+$,"SUM(A1,A2,…,An)",$,EventVester,Segment Revenue - Wholesale vehicle sales,328,Segment Revenue
+%,(A-B)/A,%,EventVester,Vehicles Purchased - % Increase Customers,329,Vehicles Purchased
+$,SUM(A1+A2+...+An)/n,$,EventVester,Average gross profit per unit - New vehicles,330,Average gross profit per unit
+$,SUM(A1+A2+...+An)/n,$,EventVester,Average gross profit per unit - Used vehicles,331,Average gross profit per unit
+$,SUM(A1+A2+...+An)/n,$,EventVester,Average selling price - New vehicles,332,Average selling price
+$,SUM(A1+A2+...+An)/n,$,EventVester,Average selling price - Used vehicles,333,Average selling price
+#,A,#,EventVester,Customers - Active Customers,334,Customers
+#,A,#,EventVester,Good Sam Club members,335,Good Sam Club members
+stores,"COUNT(A1, A2,…,An)",#,EventVester,Number of store locations,336,Number of store locations
+stores,"COUNT(A1, A2,…,An)",#,EventVester,Retail locations - Other retail stores,337,Retail locations
+#,A,#,EventVester,Retail locations - RV dealerships,338,Retail locations
+#,A,#,EventVester,Retail locations - RV service & retail centers,339,Retail locations
+Locations,"COUNT(A1, A2,…,An)",#,EventVester,Same store locations,340,Same store locations
+stores,A-B,$,EventVester,Same store unit sales - New vehicles,341,Same store unit sales
+stores,A-B,$,EventVester,Same store unit sales - Used vehicles,342,Same store unit sales
+$,"SUM(A1,A2,…,An)",$,EventVester,Segment Revenue - Good Sam Services and Plans Revenue,343,Segment Revenue
+$,"SUM(A1,A2,…,An)",$,EventVester,Segment Revenue - RV and Outdoor Retail Revenue,344,Segment Revenue
+vehicles,A,$,EventVester,Unit sales - New vehicles,345,Unit sales
+$,A,$,EventVester,Unit sales - New vehicles sales,346,Unit sales
+$,A,$,EventVester,Unit sales - Used vehicles	sales,347,Unit sales
+vehicles,A,$,EventVester,Unit sales - Used vehicles,348,Unit sales
+$,A/B,$,EventVester,Vehicle inventory per location - New vehicle inventory per dealer location,349,Vehicle inventory per location
+$,A/B,$,EventVester,Vehicle inventory per location - Used vehicle inventory per dealer location,350,Vehicle inventory per location
+$,A,$,EventVester,Revenue by Type - Advertising contributions,351,Revenue by Type
+$,A,$,EventVester,Revenue by Type - Company-operated store sales,352,Revenue by Type
+$,A,$,EventVester,Revenue by Type - Franchise royalties and fees,353,Revenue by Type
+$,A,$,EventVester,Revenue by Type - Independently-operated store sales,354,Revenue by Type
+$,A,$,EventVester,Revenue by Type - Supply and other revenue,355,Revenue by Type
+%,(A-B)/A,%,EventVester,Same-Store Sales - Car Wash,356,Same-Store Sales
+%,(A-B)/A,%,EventVester,Same-Store Sales - Maintenance,357,Same-Store Sales
+%,(A-B)/A,%,EventVester,"Same-Store Sales - Paint, Collision & Glass",358,Same-Store Sales
+%,(A-B)/A,%,EventVester,Same-Store Sales - Platform Services,359,Same-Store Sales
+$,"SUM(A1,A2,…,An)",$,EventVester,Segment Revenue - Car Wash,360,Segment Revenue
+$,"SUM(A1,A2,…,An)",$,EventVester,Segment Revenue - Corporate / Other,361,Segment Revenue
+$,"SUM(A1,A2,…,An)",$,EventVester,Segment Revenue - Maintenance,362,Segment Revenue
+$,"SUM(A1,A2,…,An)",$,EventVester,"Segment Revenue - Paint, Collision & Glass",363,Segment Revenue
+$,"SUM(A1,A2,…,An)",$,EventVester,Segment Revenue - Platform Services,364,Segment Revenue
+stores,"SUM(A1,A2,…,An)",$,EventVester,Store Count - Car Wash,365,Store Count
+stores,"SUM(A1,A2,…,An)",$,EventVester,Store Count - Maintenance,366,Store Count
+stores,"SUM(A1,A2,…,An)",$,EventVester,"Store Count - Paint, Collision & Glass",367,Store Count
+stores,"SUM(A1,A2,…,An)",$,EventVester,Store Count - Platform Services,368,Store Count
+$,A-B,$,EventVester,Average sales price per unit sold - New vehicle retail,369,Average sales price per unit sold
+$,A-B,$,EventVester,Average sales price per unit sold - Used vehicle retail,370,Average sales price per unit sold
+$,A/B,$,EventVester,Gross profit per unit sold - New vehicle retail sales,371,Gross profit per unit sold
+$,A/B,$,EventVester,Gross profit per unit sold - Total used,372,Gross profit per unit sold
+$,A/B,$,EventVester,Gross profit per unit sold - Used vehicle retail sales,373,Gross profit per unit sold
+$,A/B,$,EventVester,Gross profit per unit sold - Used vehicle wholesale sales,374,Gross profit per unit sold
+$,A,$,EventVester,Revenue by geographic area - Brazil Revenue,375,Revenue by geographic area
+$,A,$,EventVester,Revenue by geographic area - U.K. Revenue,376,Revenue by geographic area
+$,A,$,EventVester,Revenue by geographic area - U.S. Revenue,377,Revenue by geographic area
+$,"SUM(A1,A2,…,An)",$,EventVester,"Segment Revenue - Finance, insurance and other, net",378,Segment Revenue
+$,"SUM(A1,A2,…,An)",$,EventVester,Segment Revenue - New vehicle retail sales,379,Segment Revenue
+$,"SUM(A1,A2,…,An)",$,EventVester,Segment Revenue - Parts and service sales,380,Segment Revenue
+$,"SUM(A1,A2,…,An)",$,EventVester,Segment Revenue - Used vehicle retail sales,381,Segment Revenue
+$,"SUM(A1,A2,…,An)",$,EventVester,Segment Revenue - Used vehicle wholesale sales,382,Segment Revenue
+vehicles,A,$,EventVester,Units sold - Retail new vehicles sold,383,Units sold
+vehicles,A,$,EventVester,Units sold - Retail used vehicles sold,384,Units sold
+vehicles,A,$,EventVester,Units sold - Wholesale used vehicles sold,385,Units sold
+$,A,$,EventVester,Revenue by geographic area - International Revenue,386,Revenue by geographic area
+$,A,$,EventVester,Revenue by geographic area - United States Revenue,387,Revenue by geographic area
+$,A,$,EventVester,Revenue by Segment - Service revenues,388,Revenue by Segment
+$,A,$,EventVester,Revenue by Segment - Vehicle sales,389,Revenue by Segment
+Dealers,A,#,EventVester,Active dealers,390,Active dealers
+acres,A,#,EventVester,Land - Acres of land per site,391,Land
+Locations,A,#,EventVester,Number of locations,392,Number of locations
+Websites,A,#,EventVester,Private label websites,393,Private label websites
+$,A,$,EventVester,Sale of used vehicles,394,Sale of used vehicles
+$,"SUM(A1,A2,…,An)",$,EventVester,Segment Revenue - Auction fees,395,Segment Revenue
+$,"SUM(A1,A2,…,An)",$,EventVester,Segment Revenue - Finance-related revenue,396,Segment Revenue
+$,"SUM(A1,A2,…,An)",$,EventVester,Segment Revenue - Purchased vehicle sales,397,Segment Revenue
+$,"SUM(A1,A2,…,An)",$,EventVester,Segment Revenue - Service revenue,398,Segment Revenue
+%,A,%,EventVester,Vehicles - Vehicles floorplanned by AFC,399,Vehicles
+$ per unit,A/B,R,EventVester,Average Selling Price - Used vehicles,400,Average Selling Price
+$ per unit,A/B,R,EventVester,Average Selling Price - Wholesale vehicles,401,Average Selling Price
+$ per unit,A/B,R,EventVester,Average Selling Price for Used Behicles - Used Vehicles,402,Average Selling Price for Used Behicles
+$ per unit,A/B,R,EventVester,Average Selling Price for Wholesale Vehicles - Wholesale Vehicles,403,Average Selling Price for Wholesale Vehicles
+$,A,$,EventVester,CarMax Auto Finance - Interest and fee income,404,CarMax Auto Finance
+$,A,$,EventVester,CarMax Auto Finance Interest and Fee Income - Interest and fee income,405,CarMax Auto Finance Interest and Fee Income
+$,"SUM(A1,A2,…,An)",$,EventVester,Segment Revenue - New vehicle sales,406,Segment Revenue
+$,"SUM(A1,A2,…,An)",$,EventVester,Segment Revenue - Used vehicle sales,407,Segment Revenue
+vehicles,A,$,EventVester,Segment Vehicle Unit Sales - Total new vehicle unit sales,408,Segment Vehicle Unit Sales
+units,A,#,EventVester,Segment Vehicle Unit Sales - Total used vehicle unit sales,409,Segment Vehicle Unit Sales
+vehicles,A,$,EventVester,Segment Vehicle Unit Sales - Total used vehicle unit sales,409,Segment Vehicle Unit Sales
+units,A,#,EventVester,Segment Vehicle Unit Sales - Total wholesale vehicle unit sales,410,Segment Vehicle Unit Sales
+vehicles,A-B,$,EventVester,Segment Vehicle Unit Sales - Total wholesale vehicle unit sales,410,Segment Vehicle Unit Sales
+%,(A-B)/A,%,EventVester,Vehicle Sales Changes - Used vehicle revenues,411,Vehicle Sales Changes
+%,(A-B)/A,%,EventVester,Vehicle Sales Changes - Used vehicle units,412,Vehicle Sales Changes
+%,(A-B)/A,%,EventVester,Vehicle Sales Changes - Wholesale vehicle revenues,413,Vehicle Sales Changes
+%,(A-B)/A,%,EventVester,Vehicle Sales Changes - Wholesale vehicle units,414,Vehicle Sales Changes
+$/Unit,A/B,$,EventVester,Average gross profit per unit - Finance and insurance gross profit per unit,415,Average gross profit per unit
+$/Unit,A/B,$,EventVester,Average gross profit per unit - New vehicle retail gross profit per unit,416,Average gross profit per unit
+$/Unit,A/B,$,EventVester,Average gross profit per unit - Total vehicle gross profit per unit,417,Average gross profit per unit
+$/Unit,A/B,$,EventVester,Average gross profit per unit - Used vehicle retail gross profit per unit,418,Average gross profit per unit
+units,A,$,EventVester,Driveway Shop units,419,Driveway Shop units
+units,A,$,EventVester,E-commerce platform Unit Sales,420,E-commerce platform Unit Sales
+vehicles,A,$,EventVester,Retail units sold - New vehicle retail unit sales,421,Retail units sold
+vehicles,A,$,EventVester,Retail units sold - Used vehicle retail unit sales,422,Retail units sold
+$,"SUM(A1,A2,…,An)",$,EventVester,Segment Revenue - Finance and insurance revenue,423,Segment Revenue
+$,"SUM(A1,A2,…,An)",$,EventVester,Segment Revenue - Fleet and other revenue,424,Segment Revenue
+$,"SUM(A1,A2,…,An)",$,EventVester,Segment Revenue - New vehicle retail revenue,425,Segment Revenue
+$,"SUM(A1,A2,…,An)",$,EventVester,"Segment Revenue - Service, body and parts revenue",426,Segment Revenue
+$,"SUM(A1,A2,…,An)",$,EventVester,Segment Revenue - Used vehicle retail revenue,427,Segment Revenue
+$,"SUM(A1,A2,…,An)",$,EventVester,Segment Revenue - Used vehicle wholesale revenue,428,Segment Revenue
+vehicles,A,$,EventVester,Unit Sales - New vehicle retail unit sales,429,Unit Sales
+vehicles,A,$,EventVester,Unit Sales - Used vehicle retail unit sales,430,Unit Sales
+% decrease yoy,(A-B)/A,%,EventVester,comparable store sales,431,comparable store sales
+% increase,(A-B)/A,%,EventVester,comparable store sales,431,comparable store sales
+% increase yoy,(A-B)/A,%,EventVester,comparable store sales ,432,comparable store sales 
+$,A,$,EventVester,Revenue by product group - Brakes,433,Revenue by product group
+$,A,$,EventVester,Revenue by product group - Exhaust,434,Revenue by product group
+$,A,$,EventVester,Revenue by product group - Maintenance,435,Revenue by product group
+$,A,$,EventVester,Revenue by product group - Other,436,Revenue by product group
+$,A,$,EventVester,Revenue by product group - Steering,437,Revenue by product group
+$,A,$,EventVester,Revenue by product group - Tires,438,Revenue by product group
+% decrease,(A-B)/A,%,EventVester,Segment - comparable store sales - alignments - Comparable Store Sales,439,Segment - comparable store sales
+% decrease yoy,(A-B)/A,%,EventVester,Segment - comparable store sales - alignments - Comparable Store Sales,439,Segment - comparable store sales
+% increase,(A-B)/A,%,EventVester,Segment - comparable store sales - alignments - Comparable Store Sales,439,Segment - comparable store sales
+% decrease,(A-B)/A,%,EventVester,Segment - comparable store sales - brakes - comparable store sales,440,Segment - comparable store sales
+% decrease yoy,(A-B)/A,%,EventVester,Segment - comparable store sales - brakes - comparable store sales,440,Segment - comparable store sales
+% increase,(A-B)/A,%,EventVester,Segment - comparable store sales - brakes - comparable store sales,440,Segment - comparable store sales
+% increase,(A-B)/A,%,EventVester,Segment - comparable store sales - exhaust -comparable store sales,441,Segment - comparable store sales
+% decrease,(A-B)/A,%,EventVester,Segment - comparable store sales - Exhaust-comparable store sales,442,Segment - comparable store sales
+% decrease yoy,(A-B)/A,%,EventVester,Segment - comparable store sales - Exhaust-comparable store sales,442,Segment - comparable store sales
+% decrease,(A-B)/A,%,EventVester,Segment - comparable store sales - front end/shocks - comparable store sales,443,Segment - comparable store sales
+% decrease yoy,(A-B)/A,%,EventVester,Segment - comparable store sales - front end/shocks - comparable store sales,443,Segment - comparable store sales
+% increase,(A-B)/A,%,EventVester,Segment - comparable store sales - front end/shocks - comparable store sales,443,Segment - comparable store sales
+% decrease,(A-B)/A,%,EventVester,Segment - comparable store sales - maintenance services - comparable store sales,444,Segment - comparable store sales
+% decrease yoy,(A-B)/A,%,EventVester,Segment - comparable store sales - maintenance services - comparable store sales,444,Segment - comparable store sales
+% increase,(A-B)/A,%,EventVester,Segment - comparable store sales - maintenance services - comparable store sales,444,Segment - comparable store sales
+% decrease,(A-B)/A,%,EventVester,Segment - comparable store sales - Tires - comparable store sales,445,Segment - comparable store sales
+% decrease yoy,(A-B)/A,%,EventVester,Segment - comparable store sales - Tires - comparable store sales,445,Segment - comparable store sales
+% increase,(A-B)/A,%,EventVester,Segment - comparable store sales - Tires - comparable store sales,445,Segment - comparable store sales
+% increase yoy,(A-B)/A,%,EventVester,Segment - comparable store sales  - alignments - Comparable Store Sales,446,Segment - comparable store sales 
+% increase yoy%,(A-B)/A,%,EventVester,Segment - comparable store sales  - brakes - comparable store sales ,447,Segment - comparable store sales 
+% increase yoy,(A-B)/A,%,EventVester,Segment - comparable store sales  - front end/shocks - comparable store sales ,448,Segment - comparable store sales 
+% increase yoy,(A-B)/A,%,EventVester,Segment - comparable store sales  - maintenance services - comparable store sales ,449,Segment - comparable store sales 
+% increase yoy,(A-B)/A,%,EventVester,Segment - comparable store sales  - Tires - comparable store sales ,450,Segment - comparable store sales 
+stores,"COUNT(A1, A2,…,An)",#,EventVester,Store count,451,Store count
+$,A,$,EventVester,Segment Sales - Sales,452,Segment Sales
+$/sqf,A,$,EventVester,Segment Sales - Sales per weighted-average square foot,453,Segment Sales
+$/store,A,$,EventVester,Segment Sales - Sales per weighted-average store,454,Segment Sales
+$,A,$,EventVester,Segment Sales  - Other sales and sales adjustments,455,Segment Sales 
+$,A,$,EventVester,Segment Sales  - Sales to do-it-yourself customers,456,Segment Sales 
+$,A,$,EventVester,Segment Sales  - Sales to professional service provider customers,457,Segment Sales 
+$/sqf,"SUM(A1,A2,…,An)",$,EventVester,Store and Team Member Information - Sales per weighted-average square foot,458,Store and Team Member Information
+$/store,"SUM(A1,A2,…,An)",$,EventVester,Store and Team Member Information - Sales per weighted-average store,459,Store and Team Member Information
+stores,"SUM(A1,A2,…,An)",$,EventVester,Store and Team Member Information - Square footage (in thousands),460,Store and Team Member Information
+stores,"SUM(A1,A2,…,An)",$,EventVester,Store Count - Ending total store count,461,Store Count
+$/truck,A/B,$,EventVester,Average gross profit - Average gross profit per new truck retailed,462,Average gross profit
+$/vehicle,A/B,$,EventVester,Average gross profit - Average gross profit per new vehicle retailed,463,Average gross profit
+$/truck,A/B,$,EventVester,Average gross profit - Average gross profit per used truck retailed,464,Average gross profit
+$/vehicle,A/B,$,EventVester,Average gross profit - Average gross profit per used vehicle retailed,465,Average gross profit
+%,A,%,EventVester,Geographic Revenue - North America,466,Geographic Revenue
+%,A,%,EventVester,Geographic Revenue - Other International,467,Geographic Revenue
+%,A,%,EventVester,Geographic Revenue - U.K.,468,Geographic Revenue
+$/unit,A,$,EventVester,New retail sales revenue per unit,469,New retail sales revenue per unit
+units,A,$,EventVester,New retail unit sales,470,New retail unit sales
+$,A,$,EventVester,Revenue by Segment - Commercial Vehicles Australia/Power Systems,471,Revenue by Segment
+$,A,$,EventVester,Revenue by Segment - Retail Automotive,472,Revenue by Segment
+$,A,$,EventVester,Revenue by Segment - Retail Commercial Trucks,473,Revenue by Segment
+$/truck,"SUM(A1,A2,…,An)",$,EventVester,Same-store average gross profit - Same-store average gross profit per new truck retailed,474,Same-store average gross profit
+$/vehicle,"SUM(A1,A2,…,An)",$,EventVester,Same-store average gross profit - Same-store average gross profit per new vehicle retailed,475,Same-store average gross profit
+$/truck,"SUM(A1,A2,…,An)",$,EventVester,Same-store average gross profit - Same-store average gross profit per used truck retailed,476,Same-store average gross profit
+$/vehicle,"SUM(A1,A2,…,An)",$,EventVester,Same-store average gross profit - Same-store average gross profit per used vehicle retailed,477,Same-store average gross profit
+$/unit,A-B,$,EventVester,Same-store new retail sales - Same-store new retail sales revenue per unit,478,Same-store new retail sales
+stores,A-B,$,EventVester,Same-store new retail unit sales,479,Same-store new retail unit sales
+$/unit,A-B,$,EventVester,Same-store used retail sales revenue per unit,480,Same-store used retail sales revenue per unit
+stores,A-B,$,EventVester,Same-store used retail unit sales,481,Same-store used retail unit sales
+$/unit,A,$,EventVester,Used retail sales revenue per unit,482,Used retail sales revenue per unit
+units,A,$,EventVester,Used retail unit sales,483,Used retail unit sales
+%,A,R,EventVester,Absorption ratio,484,Absorption ratio
+$,"SUM(A1,A2,…,An)",$,EventVester,Segment Revenue - Finance and insurance Sales,485,Segment Revenue
+$,"SUM(A1,A2,…,An)",$,EventVester,Segment Revenue - Lease and rental Sales,486,Segment Revenue
+$,"SUM(A1,A2,…,An)",$,EventVester,Segment Revenue - New and used commercial vehicle sales,487,Segment Revenue
+$,"SUM(A1,A2,…,An)",$,EventVester,Segment Revenue - Other Sales,488,Segment Revenue
+Trucks,A,#,EventVester,sold  commercial trucks - sold commercial trucks,489,sold  commercial trucks
+$,"SUM(A1,A2,…,An)",$,EventVester,Sub-Segment Revenue - New heavy-duty vehicles - New and used commercial vehicle sales,490,Sub-Segment Revenue
+$,"SUM(A1,A2,…,An)",$,EventVester,Sub-Segment Revenue - New light-duty vehicles - New and used commercial vehicle sales,491,Sub-Segment Revenue
+$,"SUM(A1,A2,…,An)",$,EventVester,Sub-Segment Revenue - New medium-duty vehicles (including bus sales revenue) - New and used commercial vehicle sales,492,Sub-Segment Revenue
+$,"SUM(A1,A2,…,An)",$,EventVester,Sub-Segment Revenue - Other vehicles - New and used commercial vehicle sales,493,Sub-Segment Revenue
+$,"SUM(A1,A2,…,An)",$,EventVester,Sub-Segment Revenue - Used vehicles - New and used commercial vehicle sales,494,Sub-Segment Revenue
+$,A,$,EventVester,Gross Profit Per Unit by segment - EchoPark Same Market-Total used vehicle and F&I,495,Gross Profit Per Unit by segment
+$,A,$,EventVester,Gross Profit Per Unit by segment - EchoPark-Total used vehicle and F&I,496,Gross Profit Per Unit by segment
+$,A,$,EventVester,Gross Profit Per Unit by segment - Franchised Dealerships Same Store - Used vehicles,497,Gross Profit Per Unit by segment
+$,A,$,EventVester,Gross Profit Per Unit by segment - Franchised Dealerships Same Store -New vehicles,498,Gross Profit Per Unit by segment
+$,A,$,EventVester,Gross Profit Per Unit by segment - Franchised Dealerships-New vehicles,499,Gross Profit Per Unit by segment
+$,A,$,EventVester,Gross Profit Per Unit by segment - Franchised Dealerships-Used vehicles,500,Gross Profit Per Unit by segment
+Dealerships,A,$,EventVester,Number of Franchised Dealerships,501,Number of Franchised Dealerships
+$,A,$,EventVester,Revenue by Segment - EchoPark Segment revenues,502,Revenue by Segment
+$,A,$,EventVester,Revenue by Segment - Franchised Dealerships Segment revenues,503,Revenue by Segment
+$,A,$,EventVester,"Revenue by Type - Finance, insurance and other Revenue",504,Revenue by Type
+$,A,$,EventVester,"Revenue by Type - Parts, service and collision repair Revenue",505,Revenue by Type
+$,A,$,EventVester,Revenue by Type - Vehicles Revenue,506,Revenue by Type
+$,A,$,EventVester,Revenue per unit by segment - EchoPark -Wholesale vehicles,507,Revenue per unit by segment
+$,A,$,EventVester,Revenue per unit by segment - EchoPark Same Market-Wholesale vehicles,508,Revenue per unit by segment
+$,A,$,EventVester,Revenue per unit by segment - EchoPark Segment same store-Used vehicle,509,Revenue per unit by segment
+$,A,$,EventVester,Revenue per unit by segment - EchoPark Segment-Used vehicle,510,Revenue per unit by segment
+$,A,$,EventVester,Revenue per unit by segment - Franchised Dealerships Same Store -Wholesale vehicles,511,Revenue per unit by segment
+$,A,$,EventVester,Revenue per unit by segment - Franchised Dealerships same store-new vehicles,512,Revenue per unit by segment
+$,A,$,EventVester,Revenue per unit by segment - Franchised Dealerships same store-used vehicles,513,Revenue per unit by segment
+$,A,$,EventVester,Revenue per unit by segment - Franchised Dealerships Segment reported- used vehicles,514,Revenue per unit by segment
+$,A,$,EventVester,Revenue per unit by segment - Franchised Dealerships Segment reported-new vehicles,515,Revenue per unit by segment
+$,A,$,EventVester,Revenue per unit by segment - Franchised Dealerships Segment reported-wholesale vehicles,516,Revenue per unit by segment
+vehicles,A-B,$,EventVester,Unit Sales Volume by segment - EchoPark -Wholesale vehicles,517,Unit Sales Volume by segment
+vehicles,A-B,$,EventVester,Unit Sales Volume by segment - EchoPark Same Market-Used vehicles,518,Unit Sales Volume by segment
+vehicles,A-B,$,EventVester,Unit Sales Volume by segment - EchoPark Same Market-Wholesale vehicles,519,Unit Sales Volume by segment
+vehicles,A-B,$,EventVester,Unit Sales Volume by segment - EchoPark-New vehicles,520,Unit Sales Volume by segment
+vehicles,A-B,$,EventVester,Unit Sales Volume by segment - EchoPark-Used vehicles,521,Unit Sales Volume by segment
+vehicles,A-B,$,EventVester,Unit Sales Volume by segment - Franchised Dealerships -  Retail new & used vehicles,522,Unit Sales Volume by segment
+ratio,A/B,R,EventVester,Unit Sales Volume by segment - Franchised Dealerships -  Used-to-New Ratio,523,Unit Sales Volume by segment
+vehicles,A-B,$,EventVester,Unit Sales Volume by segment - Franchised Dealerships - New vehicles,524,Unit Sales Volume by segment
+vehicles,A-B,$,EventVester,Unit Sales Volume by segment - Franchised Dealerships - Used vehicles,525,Unit Sales Volume by segment
+vehicles,A-B,$,EventVester,Unit Sales Volume by segment - Franchised Dealerships - Wholesale vehicles,526,Unit Sales Volume by segment
+stores,A-B,$,EventVester,Unit Sales Volume by segment - Franchised Dealerships Same Store - Retail new & used vehicles,527,Unit Sales Volume by segment
+stores,A-B,$,EventVester,Unit Sales Volume by segment - Franchised Dealerships Same Store - Used vehicles,528,Unit Sales Volume by segment
+stores,A/B,R,EventVester,Unit Sales Volume by segment - Franchised Dealerships Same Store - Used-to-New Ratio,529,Unit Sales Volume by segment
+stores,A-B,$,EventVester,Unit Sales Volume by segment - Franchised Dealerships Same Store -New vehicles,530,Unit Sales Volume by segment
+stores,A-B,$,EventVester,Unit Sales Volume by segment - Franchised Dealerships Same Store -Wholesale vehicles,531,Unit Sales Volume by segment
+days,A,#,EventVester,Average days to sale,532,Average days to sale
+visitor,A,#,EventVester,Average monthly unique visitors,533,Average monthly unique visitors
+units,A,$,EventVester,Average monthly unique visitors,533,Average monthly unique visitors
+$,A,$,EventVester,Average selling price- By segment - Ecommerce,534,Average selling price- By segment
+$,A,$,EventVester,Average selling price- By segment - Wholesale,535,Average selling price- By segment
+$,A,$,EventVester,Ecommerce ASP,536,Ecommerce ASP
+units,A,$,EventVester,Ecommerce Units,537,Ecommerce Units
+Vehicles,A,$,EventVester,Ecommerce vehicles available for sale,538,Ecommerce vehicles available for sale
+$/unit,A,$,EventVester,Gross Profit per Unit by segment - Ecommerce Gross Profit per Unit,539,Gross Profit per Unit by segment
+$/unit,A,$,EventVester,Gross Profit per Unit by segment - Other Gross Profit per Unit,540,Gross Profit per Unit by segment
+$/unit,A,$,EventVester,Gross Profit per Unit by segment - Wholesale Gross Profit per Unit,541,Gross Profit per Unit by segment
+units,,$,EventVester,Number of regional hubs,542,Number of regional hubs
+$,"SUM(A1,A2,…,An)",$,EventVester,"Segment Revenue - Ecommerce revenue, net",543,Segment Revenue
+$,"SUM(A1,A2,…,An)",$,EventVester,Segment Revenue - Other revenue,544,Segment Revenue
+$,"SUM(A1,A2,…,An)",$,EventVester,Segment Revenue - Wholesale vehicle revenue,545,Segment Revenue
+units,A,$,EventVester,Total units sold,546,Total units sold
+units,A,$,EventVester,Units sold by segment - Ecommerce units,547,Units sold by segment
+units,A,$,EventVester,Units sold by segment - Wholesale units,548,Units sold by segment
+units,A,$,EventVester,Units sold- By segment - Ecommerce,549,Units sold- By segment
+units,A,$,EventVester,Units sold- By segment - Wholesale,550,Units sold- By segment
+$,A,$,EventVester,Wholesale ASP,551,Wholesale ASP
+$,"SUM(A1,A2,…,An)",$,EventVester,Segment Revenue - All Other,552,Segment Revenue
+$,"SUM(A1,A2,…,An)",$,EventVester,Segment Revenue - Ecommerce,553,Segment Revenue
+$,"SUM(A1,A2,…,An)",$,EventVester,Segment Revenue - TDA,554,Segment Revenue
+$,"SUM(A1,A2,…,An)",$,EventVester,Segment Revenue - Wholesale,555,Segment Revenue
+,A/B,$,EventVester,Unique visitors - Average monthly unique visitors,556,Unique visitors
+units,A,#,EventVester,Units Sold - E-commerce,557,Units Sold
+units,A,#,EventVester,Units Sold - TDA,558,Units Sold
+units,A,#,EventVester,Units Sold - Wholesale,559,Units Sold
+$,A,$,EventVester,"Merchandise Sales - Apparel, Electronics, & Other",560,Merchandise Sales
+$,A,$,EventVester,Merchandise Sales - Consumables,561,Merchandise Sales
+$,A,$,EventVester,Merchandise Sales - Food,562,Merchandise Sales
+$,A,$,EventVester,Merchandise Sales - Furniture,563,Merchandise Sales
+$,A,$,EventVester,Merchandise Sales - Hard Home,564,Merchandise Sales
+$,A,$,EventVester,Merchandise Sales - Seasonal,565,Merchandise Sales
+$,A,$,EventVester,Merchandise Sales - Soft Home,566,Merchandise Sales
+%,(A-B)/A,%,EventVester,Revenue - Ecommerce ,567,Revenue
+$,A,$,EventVester,Revenue,568,Revenue
+$,A,$,EventVester,Revenues by merchandise category - Consumables,569,Revenues by merchandise category
+$,A,$,EventVester,"Revenues by merchandise category - Electronics, Toys, & Accessories",570,Revenues by merchandise category
+$,A,$,EventVester,Revenues by merchandise category - Food,571,Revenues by merchandise category
+$,A,$,EventVester,Revenues by merchandise category - Furniture,572,Revenues by merchandise category
+$,A,$,EventVester,Revenues by merchandise category - Hard Home,573,Revenues by merchandise category
+$,A,$,EventVester,Revenues by merchandise category - Seasonal,574,Revenues by merchandise category
+$,A,$,EventVester,Revenues by merchandise category - Soft Home,575,Revenues by merchandise category
+$,A,$,EventVester,Lease Payments - Total Long Term Lease Liabilities,576,Lease Payments
+$,A,$,EventVester,Sales - Other Revenue,577,Sales
+$,A,$,EventVester,Sales,578,Sales
+stores,"COUNT(A1, A2,…,An)",#,EventVester,Stores - New store count potential,579,Stores
+stores,"SUM(A1,A2,…,An)",$,EventVester,Stores - Total Closed or Relocated Stores,580,Stores
+stores,"SUM(A1,A2,…,An)",$,EventVester,Stores - Total New Stores,581,Stores
+stores,"SUM(A1,A2,…,An)",$,EventVester,Stores - Total operating stores,582,Stores
+$,A-B,$,EventVester,Net Sales by Segment - Construction,583,Net Sales by Segment
+%,(A-B)/A,%,EventVester,Net Sales by Segment - Construction,583,Net Sales by Segment
+$,A-B,$,EventVester,Net Sales by Segment - Retail Operations,584,Net Sales by Segment
+%,(A-B)/A,%,EventVester,Net Sales by Segment - Retail operations,585,Net Sales by Segment
+$/sqf,A,$,EventVester,Sales - Retail sales per square foot,586,Sales
+stores,"COUNT(A1, A2,…,An)",#,EventVester,Stores - Total retail store count at end of period,587,Stores
+% increase,(A-B)/A,%,EventVester,Comparable store sales,588,Comparable store sales
+stores,"COUNT(A1, A2,…,An)",#,EventVester,New stores opened,589,New stores opened
+$,A,$,EventVester,Revenue by Type - Non-perishable,590,Revenue by Type
+$,A,$,EventVester,Revenue by Type - Perishable,591,Revenue by Type
+stores,"SUM(A1,A2,…,An)",$,EventVester,Stores - Stores count,592,Stores
+shops,A,#,EventVester,Additional shops - Planning Underway,593,Additional shops
+units,A,#,EventVester,Card holders - Kohl's Charge card holders,594,Card holders
+%,(A-B)/A,%,EventVester,Customer acquisition - Sephora customers new to Kohl's,595,Customer acquisition
+units,A,#,EventVester,Customers - Active Customers,334,Customers
+shops,A,#,EventVester,Kohl's shops and comprehensive digital experience - Sephora,596,Kohl's shops and comprehensive digital experience
+units,A,#,EventVester,Loyalty Members,597,Loyalty Members
+$,"SUM(A1,A2,…,An)",$,EventVester,Segment Revenue - Accessories,598,Segment Revenue
+$,"SUM(A1,A2,…,An)",$,EventVester,Segment Revenue - Children's,599,Segment Revenue
+$,"SUM(A1,A2,…,An)",$,EventVester,Segment Revenue - Footwear,600,Segment Revenue
+$,"SUM(A1,A2,…,An)",$,EventVester,Segment Revenue - Home,601,Segment Revenue
+$,"SUM(A1,A2,…,An)",$,EventVester,Segment Revenue - Men's,602,Segment Revenue
+$,"SUM(A1,A2,…,An)",$,EventVester,Segment Revenue - MenÃ¢â‚¬â„¢s,603,Segment Revenue
+$,"SUM(A1,A2,…,An)",$,EventVester,Segment Revenue - Women's,604,Segment Revenue
+stores,"COUNT(A1, A2,…,An)",#,EventVester,Store visits,605,Store visits
+stores,"SUM(A1,A2,…,An)",$,EventVester,Total stores,606,Total stores
+%,(A-B)/A,%,EventVester,User growth - Kohl's App user growth,607,User growth
+units,A,#,EventVester,Website visits,608,Website visits
+% increase,(A-B)/A,%,EventVester,New customers,609,New customers
+,A,$,EventVester,New customers,609,New customers
+%,(A-B)/A,%,EventVester,New customers - Through the digital channel,610,New customers
+%,(A-B)/A,%,EventVester,New customers  through Digital Channel,611,New customers  through Digital Channel
+cust,A,#,EventVester,Number of New Customers,612,Number of New Customers
+$,A,$,EventVester,Revenue by Business type - Home/Other,613,Revenue by Business type
+$,A,$,EventVester,Revenue by Business type - Men's and Kids',614,Revenue by Business type
+$,A,$,EventVester,"Revenue by Business type - Women's Accessories, Intimate Apparel, Shoes, Cosmetics and Fragrances",615,Revenue by Business type
+$,A,$,EventVester,Revenue by Business type - Women's Apparel,616,Revenue by Business type
+$,"SUM(A1,A2,…,An)",$,EventVester,"Segment Revenue - Credit card revenues, net",617,Segment Revenue
+$,"SUM(A1,A2,…,An)",$,EventVester,Segment Revenue - Home/Other,618,Segment Revenue
+$,"SUM(A1,A2,…,An)",$,EventVester,Segment Revenue - Men's and Kids',619,Segment Revenue
+$,"SUM(A1,A2,…,An)",$,EventVester,Segment Revenue - Net sales,620,Segment Revenue
+$,"SUM(A1,A2,…,An)",$,EventVester,"Segment Revenue - Women's Accessories, Intimate Apparel, Shoes, Cosmetics and Fragrances",621,Segment Revenue
+$,"SUM(A1,A2,…,An)",$,EventVester,Segment Revenue - Women's Apparel,622,Segment Revenue
+$/store,A-B,$,EventVester,Average Net Sales Per Store,623,Average Net Sales Per Store
+stores,"COUNT(A1, A2,…,An)",#,EventVester,Comparable Store Count,624,Comparable Store Count
+$,A-B,$,EventVester,Net Sales,625,Net Sales
+stores,"COUNT(A1, A2,…,An)",#,EventVester,Stores - Number of Closed Stores,626,Stores
+stores,"COUNT(A1, A2,…,An)",#,EventVester,Stores - Number of New Stores,627,Stores
+stores,"COUNT(A1, A2,…,An)",#,EventVester,Stores - Number of Stores,628,Stores
+stores,"COUNT(A1, A2,…,An)",#,EventVester,Stores - Number of Stores Open at Beginning of Quarter,629,Stores
+stores,"COUNT(A1, A2,…,An)",#,EventVester,Stores - Number of Stores Re-Opened,630,Stores
+% increase yoy,(A-B)/A,%,EventVester,Comparable Sales - Brand comparable sales,631,Comparable Sales
+stores,"SUM(A1,A2,…,An)",$,EventVester,New Stores Openings - Corporate Stores,632,New Stores Openings
+stores,"SUM(A1,A2,…,An)",$,EventVester,New Stores Openings - Franchise Stores,633,New Stores Openings
+stores,"COUNT(A1, A2,…,An)",#,EventVester,Number of Franchise Stores,634,Number of Franchise Stores
+stores,"SUM(A1,A2,…,An)",$,EventVester,Number of Stores - Corporate Stores,635,Number of Stores
+stores,"SUM(A1,A2,…,An)",$,EventVester,Number of Stores - Franchise Stores,636,Number of Stores
+stores,"SUM(A1,A2,…,An)",$,EventVester,Number of Stores - Halloween City Stores,637,Number of Stores
+$,A,$,EventVester,Segment Sales - Net Wholesale,638,Segment Sales
+$,A,$,EventVester,Segment Sales - Retail,639,Segment Sales
+$,A,$,EventVester,Segment Sales - Wholesale,640,Segment Sales
+%,(A-B)/A,%,EventVester,Share of Shelf - Manufacturing Share of Shelf,641,Share of Shelf
+%,(A-B)/A,%,EventVester,Share of Shelf - Wholesale Share of Shelf,642,Share of Shelf
+stores,"SUM(A1,A2,…,An)",$,EventVester,Store Acquisitions - Corporate Stores,643,Store Acquisitions
+stores,"SUM(A1,A2,…,An)",$,EventVester,Store Closures - Corporate Stores,644,Store Closures
+stores,"SUM(A1,A2,…,An)",$,EventVester,Store Closures - Franchise Stores,645,Store Closures
+stores,"COUNT(A1, A2,…,An)",#,EventVester,Store Count - Grand Total,646,Store Count
+stores,A-B,$,EventVester,Store Sales - Franchise Stores Sold to Party City,647,Store Sales
+stores,"COUNT(A1, A2,…,An)",#,EventVester,Stores - The total number of corporate Party City stores,648,Stores
+$,A,$,EventVester,Revenue by Category - Furniture Revenue,649,Revenue by Category
+$,A,$,EventVester,Revenue by Category - Non-Furniture Revenue,650,Revenue by Category
+$,"SUM(A1,A2,…,An)",$,EventVester,Segment Revenue - RH Segment Revenue,651,Segment Revenue
+$,"SUM(A1,A2,…,An)",$,EventVester,Segment Revenue - Waterworks Revenue,652,Segment Revenue
+stores,"COUNT(A1, A2,…,An)",#,EventVester,Stores - Total Galleries,653,Stores
+stores,"COUNT(A1, A2,…,An)",#,EventVester,Stores - Waterworks Showrooms,654,Stores
+$,A,$,EventVester,Revenue by Product Category - Accessories Revenue,655,Revenue by Product Category
+$,A,$,EventVester,Revenue by Product Category - Apparel/Footwear Revenue,656,Revenue by Product Category
+$,A,$,EventVester,Revenue by Product Category - Bags Revenue,657,Revenue by Product Category
+$,A,$,EventVester,Revenue by Product Category - Home Revenue,658,Revenue by Product Category
+$,A,$,EventVester,Revenue by Product Category - Other Revenue,659,Revenue by Product Category
+$,A,$,EventVester,Revenue by Product Category - Travel Revenue,660,Revenue by Product Category
+$,"SUM(A1,A2,…,An)",$,EventVester,Segment Revenue - Pura Vida Segment Revenue,661,Segment Revenue
+$,"SUM(A1,A2,…,An)",$,EventVester,Segment Revenue - VB Direct Segment Revenue,662,Segment Revenue
+$,"SUM(A1,A2,…,An)",$,EventVester,Segment Revenue - VB Indirect Segment Revenue,663,Segment Revenue
+stores,"COUNT(A1, A2,…,An)",#,EventVester,Stores - Total Stores,46,Stores
+%,(A-B)/A,%,EventVester,Customer reach - Customer reach with Drive Up & Go and Home Delivery,664,Customer reach
+memberships,A,#,EventVester,Memberships - Loyalty Memberships,665,Memberships
+items,A,#,EventVester,New Items launched,666,New Items launched
+%,(A-B)/A,%,EventVester,Retention rate - Retention rate with actively engaged members,667,Retention rate
+$,A,$,EventVester,Revenue by type - Fuel revenue,668,Revenue by type
+$,A,$,EventVester,Revenue by type - Non-perishables revenue,669,Revenue by type
+$,A,$,EventVester,Revenue by type - Other revenue,670,Revenue by type
+$,A,$,EventVester,Revenue by type - Perishables revenue,671,Revenue by type
+$,A,$,EventVester,Revenue by type - Pharmacy revenue,672,Revenue by type
+%,(A-B)/A,%,EventVester,Sales growth - Digital sales growth,673,Sales growth
+%,(A-B)/A,%,EventVester,Sales growth - Identical sales growth,674,Sales growth
+%,(A-B)/A,%,EventVester,Sales growth,675,Sales growth
+units,A,#,EventVester,COVID-19 vaccins - COVID-19 vaccine doses administrated,676,COVID-19 vaccins
+locations,A,#,EventVester,Delivery locations,677,Delivery locations
+$/customer,A,$,EventVester,Delivery price per customer - unlimited delivery price per customer,678,Delivery price per customer
+$,SUM(A1+A2+...+An)/n,$,EventVester,Hourly wage - Average hourly wage,679,Hourly wage
+%,(A-B)/A,%,EventVester,Kroger households covered,680,Kroger households covered
+items,A,#,EventVester,new items launched,681,new items launched
+locations,A,#,EventVester,Pickup locations,682,Pickup locations
+$,A,$,EventVester,Segment Sales - Convenience stores,683,Segment Sales
+$,A,$,EventVester,Segment Sales - Other Sales,684,Segment Sales
+$,A,$,EventVester,Segment Sales - Supermarket Fuel Sales,685,Segment Sales
+$,A,$,EventVester,Segment Sales - Total sales ,686,Segment Sales
+$,A,$,EventVester,Segment Sales - Total sales to retail customers without fuel,687,Segment Sales
+$,A,$,EventVester,Segment Sales - Total Sales to Retail Customers without Fuel Sales,688,Segment Sales
+$,A,$,EventVester,"Segment Sales - Total Sales to Retail Customers without Fuel, Supermarket Fuel and Other 
+Sales",689,Segment Sales
+$,A,$,EventVester,Revenue by product category - Dietary supplements revenue,690,Revenue by product category
+$,A,$,EventVester,Revenue by product category - Grocery revenue,691,Revenue by product category
+$,A,$,EventVester,Revenue by product category - Other revenue,692,Revenue by product category
+stores,"COUNT(A1, A2,…,An)",#,EventVester,Stores - Number of new stores,693,Stores
+stores,"COUNT(A1, A2,…,An)",#,EventVester,Stores - Number of new stores opened,694,Stores
+stores,"COUNT(A1, A2,…,An)",#,EventVester,Stores - Number of relocated/remodeled,695,Stores
+stores,"COUNT(A1, A2,…,An)",#,EventVester,Stores - Number of stores relocated/remodeled,696,Stores
+stores,"COUNT(A1, A2,…,An)",#,EventVester,Stores - Number of relocations/remodels,697,Stores
+stores,"COUNT(A1, A2,…,An)",#,EventVester,Average store size,698,Average store size
+%,(A-B)/A,%,EventVester,Comparable store sales growth,699,Comparable store sales growth
+% decrease,(A-B)/A,%,EventVester,Comparable Store Sales Growth,700,Comparable Store Sales Growth
+% increase,(A-B)/A,%,EventVester,Comparable Store Sales Growth,700,Comparable Store Sales Growth
+%,"COUNT(A1, A2,…,An)",%,EventVester,New Store Openings - Annual Unit Growth,701,New Store Openings
+stores,"SUM(A1,A2,…,An)",$,EventVester,New Store Openings - Unit Growth,702,New Store Openings
+stores,"COUNT(A1, A2,…,An)",$,EventVester,Number of Stores,703,Number of Stores
+$,A,$,EventVester,Revenue - Non-Perishables,704,Revenue
+$,A/B,$,EventVester,Revenue - Perishables,705,Revenue
+stores,"COUNT(A1, A2,…,An)",$,EventVester,Store Closures,706,Store Closures
+stores,"COUNT(A1, A2,…,An)",$,EventVester,Store Relocations,707,Store Relocations
+stores,"COUNT(A1, A2,…,An)",$,EventVester,Total Number of Stores,708,Total Number of Stores
+units,(A-B)/A,%,EventVester,Unit growth,709,Unit growth
+$,"SUM(A1,A2,…,An)",$,EventVester,Segment Revenues - Food Distribution Revenue,710,Segment Revenues
+$,"SUM(A1,A2,…,An)",$,EventVester,Segment Revenues - Military Revenue,711,Segment Revenues
+$,"SUM(A1,A2,…,An)",$,EventVester,Segment Revenues - Retail Revenue,712,Segment Revenues
+$,A,$,EventVester,Sub Segment Revenue by Category - Center store Revenue,713,Sub Segment Revenue by Category
+$,A,$,EventVester,Sub Segment Revenue by Category - Fresh Revenue,714,Sub Segment Revenue by Category
+$,A,$,EventVester,Sub Segment Revenue by Category - Fuel Revenue,715,Sub Segment Revenue by Category
+$,A,$,EventVester,Sub Segment Revenue by Category - Individuals Revenue,716,Sub Segment Revenue by Category
+$,A,$,EventVester,"Sub Segment Revenue by Category - Manufacturers, brokers and distributors Revenue",717,Sub Segment Revenue by Category
+$,A,$,EventVester,Sub Segment Revenue by Category - Non-food Revenue,718,Sub Segment Revenue by Category
+$,A,$,EventVester,Sub Segment Revenue by Category - Other Revenue,719,Sub Segment Revenue by Category
+$,A,$,EventVester,Sub Segment Revenue by Category - Other Revenue from products,720,Sub Segment Revenue by Category
+$,A,$,EventVester,Sub Segment Revenue by Category - Retailers Revenue,721,Sub Segment Revenue by Category
+%,(A-B)/A,%,EventVester,Fleet Optimization,722,Fleet Optimization
+%,(A-B)/A,%,EventVester,Net Sales - Non Core Banner Net Sales,723,Net Sales
+stores,"COUNT(A1, A2,…,An)",#,EventVester,No of Stores - Stores Closed,724,No of Stores
+%,(A-B)/A,%,EventVester,Sales Penetration - Digital Sales Penetration,725,Sales Penetration
+users,A,#,EventVester,Website - Visits to Website,726,Website
+%,(A-B)/A,%,EventVester,Net Sales - Accent decor,727,Net Sales
+%,(A-B)/A,%,EventVester,Net Sales - Home furnishings,728,Net Sales
+%,(A-B)/A,%,EventVester,Net Sales - Other,729,Net Sales
+stores,"COUNT(A1, A2,…,An)",#,EventVester,Stores - Total stores,730,Stores
+$,A-B,$,EventVester,Net Sales by Channel - Internet Net Sales,731,Net Sales by Channel
+$,A-B,$,EventVester,Net Sales by Channel - Other Net Sales,732,Net Sales by Channel
+$,A-B,$,EventVester,Net Sales by Channel - Showrooms Net Sales,733,Net Sales by Channel
+$,A-B,$,EventVester,Net Sales by Product - Accessories Net Sales,734,Net Sales by Product
+$,A-B,$,EventVester,Net Sales by Product - Other Net Sales,735,Net Sales by Product
+$,A-B,$,EventVester,Net Sales by Product - Sacs Net Sales,736,Net Sales by Product
+$,A-B,$,EventVester,Net Sales by Product - Sactionals Net Sales,737,Net Sales by Product
+stores,"COUNT(A1, A2,…,An)",#,EventVester,Showroom Count - Ending Showroom Count,738,Showroom Count
+sqf/store,SUM(A1+A2+...+An)/n,A,EventVester,"Average Leased Square
+Footage Per Store",739,"Average Leased Square
+Footage Per Store"
+stores,"COUNT(A1, A2,…,An)",#,EventVester,Closings Store Count,740,Closings Store Count
+stores,"COUNT(A1, A2,…,An)",#,EventVester,Openings Store Count,741,Openings Store Count
+$,A,$,EventVester,Revenue by Brand - Other,742,Revenue by Brand
+$,A,$,EventVester,Revenue by Brand - Pottery Barn,743,Revenue by Brand
+$,A,$,EventVester,Revenue by Brand - Pottery Barn Kids and Teen,744,Revenue by Brand
+$,A,$,EventVester,Revenue by Brand - West Elm,745,Revenue by Brand
+$,A,$,EventVester,Revenue by Brand - Williams Sonoma,746,Revenue by Brand
+stores,"COUNT(A1, A2,…,An)",#,EventVester,Total Store Count,747,Total Store Count
+$,A,$,EventVester,"Revenue by Category - Gypsum, roofing & insulation",748,Revenue by Category
+$,A,$,EventVester,Revenue by Category - Lumber & lumber sheet goods,749,Revenue by Category
+$,A,$,EventVester,Revenue by Category - Manufactured products,750,Revenue by Category
+$,A,$,EventVester,Revenue by Category - Other building products & services,751,Revenue by Category
+$,A,$,EventVester,"Revenue by Category - Siding, metal & concrete products",752,Revenue by Category
+$,A,$,EventVester,"Revenue by Category - Windows, doors & millwork",753,Revenue by Category
+$,A,$,EventVester,Revenue By Type - Adjacent categories,754,Revenue By Type
+$,A,$,EventVester,Revenue By Type - Decorative accessories / wall tile,755,Revenue By Type
+$,A,$,EventVester,Revenue By Type - Installation materials and tools,756,Revenue By Type
+$,A,$,EventVester,Revenue By Type - Laminate / luxury vinyl plank,757,Revenue By Type
+$,A,$,EventVester,Revenue By Type - Natural stone,758,Revenue By Type
+$,A,$,EventVester,Revenue By Type - Other,759,Revenue By Type
+$,A,$,EventVester,Revenue By Type - Tile,760,Revenue By Type
+$,A,$,EventVester,Revenue By Type - Wood,761,Revenue By Type
+stores,"SUM(A1,A2,…,An)",$,EventVester,Stores - New warehouse stores,762,Stores
+stores,"COUNT(A1, A2,…,An)",#,EventVester,Stores - new warehouse-format stores,763,Stores
+stores,"COUNT(A1, A2,…,An)",#,EventVester,Stores - warehouse stores operating,764,Stores
+Studios,A,$,EventVester,Studios - Design studios,765,Studios
+$,A,$,EventVester,Average ticket,766,Average ticket
+% increase,(A-B)/A,%,EventVester,Average Ticket - Change in Average Ticket,767,Average Ticket
+% increase yoy,(A-B)/A,%,EventVester,Big Ticket Sales,768,Big Ticket Sales
+% increase yoy,,%,EventVester,Comparable Average Ticket,769,Comparable Average Ticket
+% increase,(A-B)/A,%,EventVester,Comparable Sales - Change in Comparable Sales,770,Comparable Sales
+%,(A-B)/A,%,EventVester,Comparable sales - Total comparable sales,771,Comparable sales
+% increase yoy,(A-B)/A,%,EventVester,Comparable Store Sales,772,Comparable Store Sales
+% decrease yoy,(A-B)/A,%,EventVester,Comparable Transactions,773,Comparable Transactions
+% increase yoy,(A-B)/A,%,EventVester,Comparable Transactions,773,Comparable Transactions
+% decrease,(A-B)/A,%,EventVester,Customer Transactions - Comparable Customer Transactions,774,Customer Transactions
+$,(A-B)/A,$,EventVester,Customer Transactions,775,Customer Transactions
+,(A-B)/A,$,EventVester,Customer transactions - Customer transactions (in millions),776,Customer transactions
+$,A-B,$,EventVester,Geographic Net Sales - Outside the U.S. Net Sales,777,Geographic Net Sales
+$,A-B,$,EventVester,Geographic Net Sales - U.S. Net Sales,778,Geographic Net Sales
+$,A-B,$,EventVester,Geographic Sales - Outside the U.S. Net Sales,779,Geographic Sales
+$,A-B,$,EventVester,Geographic Sales - U.S. Net Sales,780,Geographic Sales
+$,A-B,$,EventVester,Net sales by major product lines - Building Materials Net Sales,781,Net sales by major product lines
+$,A-B,$,EventVester,Net sales by major product lines - Decor Net Sales,782,Net sales by major product lines
+$,A-B,$,EventVester,Net sales by major product lines - Hardlines Net Sales,783,Net sales by major product lines
+$,A-B,$,EventVester,Net sales by products - Products Net Sales,784,Net sales by products
+$,A-B,$,EventVester,Net sales by Services - Services Net Sales,785,Net sales by Services
+stores,"SUM(A1,A2,…,An)",$,EventVester,Number of Stores,703,Number of Stores
+%,(A-B)/A,%,EventVester,Online Sales,786,Online Sales
+% increase yoy,(A-B)/A,%,EventVester,Online Sales,786,Online Sales
+%,A,%,EventVester,ROIC - (ROIC) Return on Invested Capital,787,ROIC
+% increase yoy,A,%,EventVester,ROIC - (ROIC) Return on Invested Capital,787,ROIC
+$/sqf,A,$,EventVester,Sales per square foot,788,Sales per square foot
+$,A-B,$,EventVester,Segment Sales - Building Materials Net Sales,789,Segment Sales
+$,A-B,$,EventVester,Segment Sales - Decor Net Sales,790,Segment Sales
+$,A-B,$,EventVester,Segment Sales - Hardlines Net Sales,791,Segment Sales
+$,A,$,EventVester,Segment Sales - Online Sales,792,Segment Sales
+% increase yoy,(A-B)/A,%,EventVester,Segment Sales - Online Sales,792,Segment Sales
+$,A-B,$,EventVester,Segment Sales - Products Net Sales,793,Segment Sales
+$,A-B,$,EventVester,Segment Sales - Services Net Sales,794,Segment Sales
+$,(A-B)/A,$,EventVester,Average Ticket - Change in Average Ticket,767,Average Ticket
+%,(A-B)/A,%,EventVester,Comparable Sales - Change in Comparable Sales,770,Comparable Sales
+transactions,A,$,EventVester,Customer Transactions - Total Customer Transactions,795,Customer Transactions
+$,A,$,EventVester,Geographical Sales - Canada Sales,796,Geographical Sales
+$,A,$,EventVester,Geographical Sales - International Sales,797,Geographical Sales
+$,A,$,EventVester,Geographical Sales - United States	,798,Geographical Sales
+$,A,$,EventVester,Merchandise Sales - Building Products Sales,799,Merchandise Sales
+$,A,$,EventVester,Merchandise Sales - Hardlines Sales,800,Merchandise Sales
+$,A,$,EventVester,Merchandise Sales - Home Decor Sales,801,Merchandise Sales
+$,A,$,EventVester,Merchandise Sales - Other Sales,802,Merchandise Sales
+$,A-B,$,EventVester,Net sales,803,Net sales
+$,A-B,$,EventVester,Net sales - Other,804,Net sales
+$,A-B,$,EventVester,Net sales - Products,805,Net sales
+$,A-B,$,EventVester,Net sales - Services,806,Net sales
+stores,"SUM(A1,A2,…,An)",$,EventVester,Number of Stores - Company-Operated Stores,807,Number of Stores
+stores,"SUM(A1,A2,…,An)",$,EventVester,Number of Stores - Dealer-Operated Stores,808,Number of Stores
+homes,A,#,EventVester,Operations - Home improved in number,809,Operations
+sqf,A,A,EventVester,Operations - Home improved in square feet,810,Operations
+,A,$,EventVester,Sales Floor Square Feet,811,Sales Floor Square Feet
+$,A,$,EventVester,Segment sales - Other Sales,812,Segment sales
+$,A,$,EventVester,Segment sales - Products Sales,813,Segment sales
+$,A,$,EventVester,Segment sales - Services Sales,814,Segment sales
+stores,SUM(A1+A2+...+An)/n,$,EventVester,Store Size - Average Store Size Selling Square Feet ,815,Store Size
+clus,A,#,EventVester,Operating clubs - Total operating clubs,816,Operating clubs
+%,"SUM(A1,A2,…,An)",%,EventVester,Segment Revenue - Gasoline and Other,817,Segment Revenue
+%,"SUM(A1,A2,…,An)",%,EventVester,Segment Revenue - General Merchandise & Services,818,Segment Revenue
+%,"SUM(A1,A2,…,An)",%,EventVester,Segment Revenue - Grocery,819,Segment Revenue
+$,"SUM(A1,A2,…,An)",$,EventVester,Segment Revenue - Membership fee income,820,Segment Revenue
+$,"SUM(A1,A2,…,An)",$,EventVester,Segment Revenue - Net Sales,821,Segment Revenue
+%,(A-B)/A,%,EventVester,Fuel - Fuel gallons on a same-store basis,822,Fuel
+stores,A,$,EventVester,New Stores - Acquisitions,823,New Stores
+stores,A,$,EventVester,New stores - Construction,824,New stores
+stores,A,$,EventVester,No. Of Stores,825,No. Of Stores
+$,A,$,EventVester,Sales by Category - Fuel Sales,826,Sales by Category
+$,A,$,EventVester,Sales by Category - Grocery & Other Merchandise Sales,827,Sales by Category
+$,A,$,EventVester,Sales by Category - Other Sales,828,Sales by Category
+$,A,$,EventVester,Sales by Category - Prepared Food & Fountain Sales,829,Sales by Category
+$,A,$,EventVester,Segment Sales - Fuel Sales,830,Segment Sales
+$,A,$,EventVester,Segment Sales - Grocery & Other Merchandise Sales,831,Segment Sales
+$,A,$,EventVester,Segment Sales - Prepared Food & Fountain Sales,832,Segment Sales
+cardholders,A,$,EventVester,Cardholders - Total Cardholders,833,Cardholders
+$,"SUM(A1,A2,…,An)",$,EventVester,Geographic Revenue - Revenue from Canadian Operations,834,Geographic Revenue
+$,"SUM(A1,A2,…,An)",$,EventVester,Geographic Revenue - Revenue from Other International Operations,835,Geographic Revenue
+$,"SUM(A1,A2,…,An)",$,EventVester,Geographic Revenue - Revenue from United States Operations,836,Geographic Revenue
+,A,$,EventVester,Members - Household Members,837,Members
+$,A,$,EventVester,Membership Fee Income,838,Membership Fee Income
+%,(A-B)/A,%,EventVester,Renewal Rate,839,Renewal Rate
+$,"SUM(A1,A2,…,An)",$,EventVester,Segment Revenue - Membership fees revenue,840,Segment Revenue
+$,"SUM(A1,A2,…,An)",$,EventVester,Sub-segment Revenue - Net sales from Ancillary,841,Sub-segment Revenue
+$,"SUM(A1,A2,…,An)",$,EventVester,Sub-segment Revenue - Net sales from Ancillary and other,842,Sub-segment Revenue
+$,"SUM(A1,A2,…,An)",$,EventVester,Sub-segment Revenue - Net sales from Food and Sundries,843,Sub-segment Revenue
+$,"SUM(A1,A2,…,An)",$,EventVester,Sub-segment Revenue - Net sales from Fresh Foods,844,Sub-segment Revenue
+$,"SUM(A1,A2,…,An)",$,EventVester,Sub-segment Revenue - Net sales from Hardlines,845,Sub-segment Revenue
+$,"SUM(A1,A2,…,An)",$,EventVester,Sub-segment Revenue - Net sales from Softlines,846,Sub-segment Revenue
+Warehouses,A,$,EventVester,Warehouses - No. of Warehouses,847,Warehouses
+% increase,(A-B)/A,%,EventVester,Digital Comparable Sales,848,Digital Comparable Sales
+$,A,$,EventVester,Other - Other Revenue,849,Other
+% of revenue,(A-B)/A,%,EventVester,Product Net Sales - Target Credit Card,850,Product Net Sales
+% of revenue,(A-B)/A,%,EventVester,Product Net Sales - Target Debit Card,851,Product Net Sales
+$,A,$,EventVester,Revenue from other sources - Apparel and accessories,852,Revenue from other sources
+$,A,$,EventVester,Revenue from other sources - Beauty and household essentials,853,Revenue from other sources
+$,A,$,EventVester,Revenue from other sources - Credit card profit sharing,854,Revenue from other sources
+$,A,$,EventVester,Revenue from other sources - Food and beverage,855,Revenue from other sources
+$,A,$,EventVester,Revenue from other sources - Hardlines,856,Revenue from other sources
+$,A,$,EventVester,Revenue from other sources - Home furnishings and decor,857,Revenue from other sources
+$,A,$,EventVester,Revenue from other sources - Other Revenue,858,Revenue from other sources
+$,A,$,EventVester,Revenue from other sources - Others,859,Revenue from other sources
+% increase,(A-B)/A,%,EventVester,Same-day services,860,Same-day services
+% of revenue,A-B,R,EventVester,Segment Net Sales - Comparable sales growth in Signature Categories,861,Segment Net Sales
+% increase yoy,(A-B)/A,%,EventVester,Segment Net Sales - Digital comparable sales,862,Segment Net Sales
+% increase yoy,(A-B)/A,%,EventVester,Segment Net Sales - Digitally originated comparable sales change,863,Segment Net Sales
+% of revenue,(A-B)/A,%,EventVester,Segment Net Sales - Sales by Digitally originated,864,Segment Net Sales
+% of revenue,(A-B)/A,%,EventVester,Segment Net Sales - Sales by Stores Originated,865,Segment Net Sales
+% increase yoy,(A-B)/A,%,EventVester,"Segment Net Sales - Same-day services (Order Pick Up, Drive Up and Shipt)",866,Segment Net Sales
+% of digital sales,(A-B)/A,%,EventVester,"Segment Net Sales - Same-day services (Order Pick Up, Drive Up and Shipt)",866,Segment Net Sales
+% increase yoy,(A-B)/A,%,EventVester,Segment Net Sales - Stores originated channel comparable sales,867,Segment Net Sales
+% decrease yoy,(A-B)/A,%,EventVester,Segment Net Sales - Stores originated channel comparable sales change,868,Segment Net Sales
+% increase yoy,(A-B)/A,%,EventVester,Segment Net Sales - Stores originated channel comparable sales change,868,Segment Net Sales
+% increase,(A-B)/A,%,EventVester,Store Comparable Sales,869,Store Comparable Sales
+% increase yoy,(A-B)/A,%,EventVester,Global Segment Sales - Global eCommerce sales,870,Global Segment Sales
+%,A,%,EventVester,Member Subscription - Sam's Club Member Count,871,Member Subscription
+$,A,$,EventVester,Other - Membership and other income,872,Other
+%,A,#,EventVester,Segment Sales - Sam's Club eCommerce sales,873,Segment Sales
+% increase yoy,(A-B)/A,%,EventVester,Segment Sales - Sam's Club eCommerce sales,873,Segment Sales
+%,A,#,EventVester,Segment Sales - Sam's Club comp sales with fuel,874,Segment Sales
+% decrease yoy,(A-B)/A,%,EventVester,Segment Sales - Sam's Club comp sales with fuel,874,Segment Sales
+% increase yoy,(A-B)/A,%,EventVester,Segment Sales - Sam's Club comp sales with fuel,874,Segment Sales
+% decrease yoy,(A-B)/A,%,EventVester,Segment Sales - Sam's Club comp sales without fuel,875,Segment Sales
+% increase yoy,(A-B)/A,%,EventVester,Segment Sales - Sam's Club comp sales without fuel,875,Segment Sales
+$,A,$,EventVester,Segment Sales - Sam's Club Sales,876,Segment Sales
+$,A,$,EventVester,Segment Sales - Walmart International Sales,877,Segment Sales
+$,A,$,EventVester,"Segment Sales - Walmart International Sales, Excluding currency",878,Segment Sales
+$,A,$,EventVester,Segment Sales - Walmart U.S Sales,879,Segment Sales
+%,A,#,EventVester,Segment Sales - Walmart U.S. comp sales with fuel,880,Segment Sales
+% decrease yoy,(A-B)/A,%,EventVester,Segment Sales - Walmart U.S. comp sales with fuel,880,Segment Sales
+% increase yoy,(A-B)/A,%,EventVester,Segment Sales - Walmart U.S. comp sales with fuel,880,Segment Sales
+% decrease yoy,(A-B)/A,%,EventVester,Segment Sales - Walmart U.S. comp sales without fuel,881,Segment Sales
+% increase yoy,(A-B)/A,%,EventVester,Segment Sales - Walmart U.S. comp sales without fuel,881,Segment Sales
+%,(A-B)/A,%,EventVester,Segment Sales - Walmart U.S. eCommerce sales,882,Segment Sales
+% increase yoy,(A-B)/A,%,EventVester,Segment Sales - Walmart U.S. eCommerce sales,882,Segment Sales
+stores,"COUNT(A1, A2,…,An)",#,EventVester,Store Count - Total Store Count,170,Store Count
+stores,"COUNT(A1, A2,…,An)",#,EventVester,Stores - New Store Count,883,Stores
+$,A,$,EventVester,Marketplace - Marketplace GMV,884,Marketplace
+units,A,$,EventVester,Marketplace - Marketplace Units,885,Marketplace
+$,"SUM(A1,A2,…,An)",$,EventVester,Segment Revenue - Customer assurance revenue,886,Segment Revenue
+$,"SUM(A1,A2,…,An)",$,EventVester,Segment Revenue - Marketplace and service revenue,887,Segment Revenue
+no,A,#,EventVester,Amazon Web Services - AWS Availability Zones,888,Amazon Web Services
+no,A,#,EventVester,Amazon Web Services - Geographic Regions,889,Amazon Web Services
+,A,$,EventVester,Contact center - Contact center interactions,890,Contact center
+$,A,$,EventVester,Holiday Season Sales,891,Holiday Season Sales
+$,A,$,EventVester,Prime Day Sales,892,Prime Day Sales
+$,A-B,$,EventVester,Product Net Sales - AWS,893,Product Net Sales
+$,A-B,$,EventVester,Product Net Sales - Online stores,894,Product Net Sales
+$,A-B,$,EventVester,Product Net Sales - Other,895,Product Net Sales
+$,A-B,$,EventVester,Product Net Sales - Physical stores,896,Product Net Sales
+$,A-B,$,EventVester,Product Net Sales - Retail products,897,Product Net Sales
+$,A-B,$,EventVester,Product Net Sales - Retail subscription services,898,Product Net Sales
+$,A-B,$,EventVester,Product Net Sales - Retail third-party seller services,899,Product Net Sales
+$,A-B,$,EventVester,Product Net Sales - Subscription services,900,Product Net Sales
+$,A-B,$,EventVester,Product Net Sales - Third-party seller services,901,Product Net Sales
+% increase of capacity,(A-B)/A,%,EventVester,Seasonal - Grocery Delivery,902,Seasonal
+$,A,$,EventVester,Seasonal - Incremental COVID-19 Costs,903,Seasonal
+true/false,A,#,EventVester,Seasonal - Shipment Zero,904,Seasonal
+$,A-B,$,EventVester,Segment Net Sales - AWS Segment,905,Segment Net Sales
+$,A-B,$,EventVester,Segment Net Sales - International Segment,906,Segment Net Sales
+$,A-B,$,EventVester,Segment Net Sales - North America Segment,907,Segment Net Sales
+$,SUM(A1+A2+...+An)/n,$,EventVester,Order Value - Average Order Value,908,Order Value
+$,A,$,EventVester,Revenue by Category - Commerce,909,Revenue by Category
+$,A,$,EventVester,Revenue by Category - Direct to Consumer,910,Revenue by Category
+$,A,$,EventVester,Revenue by Category - Other,911,Revenue by Category
+units,A,#,EventVester,Subscriptions - Active Subscriptions,912,Subscriptions
+%,(A-B)/A,%,EventVester,Subscriptions - Average Monthly Subscription Shipment Churn,913,Subscriptions
+units,A,#,EventVester,Subscriptions  - New Subscriptions ,914,Subscriptions 
+users,A/B,$,EventVester,Average monthly unique users - International,915,Average monthly unique users
+users,A/B,$,EventVester,Average monthly unique users - U.S.,916,Average monthly unique users
+$,A,$,EventVester,Revenue by geography - International,917,Revenue by geography
+$,A,$,EventVester,Revenue by geography - United States,918,Revenue by geography
+$,A,$,EventVester,Revenue by Source - Marketplace subscription revenue,919,Revenue by Source
+$,A,$,EventVester,Revenue by Source - Other revenue,920,Revenue by Source
+Dealers,A,$,EventVester,Total paying dealers,921,Total paying dealers
+Customers,A,$,EventVester,Dealer Customers,922,Dealer Customers
+$,A,$,EventVester,Revenues by Major products and services - Display advertising,923,Revenues by Major products and services
+$,A,$,EventVester,Revenues by Major products and services - Other,924,Revenues by Major products and services
+$/lead,A,$,EventVester,Revenues by Major products and services - Pay per lead,925,Revenues by Major products and services
+$,A,$,EventVester,Revenues by Major products and services - Subscription advertising and digital solutions,926,Revenues by Major products and services
+$,"SUM(A1,A2,…,An)",$,EventVester,Segment revenues - Dealer,927,Segment revenues
+$,"SUM(A1,A2,…,An)",$,EventVester,Segment revenues - OEM and National,928,Segment revenues
+$,"SUM(A1,A2,…,An)",$,EventVester,Segment revenues - Other,929,Segment revenues
+customers,A/B,$,EventVester,Unique Visitors - Average Monthly Unique Visitors,930,Unique Visitors
+Visitiors,A,$,EventVester,Website customers - Growth in website customers,931,Website customers
+Customers,A,$,EventVester,Customers - Active customers,932,Customers
+$,A,$,EventVester,Sales	 - Autoship customer sales	,933,Sales	
+$,A,$,EventVester,Sales	 - Autoship customer sales,934,Sales	
+%,(A-B)/A,%,EventVester,Sales	 - Autoship customer sales as a percentage of net sales,935,Sales	
+$/customer,A-B,$,EventVester,Sales	 - Net sales per active customer,936,Sales	
+$,"SUM(A1,A2,…,An)",$,EventVester,Segment Revenue - Consumables Revenue,937,Segment Revenue
+$,"SUM(A1,A2,…,An)",$,EventVester,Segment Revenue - Hardgoods Revenue,938,Segment Revenue
+$,"SUM(A1,A2,…,An)",$,EventVester,Segment Revenue - Other Revenue,939,Segment Revenue
+Buyers,A,$,EventVester,Active Buyers,940,Active Buyers
+$,A,$,EventVester,Gross merchandise value,941,Gross merchandise value
+Orders,A,#,EventVester,Number of Orders,942,Number of Orders
+$,A,$,EventVester,Revenue by Segment - Other services,943,Revenue by Segment
+$,A,$,EventVester,Revenue by Segment - Seller marketplace services,944,Revenue by Segment
+buyers,A,$,EventVester,Annual active buyers,945,Annual active buyers
+sellers,A,$,EventVester,Annual active sellers,946,Annual active sellers
+$,"SUM(A1,A2,…,An)",$,EventVester,Geographic Revenues - Germany Revenues,947,Geographic Revenues
+$,"SUM(A1,A2,…,An)",$,EventVester,Geographic Revenues - Rest of world Revenues,948,Geographic Revenues
+$,"SUM(A1,A2,…,An)",$,EventVester,Geographic Revenues - South Korea Revenues,949,Geographic Revenues
+$,"SUM(A1,A2,…,An)",$,EventVester,Geographic Revenues - Total Geographic Revenues,950,Geographic Revenues
+$,"SUM(A1,A2,…,An)",$,EventVester,Geographic Revenues - U.S. Revenues,951,Geographic Revenues
+$,"SUM(A1,A2,…,An)",$,EventVester,Geographic Revenues - United Kingdom Revenues,952,Geographic Revenues
+$,A,$,EventVester,GMV - Gross Merchandise Volume,953,GMV
+$,"SUM(A1,A2,…,An)",$,EventVester,Segment Revenues - Classifieds / Other Revenues,954,Segment Revenues
+$,"SUM(A1,A2,…,An)",$,EventVester,Segment Revenues - Elimination of inter-segment net Revenues,955,Segment Revenues
+$,"SUM(A1,A2,…,An)",$,EventVester,Segment Revenues - Marketing services and other revenues,956,Segment Revenues
+$,"SUM(A1,A2,…,An)",$,EventVester,Segment Revenues - Marketing services and other revenues Classifieds,957,Segment Revenues
+$,"SUM(A1,A2,…,An)",$,EventVester,Segment Revenues - Marketing services and other revenues from Marketplace,958,Segment Revenues
+$,"SUM(A1,A2,…,An)",$,EventVester,"Segment Revenues - Marketing services and other revenues StubHub, Corporate and other",959,Segment Revenues
+$,"SUM(A1,A2,…,An)",$,EventVester,Segment Revenues - Marketplace Revenues,960,Segment Revenues
+$,"SUM(A1,A2,…,An)",$,EventVester,Segment Revenues - Net transaction revenues,961,Segment Revenues
+$,"SUM(A1,A2,…,An)",$,EventVester,Segment Revenues - Net transaction revenues from Marketplace,962,Segment Revenues
+$,"SUM(A1,A2,…,An)",$,EventVester,Segment Revenues - Net transaction revenues from StubHub,963,Segment Revenues
+$,"SUM(A1,A2,…,An)",$,EventVester,Segment Revenues - Total net revenues,964,Segment Revenues
+$,"SUM(A1,A2,…,An)",$,EventVester,Segment Revenues - Total Segment Revenues,965,Segment Revenues
+%,(A-B)/A,%,EventVester,Take rate,966,Take rate
+$,A,$,EventVester,Active Buyers,940,Active Buyers
+%,(A-B)/A,%,EventVester,Active Buyers,940,Active Buyers
+$,A,$,EventVester,Active Sellers,967,Active Sellers
+%,A,%,EventVester,Active Sellers,967,Active Sellers
+$,A,$,EventVester,Gross merchandise sales,968,Gross Merchandise Sales
+%,(A-B)/A,%,EventVester,International Gross Merchandise Sales,969,International Gross Merchandise Sales
+%,(A-B)/A,%,EventVester,Mobile Gross Merchandise Sales,970,Mobile Gross Merchandise Sales
+$,"SUM(A1,A2,…,An)",$,EventVester,Segment Revenue - Gross merchandise sales,971,Segment Revenue
+$,"SUM(A1,A2,…,An)",$,EventVester,Segment Revenue - Marketplace revenue,972,Segment Revenue
+$,"SUM(A1,A2,…,An)",$,EventVester,Segment Revenue - Marketplace Rvenue,973,Segment Revenue
+$,"SUM(A1,A2,…,An)",$,EventVester,Segment Revenue - Services Revenue,974,Segment Revenue
+% increase yoy,(A-B)/A,%,EventVester,Active customers,975,Active customers
+customers,A,$,EventVester,Active customers,975,Active customers
+$,SUM(A1+A2+...+An)/n,$,EventVester,Average order value,976,Average order value
+$,A,$,EventVester,Geographical Revenue - Rest of the world,977,Geographical Revenue
+$,A,$,EventVester,Geographical Revenue - United States,978,Geographical Revenue
+$,A,$,EventVester,Revenue Segment - Non-scrubs,979,Revenue Segment
+$,A,$,EventVester,Revenue Segment - Scrubs,980,Revenue Segment
+$,A,$,EventVester,Revenues by Channel - E-commerce Revenue,981,Revenues by Channel
+$,A,$,EventVester,Revenues by Channel - E-commerce Revenue (combined online and telephonic) ,982,Revenues by Channel
+$,A,$,EventVester,Revenues by Channel - Other Revenue,983,Revenues by Channel
+$,"SUM(A1,A2,…,An)",$,EventVester,Segment Revenue - 1-800-Flowers.com Consumer Floral Revenue,984,Segment Revenue
+$,"SUM(A1,A2,…,An)",$,EventVester,Segment Revenue - BloomNet Revenue,985,Segment Revenue
+$,"SUM(A1,A2,…,An)",$,EventVester,Segment Revenue - BloomNet Wire Service Revenue,986,Segment Revenue
+$,"SUM(A1,A2,…,An)",$,EventVester,Segment Revenue - Consumer Floral & Gifts Revenue,987,Segment Revenue
+$,"SUM(A1,A2,…,An)",$,EventVester,Segment Revenue - Gourmet Food & Gift Baskets Revenue,988,Segment Revenue
+$,"SUM(A1,A2,…,An)",$,EventVester,Segment Revenue - Intercompany eliminations,989,Segment Revenue
+Customers,A,$,EventVester,Active customers for the trailing twelve months,990,active customers for the trailing twelve months
+$,A,$,EventVester,Gross billings,991,Gross billings
+$,A,$,EventVester,Revenue by Type - Product,992,Revenue by Type
+$,A,$,EventVester,Revenue by Type - Service,993,Revenue by Type
+units,A,$,EventVester,Total units - Total units of International,994,Total units
+units,A,$,EventVester,Total units - Total units of North America,995,Total units
+Customers,A,$,EventVester,TTM Active customers,996,TTM Active customers
+Customers,A,$,EventVester,TTM Active customers - TTM Active customers of International,997,TTM Active customers
+Customers,A,$,EventVester,TTM Active customers - TTM Active customers of North America,998,TTM Active customers
+units,A,#,EventVester,Customers - Active customers,932,Customers
+$,A,$,EventVester,Orders - Average order value,999,Orders
+$,A,$,EventVester,Orders - Active customers,1000,Orders
+%,(A-B)/A,%,EventVester,Orders - Mobile Device,1001,Orders
+$,A,$,EventVester,Orders - Orders delivered,1002,Orders
+units,A,#,EventVester,Orders - Orders delivered,1002,Orders
+orders/customer,A/B,$,EventVester,Orders - Orders per active customer,1003,Orders
+% increase yoy,A,%,EventVester,Active Buyers,940,Active Buyers
+buyers,A,#,EventVester,Active Buyers,940,Active Buyers
+% increase yoy,A,%,EventVester,Gross Merchandise Value (GMV),1004,Gross Merchandise Value (GMV)
+$,A,$,EventVester,Gross Merchandise Value (GMV),1004,Gross Merchandise Value (GMV)
+%,(A-B)/A,%,EventVester,Revenue by Product type - Branded Hard Parts,1005,Revenue by Product type
+%,(A-B)/A,%,EventVester,Revenue by Product type - Branded Performance,1006,Revenue by Product type
+%,(A-B)/A,%,EventVester,Revenue by Product type - Branded Replacement Parts,1007,Revenue by Product type
+%,(A-B)/A,%,EventVester,Revenue by Product type - House Brands Hard Parts,1008,Revenue by Product type
+%,(A-B)/A,%,EventVester,Revenue by Product type - House Brands Performance,1009,Revenue by Product type
+%,(A-B)/A,%,EventVester,Revenue by Product type - House Brands Replacement Parts,1010,Revenue by Product type
+items,A,#,EventVester,Annual Purchases - Existing Customers,1011,Annual Purchases
+$,A,$,EventVester,Money Spent - Existing Customers,1012,Money Spent
+Customers,A,$,EventVester,Number of Customers,1013,Number of Customers
+$,A,$,EventVester,Product Revenue - Accessories,1014,Product Revenue
+$,A,$,EventVester,Product Revenue - Apparel,1015,Product Revenue
+$,A,$,EventVester,Product Revenue - Beauty,1016,Product Revenue
+$,A,$,EventVester,Product Revenue - Electronics,1017,Product Revenue
+$,A,$,EventVester,Product Revenue - Home,1018,Product Revenue
+$,A,$,EventVester,Product Revenue - Jewelry,1019,Product Revenue
+$,A,$,EventVester,Product Revenue - Other revenue,1020,Product Revenue
+$,A,$,EventVester,Segment Revenue - Corp and other,1021,Segment Revenue
+$,A,$,EventVester,Segment Revenue - QVC Int'l,1022,Segment Revenue
+$,A,$,EventVester,Segment Revenue - QxH,1023,Segment Revenue
+$,A,$,EventVester,Segment Revenue - Zulily,1024,Segment Revenue
+Buyers,A,#,EventVester,Active buyers,1025,Active buyers
+$,A,$,EventVester,AOV - Average order value,1026,AOV
+$,A,$,EventVester,Gross Merchandise Value,1027,Gross Merchandise Value
+Orders,A,#,EventVester,Orders reached,1028,Orders reached
+$,A,$,EventVester,Revenue - Consignment and service revenue,1029,Revenue
+$,A,$,EventVester,Revenue - Direct revenue,1030,Revenue
+$,A,$,EventVester,Gross bookings value,1031,Gross bookings value
+bookings,A,#,EventVester,New bookings,1032,New bookings
+bookings,A,#,EventVester,Repeat bookings,1033,Repeat bookings
+$,"SUM(A1,A2,…,An)",$,EventVester,Segment Revenue - New bookings Revenue,1034,Segment Revenue
+$,"SUM(A1,A2,…,An)",$,EventVester,Segment Revenue - Repeat Bookings Revenue,1035,Segment Revenue
+bookings,A,#,EventVester,Total Bookings  - Total Bookings,1036,Total Bookings 
+units,A,#,EventVester,Active customers,975,Active customers
+$,A,$,EventVester,Average order value,976,Average order value
+$,"SUM(A1,A2,…,An)",$,EventVester,Geographic Revenue - Revenue from Rest of the world,1037,Geographic Revenue
+$,A,$,EventVester,Revenue by by Product Category - Beauty Product Revenue,1038,Revenue by by Product Category
+$,A,$,EventVester,Revenue by by Product Category - Dresses Revenue,1039,Revenue by by Product Category
+$,A,$,EventVester,Revenue by by Product Category - Fashion Apparel Product Revenue,1040,Revenue by by Product Category
+$,A,$,EventVester,"Revenue by by Product Category - Handbags, Shoes and Accessories Revenue",1041,Revenue by by Product Category
+$,A,$,EventVester,Revenue by by Product Category - Other Product Revenue,1042,Revenue by by Product Category
+$,"SUM(A1,A2,…,An)",$,EventVester,Segment Revenue - FORWARD Revenue,1043,Segment Revenue
+$,"SUM(A1,A2,…,An)",$,EventVester,Segment Revenue - REVOLVE Revenue,1044,Segment Revenue
+units,A,#,EventVester,Total orders placed,1045,Total orders placed
+clients,A,$,EventVester,Active clients,1046,Active clients
+$/client,A-B,$,EventVester,Active clients - Net revenue per active client,1047,Active clients
+$,A-B,$,EventVester,Key metrics - Net revenue,1048,Key metrics
+$/client,A,$,EventVester,Net revenue per active client,1049,Net revenue per active client
+buyers,A-B,$,EventVester,Active Buyers,940,Active Buyers
+orders,A,$,EventVester,Active orders,1050,Active orders
+$,"SUM(A1,A2,…,An)",$,EventVester,Segment Revenue - Consignment,1051,Segment Revenue
+$,"SUM(A1,A2,…,An)",$,EventVester,Segment Revenue - Product,1052,Segment Revenue
+$,SUM(A1+A2+...+An)/n,$,EventVester,Average order value ,1053,Average order value 
+$/customer,A-B,$,EventVester,LTM Net Revenue - LTM Net Revenue Per Active Customer,1054,LTM Net Revenue
+orders,A,$,EventVester,Orders delivered ,1055,Orders delivered 
+%,(A-B)/A,%,EventVester,Orders delivered  - orders delivered via a mobile device,1056,Orders delivered 
+Orders/Customer,SUM(A1+A2+...+An)/n,$,EventVester,Orders per customer,1057,Orders per customer
+orders,A,#,EventVester,Orders placed by repeat customers,1058,Orders placed by repeat customers
+%,(A-B)/A,%,EventVester,Orders placed via a mobile device,1059,Orders placed via a mobile device
+% of toal orders,(A-B)/A,%,EventVester,Repeat customers,1060,Repeat customers
+customers,A,$,EventVester,Repeat customers,1060,Repeat customers
+customers,A,$,EventVester,Repeat customers orders,1061,Repeat customers orders
+$,A,$,EventVester,Revenue by type - International net revenue,1062,Revenue by type
+$,A,$,EventVester,Revenue by type - U.S. net revenue,1063,Revenue by type
+users,A/B,$,EventVester,Active users - monthly active users,1064,Active users
+Users,"COUNT(A1, A2,…,An)",#,EventVester,Countries - number of countries,1065,Countries
+$,A,$,EventVester,Revenue by type - Logistics Revenue,1066,Revenue by type
+$,A,$,EventVester,Revenue by type - Marketplace Revenue,1067,Revenue by type
+$/buyer,(A-B)/A,%,EventVester,Revenue Per Active Buyer,1068,Revenue Per Active Buyer
+stores,"SUM(A1,A2,…,An)",$,EventVester,Number stores - Number of Company-operated stores,1069,Number stores
+stores,"SUM(A1,A2,…,An)",$,EventVester,Number stores - Number of franchised stores,1070,Number stores
+%,(A-B)/A,%,EventVester,Same Store Revenues,1071,Same Store Revenues
+$,"SUM(A1,A2,…,An)",$,EventVester,Segment revenues - Franchise Royalties and Fees,1072,Segment revenues
+$,"SUM(A1,A2,…,An)",$,EventVester,Segment revenues - Lease and Retail Revenues,1073,Segment revenues
+$,"SUM(A1,A2,…,An)",$,EventVester,Segment revenues - Non-Retail Sales,1074,Segment revenues
+$,"SUM(A1,A2,…,An)",$,EventVester,Segment revenues - Retail Sales,1075,Segment revenues
+stores,"COUNT(A1, A2,…,An)",#,EventVester,No. of Stores,1076,No. of Stores
+$,A,$,EventVester,Revenue by Category - Apparel Revenue,1077,Revenue by Category
+$,A,$,EventVester,Revenue by Category - Footwear Revenue,1078,Revenue by Category
+$,A,$,EventVester,Revenue by Category - Other Sales Revenue,1079,Revenue by Category
+$,A,$,EventVester,Revenue by Category - Outdoors Revenue,1080,Revenue by Category
+$,A,$,EventVester,Revenue by Category - Sports and Recreation Revenue,1081,Revenue by Category
+%,(A-B)/A,%,EventVester,Comparable sales - Domestic comparable online sales,1082,Comparable sales
+%,(A-B)/A,%,EventVester,Comparable sales - Domestic comparable sales,1083,Comparable sales
+%,(A-B)/A,%,EventVester,Comparable sales - Enterprise comparable sales,1084,Comparable sales
+%,(A-B)/A,%,EventVester,Comparable sales - International comparable sales,1085,Comparable sales
+$,"SUM(A1,A2,…,An)",$,EventVester,Geographic Revenue - Domestic Revenue,1086,Geographic Revenue
+$,"SUM(A1,A2,…,An)",$,EventVester,Geographic Revenue - International Revenue,1087,Geographic Revenue
+$,"SUM(A1,A2,…,An)",$,EventVester,Geographic Segment Revenue - Domestic Revenue from Appliances,1088,Geographic Segment Revenue
+%,"SUM(A1,A2,…,An)",%,EventVester,Geographic Segment Revenue - Domestic Revenue from Appliances,1088,Geographic Segment Revenue
+%,"SUM(A1,A2,…,An)",%,EventVester,Geographic Segment Revenue - Domestic Revenue from Computing and  Phones,1089,Geographic Segment Revenue
+$,"SUM(A1,A2,…,An)",$,EventVester,Geographic Segment Revenue - Domestic Revenue from Computing and Mobile Phones,1090,Geographic Segment Revenue
+%,"SUM(A1,A2,…,An)",%,EventVester,Geographic Segment Revenue - Domestic Revenue from Computing and Mobile Phones,1090,Geographic Segment Revenue
+$,"SUM(A1,A2,…,An)",$,EventVester,Geographic Segment Revenue - Domestic Revenue from Consumer Electronics,1091,Geographic Segment Revenue
+%,"SUM(A1,A2,…,An)",%,EventVester,Geographic Segment Revenue - Domestic Revenue from Consumer Electronics,1091,Geographic Segment Revenue
+$,"SUM(A1,A2,…,An)",$,EventVester,Geographic Segment Revenue - Domestic Revenue from Entertainment,1092,Geographic Segment Revenue
+%,"SUM(A1,A2,…,An)",%,EventVester,Geographic Segment Revenue - Domestic Revenue from Entertainment,1092,Geographic Segment Revenue
+$,"SUM(A1,A2,…,An)",$,EventVester,Geographic Segment Revenue - Domestic Revenue from Other,1093,Geographic Segment Revenue
+%,"SUM(A1,A2,…,An)",%,EventVester,Geographic Segment Revenue - Domestic Revenue from Other,1093,Geographic Segment Revenue
+$,"SUM(A1,A2,…,An)",$,EventVester,Geographic Segment Revenue - Domestic Revenue from Services,1094,Geographic Segment Revenue
+%,"SUM(A1,A2,…,An)",%,EventVester,Geographic Segment Revenue - Domestic Revenue from Services,1094,Geographic Segment Revenue
+$,"SUM(A1,A2,…,An)",$,EventVester,Geographic Segment Revenue - International Revenue from Appliances,1095,Geographic Segment Revenue
+%,"SUM(A1,A2,…,An)",%,EventVester,Geographic Segment Revenue - International Revenue from Appliances,1095,Geographic Segment Revenue
+%,"SUM(A1,A2,…,An)",%,EventVester,Geographic Segment Revenue - International Revenue from Computing and  Phones,1096,Geographic Segment Revenue
+$,"SUM(A1,A2,…,An)",$,EventVester,Geographic Segment Revenue - International Revenue from Computing and Mobile Phones,1097,Geographic Segment Revenue
+%,"SUM(A1,A2,…,An)",%,EventVester,Geographic Segment Revenue - International Revenue from Computing and Mobile Phones,1097,Geographic Segment Revenue
+$,"SUM(A1,A2,…,An)",$,EventVester,Geographic Segment Revenue - International Revenue from Consumer Electronics,1098,Geographic Segment Revenue
+%,"SUM(A1,A2,…,An)",%,EventVester,Geographic Segment Revenue - International Revenue from Consumer Electronics,1098,Geographic Segment Revenue
+$,"SUM(A1,A2,…,An)",$,EventVester,Geographic Segment Revenue - International Revenue from Entertainment,1099,Geographic Segment Revenue
+%,"SUM(A1,A2,…,An)",%,EventVester,Geographic Segment Revenue - International Revenue from Entertainment,1099,Geographic Segment Revenue
+$,"SUM(A1,A2,…,An)",$,EventVester,Geographic Segment Revenue - International Revenue from Other,1100,Geographic Segment Revenue
+%,"SUM(A1,A2,…,An)",%,EventVester,Geographic Segment Revenue - International Revenue from Other,1100,Geographic Segment Revenue
+$,"SUM(A1,A2,…,An)",$,EventVester,Geographic Segment Revenue - International Revenue from Services,1101,Geographic Segment Revenue
+%,"SUM(A1,A2,…,An)",%,EventVester,Geographic Segment Revenue - International Revenue from Services,1101,Geographic Segment Revenue
+$,A,$,EventVester,Revenue by Product - Appliances,1102,Revenue by Product
+$,A,$,EventVester,Revenue by Product - Computing and Mobile Phones,1103,Revenue by Product
+$,"SUM(A1,A2,…,An)",$,EventVester,Revenue by Product - Consumer Electronics,1104,Revenue by Product
+$,A,$,EventVester,Revenue by Product - Entertainment,1105,Revenue by Product
+$,A,$,EventVester,Revenue by Product - Other,1106,Revenue by Product
+$,A,$,EventVester,Revenue by Product - Services,1107,Revenue by Product
+$,"SUM(A1,A2,…,An)",$,EventVester,Segment Revenue - Domestic Revenue,1108,Segment Revenue
+%,(A-B)/A,%,EventVester,Net Sales by Major Merchandise Categories - Apparel,1109,Net Sales by Major Merchandise Categories
+%,(A-B)/A,%,EventVester,Net Sales by Major Merchandise Categories - Footwear,1110,Net Sales by Major Merchandise Categories
+%,(A-B)/A,%,EventVester,"Net Sales by Major Merchandise Categories - Hats, accessories and other",1111,Net Sales by Major Merchandise Categories
+%,(A-B)/A,%,EventVester,Segment Net Sales - E-commerce,1112,Segment Net Sales
+$,A-B,$,EventVester,Segment Net Sales - E-commerce Revenue,1113,Segment Net Sales
+$,A-B,$,EventVester,Segment Net Sales - Retail Stores Revenue,1114,Segment Net Sales
+%,(A-B)/A,%,EventVester,Segment Net Sales - Stores,1115,Segment Net Sales
+stores,"COUNT(A1, A2,…,An)",#,EventVester,Stores - new stores,1116,Stores
+stores,"COUNT(A1, A2,…,An)",#,EventVester,Stores - store closed,1117,Stores
+$,"SUM(A1,A2,…,An)",$,EventVester,Segment Revenue - Finance charges and other,1118,Segment Revenue
+$,"SUM(A1,A2,…,An)",$,EventVester,Segment Revenue - Product sales,1119,Segment Revenue
+$,"SUM(A1,A2,…,An)",$,EventVester,Segment Revenue - Repair service agreement commissions,1120,Segment Revenue
+$,"SUM(A1,A2,…,An)",$,EventVester,Sub-Segment Revenue - Consumer electronics - Product sales,1121,Sub-Segment Revenue
+$,"SUM(A1,A2,…,An)",$,EventVester,Sub-Segment Revenue - Furniture and mattress - Product sales,1122,Sub-Segment Revenue
+$,"SUM(A1,A2,…,An)",$,EventVester,Sub-Segment Revenue - Home appliance - Product sales,1123,Sub-Segment Revenue
+$,"SUM(A1,A2,…,An)",$,EventVester,Sub-Segment Revenue - Home office - Product sales,1124,Sub-Segment Revenue
+$,"SUM(A1,A2,…,An)",$,EventVester,Sub-Segment Revenue - Other - Product sales,1125,Sub-Segment Revenue
+$,A,$,EventVester,Revenue by Type - External Customer Sales,1126,Revenue by Type
+$,A,$,EventVester,Revenue by Type - Intersegment Sales,1127,Revenue by Type
+$,"SUM(A1,A2,…,An)",$,EventVester,Segment Revenue - Brand Portfolio,1128,Segment Revenue
+$,"SUM(A1,A2,…,An)",$,EventVester,Segment Revenue - Canada Retail,1129,Segment Revenue
+$,"SUM(A1,A2,…,An)",$,EventVester,Segment Revenue - Elimination of intersegment net Revenue,1130,Segment Revenue
+$,"SUM(A1,A2,…,An)",$,EventVester,Segment Revenue - U.S. Retail Revenue,1131,Segment Revenue
+stores,"COUNT(A1, A2,…,An)",#,EventVester,Stores - Total number of stores,1132,Stores
+$,A-B,$,EventVester,Segment Net Sales - Apparel Sales,1133,Segment Net Sales
+$,A-B,$,EventVester,Segment Net Sales - Consumables Sales,1134,Segment Net Sales
+$,A-B,$,EventVester,Segment Net Sales - Home products Sales,1135,Segment Net Sales
+$,A-B,$,EventVester,Segment Net Sales - Seasonal Sales,1136,Segment Net Sales
+stores,"SUM(A1,A2,…,An)",$,EventVester,Store count - Ending Store count,1137,Store count
+stores,"SUM(A1,A2,…,An)",$,EventVester,Store count - New store openings,1138,Store count
+stores,"SUM(A1,A2,…,An)",$,EventVester,Store count - Total selling square footage,1139,Store count
+% decrease,(A-B)/A,%,EventVester,Net Sales - E- Commerce Sales,1140,Net Sales
+% increase,(A-B)/A,%,EventVester,Net Sales - E- Commerce Sales,1140,Net Sales
+% increase,(A-B)/A,%,EventVester,Net Sales - Same Store Sales,1141,Net Sales
+stores,"COUNT(A1, A2,…,An)",#,EventVester,Relocated stores - DICK'S Sporting Goods,1142,Relocated stores
+stores,"COUNT(A1, A2,…,An)",#,EventVester,Relocated stores - Specialty Concept Stores,1143,Relocated stores
+$,A-B,$,EventVester,Revenue by Net Sales - Sales,1144,Revenue by Net Sales
+,A,$,EventVester,Square Footage - DICK'S Sporting Goods,1145,Square Footage
+stores,A,$,EventVester,Square Footage - Specialty Concept Stores,1146,Square Footage
+stores,"SUM(A1,A2,…,An)",$,EventVester,Stores - DICK'S Sporting Goods,1147,Stores
+stores,"SUM(A1,A2,…,An)",$,EventVester,Stores - Specialty Concept Stores,1148,Stores
+% increase,(A-B)/A,%,EventVester,Change in Average Ticket - Dollar Tree,1149,Change in Average Ticket
+% increase,(A-B)/A,%,EventVester,Change in Average Ticket - Family Dollar ,1150,Change in Average Ticket
+% decrease,(A-B)/A,%,EventVester,Change in Customer Traffic - Dollar Tree,1151,Change in Customer Traffic
+% decrease,(A-B)/A,%,EventVester,Change in Customer Traffic - Family Dollar ,1152,Change in Customer Traffic
+%,(A-B)/A,%,EventVester,Growth Rate (Square Footage)  - Dollar Tree,1153,Growth Rate (Square Footage) 
+%,(A-B)/A,%,EventVester,Growth Rate (Square Footage)  - Family Dollar ,1154,Growth Rate (Square Footage) 
+%,(A-B)/A,%,EventVester,Growth Rate (Square Footage)  - Retail Selling Square Footage,1155,Growth Rate (Square Footage) 
+stores,"SUM(A1,A2,…,An)",$,EventVester,New Stores Openings - Dollar Tree,1156,New Stores Openings
+stores,"SUM(A1,A2,…,An)",$,EventVester,New Stores Openings - Family Dollar ,1157,New Stores Openings
+stores,"SUM(A1,A2,…,An)",$,EventVester,Re-bannered Stores - Dollar Tree,1158,Re-bannered Stores
+stores,"SUM(A1,A2,…,An)",$,EventVester,Re-bannered Stores - Family Dollar ,1159,Re-bannered Stores
+stores,"SUM(A1,A2,…,An)",$,EventVester,Renovated Stores - Completed Renovations,1160,Renovated Stores
+%,(A-B)/A,%,EventVester,Same Store Sales,1161,Same Store Sales
+%,(A-B)/A,%,EventVester,Same-Store Sales by Segment - Dollar Tree Same Store Sales,1162,Same-Store Sales by Segment
+%,(A-B)/A,%,EventVester,Same-Store Sales by Segment - Family Dollar Same Store Sales,1163,Same-Store Sales by Segment
+$,A,$,EventVester,"Segment Sales - Corporate, support and Other Sales",1164,Segment Sales
+$,A,$,EventVester,Segment Sales - Dollar Tree Sales,1165,Segment Sales
+$,A,$,EventVester,Segment Sales - Family Dollar Sales,1166,Segment Sales
+$,"SUM(A1,A2,…,An)",$,EventVester,Segment Sales - Total Segment Sales,1167,Segment Sales
+sqf,A,A,EventVester,Selling Square Footage  - Dollar Tree,1168,Selling Square Footage 
+sqf,A,A,EventVester,Selling Square Footage  - Family Dollar ,1169,Selling Square Footage 
+stores,"SUM(A1,A2,…,An)",$,EventVester,Store Closures - Dollar Tree,1170,Store Closures
+stores,"SUM(A1,A2,…,An)",$,EventVester,Store Closures - Family Dollar ,1171,Store Closures
+stores,"COUNT(A1, A2,…,An)",#,EventVester,Stores - Closed Stores,1172,Stores
+stores,"SUM(A1,A2,…,An)",$,EventVester,Stores - Expanded or Relocated Stores,1173,Stores
+Centers,A-B,#,EventVester,Centers - Net new center openings,1174,Centers
+Centers,A-B,#,EventVester,Centers - Net new centers,1175,Centers
+Centers,A-B,#,EventVester,Centers - Network of locations,1176,Centers
+$,"SUM(A1,A2,…,An)",$,EventVester,Segment Revenue - Marketing Fees,1177,Segment Revenue
+$,"SUM(A1,A2,…,An)",$,EventVester,Segment Revenue - Product Sales,1178,Segment Revenue
+$,"SUM(A1,A2,…,An)",$,EventVester,Segment Revenue - Royalty Fees,1179,Segment Revenue
+%,(A-B)/A,%,EventVester,Comparable store sales - Comparable store sales growth,1180,Comparable store sales
+stores,"SUM(A1,A2,…,An)",$,EventVester,New Stores Openings - America's Best Contacts and Eyeglasses Stores,1181,New Stores Openings
+stores,"SUM(A1,A2,…,An)",$,EventVester,New Stores Openings - Eyeglass World Stores,1182,New Stores Openings
+stores,"SUM(A1,A2,…,An)",$,EventVester,New Stores Openings - Total Stores,1183,New Stores Openings
+stores,"SUM(A1,A2,…,An)",$,EventVester,New Stores Openings - Vision Centers - Walmart,1184,New Stores Openings
+stores,"SUM(A1,A2,…,An)",$,EventVester,New Stores Openings - Vista Optical Stores - Fred Meyer,1185,New Stores Openings
+stores,"SUM(A1,A2,…,An)",$,EventVester,New Stores Openings - Vista Optical Stores - Military,1186,New Stores Openings
+stores,"SUM(A1,A2,…,An)",$,EventVester,No of stores open at the end - Corporate/Other,1187,No of stores open at the end
+stores,"SUM(A1,A2,…,An)",$,EventVester,No of stores open at the end - Legacy segment,1188,No of stores open at the end
+stores,"SUM(A1,A2,…,An)",$,EventVester,No of stores open at the end - Owned & Host segment,1189,No of stores open at the end
+stores,"SUM(A1,A2,…,An)",$,EventVester,Number of Stores - America's Best Contacts and Eyeglasses Stores,1190,Number of Stores
+stores,"SUM(A1,A2,…,An)",$,EventVester,Number of Stores - Eyeglass World Stores,1191,Number of Stores
+stores,"SUM(A1,A2,…,An)",$,EventVester,Number of Stores - Vision Centers - Walmart,1192,Number of Stores
+stores,"SUM(A1,A2,…,An)",$,EventVester,Number of Stores - Vista Optical Stores - Fred Meyer,1193,Number of Stores
+stores,"SUM(A1,A2,…,An)",$,EventVester,Number of Stores - Vista Optical Stores - Military,1194,Number of Stores
+$,A,$,EventVester,Revenue From Contracts With Customers - Revenues recognized at a point in time,1195,Revenue From Contracts With Customers
+$,A,$,EventVester,Revenue From Contracts With Customers - Revenues recognized over time,1196,Revenue From Contracts With Customers
+$,"SUM(A1,A2,…,An)",$,EventVester,Segment Revenue - Corporate/Other Revenue,1197,Segment Revenue
+$,"SUM(A1,A2,…,An)",$,EventVester,Segment Revenue - Legacy Revenue,1198,Segment Revenue
+$,"SUM(A1,A2,…,An)",$,EventVester,Segment Revenue - Owned & Host Revenue,1199,Segment Revenue
+$,"SUM(A1,A2,…,An)",$,EventVester,Segment Revenue - Reconciliations,1200,Segment Revenue
+stores,"SUM(A1,A2,…,An)",$,EventVester,Store Closures - America's Best Contacts and Eyeglasses Stores,1201,Store Closures
+stores,"SUM(A1,A2,…,An)",$,EventVester,Store Closures - Eyeglass World Stores,1202,Store Closures
+stores,"SUM(A1,A2,…,An)",$,EventVester,Store Closures - Vision Centers - Walmart,1203,Store Closures
+stores,"SUM(A1,A2,…,An)",$,EventVester,Store Closures - Vista Optical Stores - Fred Meyer,1204,Store Closures
+stores,"SUM(A1,A2,…,An)",$,EventVester,Store Closures - Vista Optical Stores - Military,1205,Store Closures
+%,(A-B)/A,%,EventVester,Store Sale Growth - America's Best,1206,Store Sale Growth
+%,(A-B)/A,%,EventVester,Store Sale Growth - Corporate/Other,1207,Store Sale Growth
+%,(A-B)/A,%,EventVester,Store Sale Growth - Eyeglass World,1208,Store Sale Growth
+%,(A-B)/A,%,EventVester,Store Sale Growth - Fred Meyer,1209,Store Sale Growth
+%,(A-B)/A,%,EventVester,Store Sale Growth - Legacy segment,1210,Store Sale Growth
+%,(A-B)/A,%,EventVester,Store Sale Growth - Military,1211,Store Sale Growth
+stores,"COUNT(A1, A2,…,An)",#,EventVester,Stores - New Stores,1212,Stores
+$,A,$,EventVester,Product Revenue - Fashion and home,1213,Product Revenue
+$,A,$,EventVester,Product Revenue - Leisure,1214,Product Revenue
+$,A,$,EventVester,Product Revenue - Party and snack,1215,Product Revenue
+$,A-B,$,EventVester,Channel Sales - Direct to Customers Sales,1216,Channel Sales
+$,A-B,$,EventVester,Channel Sales - Stores Sales,1217,Channel Sales
+stores,"SUM(A1,A2,…,An)",$,EventVester,Franchise Operations - Franchise stores ,1218,Franchise Operations
+$,A,$,EventVester,Geographic Sales - International Sales,1219,Geographic Sales
+$,A,$,EventVester,Geographic Sales - United States Sales,1220,Geographic Sales
+stores,"SUM(A1,A2,…,An)",$,EventVester,Stores - Total Store Count,1221,Stores
+$,A,$,EventVester,Revenue by product sales - Collectibles Sales,1222,Revenue by product sales
+$,A,$,EventVester,Revenue by product sales - Hardware and accessories Sales,1223,Revenue by product sales
+$,A,$,EventVester,Revenue by product sales - Software Sales,1224,Revenue by product sales
+$,A,$,EventVester,Sales by Geography - Australia,1225,Sales by Geography
+$,A,$,EventVester,Sales by Geography - Canada,1226,Sales by Geography
+$,A,$,EventVester,Sales by Geography - Europe,1227,Sales by Geography
+$,A,$,EventVester,Sales by Geography - United States,1228,Sales by Geography
+stores,"SUM(A1,A2,…,An)",$,EventVester,News Store Openings - Number of Stores,1229,News Store Openings
+$,"SUM(A1,A2,…,An)",$,EventVester,Segment Revenue - Distribution,1230,Segment Revenue
+$,"SUM(A1,A2,…,An)",$,EventVester,Segment Revenue - E-commerce sales,1231,Segment Revenue
+$,"SUM(A1,A2,…,An)",$,EventVester,Segment Revenue - Sales at company owned stores,1232,Segment Revenue
+sqf,A,A,EventVester,Square Feet - Retail and Warehouse Space,1233,Square Feet
+stores,"SUM(A1,A2,…,An)",$,EventVester,Store Count - No of Hydroponic garden centers to reach,1234,Store Count
+stores,"SUM(A1,A2,…,An)",$,EventVester,Store Count - No. of retail hydroponic/gardening stores,1235,Store Count
+stores,"SUM(A1,A2,…,An)",$,EventVester,Store Count - Number of Stores,1236,Store Count
+$,A,$,EventVester,Revenue by major products category - Apparel,1237,Revenue by major products category
+$,A,$,EventVester,Revenue by major products category - Equipment,1238,Revenue by major products category
+$,A,$,EventVester,Revenue by major products category - Footwear,1239,Revenue by major products category
+stores,"COUNT(A1, A2,…,An)",#,EventVester,Store Count - End of period,1240,Store Count
+stores,"COUNT(A1, A2,…,An)",#,EventVester,Store Count - New stores opened,1241,Store Count
+stores,"COUNT(A1, A2,…,An)",#,EventVester,Store Count - Stores closed,1242,Store Count
+$,A,$,EventVester,Sales by Product Category - Arts and Crafts and Home Decor Sales,1243,Sales by Product Category
+$,A,$,EventVester,Sales by Product Category - Other Sales,1244,Sales by Product Category
+$,A,$,EventVester,Sales by Product Category - Sewing Sales,1245,Sales by Product Category
+Platforms,A,#,EventVester,Locations and platforms - Physical locations and multiple digital platforms,1246,Locations and platforms
+$,A-B,$,EventVester,Net Income,1247,Net Income
+%,(A-B)/A,%,EventVester,Average Retail Price - Average Retail Price per Unit Sold Increase,1248,Average Retail Price
+stores,"SUM(A1,A2,…,An)",$,EventVester,Number of new stores,1249,Number of new stores
+stores,"SUM(A1,A2,…,An)",$,EventVester,Number of stores closed,1250,Number of stores closed
+stores,"SUM(A1,A2,…,An)",$,EventVester,Number of Stores Open - Number of Stores,1251,Number of Stores Open
+$,A,$,EventVester,Revenue by Type - Net Merchandise Sales,1252,Revenue by Type
+$,A,$,EventVester,Revenue by Type - Net Services Sales,1253,Revenue by Type
+$,A,$,EventVester,Revenues by major product category - Installation and Delivery Services,1254,Revenues by major product category
+$,A,$,EventVester,Revenues by major product category - Manufactured Products,1255,Revenues by major product category
+$,A,$,EventVester,Revenues by major product category - Moldings and Accessories and Other,1256,Revenues by major product category
+$,A,$,EventVester,Revenues by major product category - Solid and Engineered Hardwood,1257,Revenues by major product category
+$,A,$,EventVester,Backlog - Direct orders,1258,Backlog
+$,A,$,EventVester,Backlog - Retail orders,1259,Backlog
+$,A,$,EventVester,Direct orders,1260,Direct orders
+$,A,$,EventVester,Revenue by geography - Canada,1261,Revenue by geography
+$,A,$,EventVester,"Revenue by geography - Europe, the Middle East and Africa",1262,Revenue by geography
+$,A,$,EventVester,Revenue by geography - Others,1263,Revenue by geography
+$,A,$,EventVester,Revenue by geography - United States ,1264,Revenue by geography
+$,A,$,EventVester,Revenue by type - Extended warranties and services,1265,Revenue by type
+$,A,$,EventVester,Revenue by type - Others,1266,Revenue by type
+$,A,$,EventVester,Revenue by type - Product Sales,1267,Revenue by type
+$,A,$,EventVester,Sales order backlog,1268,Sales order backlog
+$,A,$,EventVester,Segment Sales - Direct sales,1269,Segment Sales
+$,A,$,EventVester,Segment Sales - Retail sales,1270,Segment Sales
+$,A,$,EventVester,Segment Sales - Royalty,1271,Segment Sales
+stores,"COUNT(A1, A2,…,An)",#,EventVester,Average square footage per store - Retail Division,1272,Average square footage per store
+$,A,$,EventVester,Revenue by Type - Products Revenue,1273,Revenue by Type
+$,A,$,EventVester,Revenue by Type - Services Revenue,1274,Revenue by Type
+$,"SUM(A1,A2,…,An)",$,EventVester,Segment Revenue - Business Solutions Division,1275,Segment Revenue
+$,"SUM(A1,A2,…,An)",$,EventVester,Segment Revenue - CompuCom Division,1276,Segment Revenue
+$,"SUM(A1,A2,…,An)",$,EventVester,Segment Revenue - Other,1277,Segment Revenue
+$,"SUM(A1,A2,…,An)",$,EventVester,Segment Revenue - Retail Division,1278,Segment Revenue
+stores,"COUNT(A1, A2,…,An)",#,EventVester,Stores closed - Retail Division,1279,Stores closed
+stores,"COUNT(A1, A2,…,An)",#,EventVester,Stores count - Retail Division,1280,Stores count
+stores,"COUNT(A1, A2,…,An)",#,EventVester,Total retail stores,1281,Total retail stores
+square foot,A,#,EventVester,Total square footage - Retail Division,1282,Total square footage
+no,A,#,EventVester,Company-operated locations - Mexico Segment,1283,Company-operated locations
+no,A,#,EventVester,Company-operated locations - Rent-A-Center Business segmen,1284,Company-operated locations
+no,A,#,EventVester,Franchise-operated locations - Franchising Segment,1285,Franchise-operated locations
+%increase,A,%,EventVester,GMV,1286,GMV
+$,A,$,EventVester,Revenues by type - Acima,1287,Revenues by type
+$,A,$,EventVester,Revenues by type - Franchising,1288,Revenues by type
+$,A,$,EventVester,Revenues by type - Mexico,1289,Revenues by type
+$,A,$,EventVester,Revenues by type - Rent-A-Center Business,1290,Revenues by type
+$,"SUM(A1,A2,…,An)",$,EventVester,Segment Revenues - Franchise-Merchandise sales,1291,Segment Revenues
+$,"SUM(A1,A2,…,An)",$,EventVester,Segment Revenues - Franchise-Royalty income and fees,1292,Segment Revenues
+$,"SUM(A1,A2,…,An)",$,EventVester,Segment Revenues - Store-Installment sales,1293,Segment Revenues
+$,"SUM(A1,A2,…,An)",$,EventVester,Segment Revenues - Store-Merchandise sales,1294,Segment Revenues
+$,"SUM(A1,A2,…,An)",$,EventVester,Segment Revenues - Store-Other,1295,Segment Revenues
+$,"SUM(A1,A2,…,An)",$,EventVester,Segment Revenues - Store-Rentals and fees,1296,Segment Revenues
+stores,"SUM(A1,A2,…,An)",$,EventVester,Number of stores BSG - Company-operated stores,1297,Number of stores BSG
+stores,"SUM(A1,A2,…,An)",$,EventVester,Number of stores BSG - Franchise stores,1298,Number of stores BSG
+stores,"SUM(A1,A2,…,An)",$,EventVester,Number of stores SBS - Company-operated stores,1299,Number of stores SBS
+stores,"SUM(A1,A2,…,An)",$,EventVester,Number of stores SBS - Franchise stores,1300,Number of stores SBS
+nos,A,#,EventVester,Sales consultants - Number of BSG distributor sales consultants,1301,Sales consultants
+% increase,(A-B)/A,%,EventVester,Same store sales growth - BSG,1302,Same store sales growth
+% increase,(A-B)/A,%,EventVester,Same store sales growth - SBS,1303,Same store sales growth
+$,"SUM(A1,A2,…,An)",$,EventVester,Segment Revenue - Beauty Systems Group (BSG),1304,Segment Revenue
+$,"SUM(A1,A2,…,An)",$,EventVester,Segment Revenue - Sally Beauty Supply (SBS),1305,Segment Revenue
+stores,"SUM(A1,A2,…,An)",$,EventVester,New opened store,1306,New opened store
+$,A,$,EventVester,Revenue by Product Category - Accessories and Other,1307,Revenue by Product Category
+$,A,$,EventVester,Revenue by Product Category - Athletics Children's,1308,Revenue by Product Category
+$,A,$,EventVester,Revenue by Product Category - Athletics Men's,1309,Revenue by Product Category
+$,A,$,EventVester,Revenue by Product Category - Athletics Women's,1310,Revenue by Product Category
+$,A,$,EventVester,Revenue by Product Category - Non-Athletics Children's,1311,Revenue by Product Category
+$,A,$,EventVester,Revenue by Product Category - Non-Athletics Men's,1312,Revenue by Product Category
+$,A,$,EventVester,Revenue by Product Category - Non-Athletics Women's,1313,Revenue by Product Category
+% increase,SUM(A1+A2+...+An)/n,%,EventVester,Shoe Perks customer loyalty program,1314,Shoe Perks customer loyalty program
+stores,"SUM(A1,A2,…,An)",$,EventVester,Store Updates - Stores Closed,1315,Store Updates
+memberships,SUM(A1+A2+...+An)/n,$,EventVester,Total Members - Shoe Perks customer loyalty program membership,1316,Total Members
+%,(A-B)/A,%,EventVester,Revenue by Type - Apparel,1317,Revenue by Type
+%,(A-B)/A,%,EventVester,Revenue by Type - Apparel Revenue,1318,Revenue by Type
+%,(A-B)/A,%,EventVester,Revenue by Type - Camping,1319,Revenue by Type
+%,(A-B)/A,%,EventVester,Revenue by Type - Camping Revenue,1320,Revenue by Type
+%,(A-B)/A,%,EventVester,Revenue by Type - Fishing,1321,Revenue by Type
+%,(A-B)/A,%,EventVester,Revenue by Type - Fishing Revenue,1322,Revenue by Type
+%,(A-B)/A,%,EventVester,Revenue by Type - Footwear,1323,Revenue by Type
+%,(A-B)/A,%,EventVester,Revenue by Type - Footwear Revenue,1324,Revenue by Type
+%,(A-B)/A,%,EventVester,Revenue by Type - Hunting and Shooting,1325,Revenue by Type
+%,(A-B)/A,%,EventVester,Revenue by Type - Hunting and Shooting Revenue,1326,Revenue by Type
+%,(A-B)/A,%,EventVester,"Revenue by Type - Optics, Electronics, Accessories, and Other",1327,Revenue by Type
+%,(A-B)/A,%,EventVester,"Revenue by Type - Optics, Electronics, Accessories, and Other Revenue",1328,Revenue by Type
+$,A-B,$,EventVester,Net Sales - Elfa third-party,1329,Net Sales
+$,A-B,$,EventVester,Net Sales - TCS,1330,Net Sales
+inventory/store,"SUM(A1,A2,…,An)",$,EventVester,Average inventory per store,1331,Average inventory per store
+$,SUM(A1+A2+...+An)/n,$,EventVester,Average transaction value,1332,Average transaction value
+ratio,A,R,EventVester,Inventory turns,1333,Inventory turns
+stores,"SUM(A1,A2,…,An)",$,EventVester,New Petsense stores,1334,New Petsense stores
+stores,"SUM(A1,A2,…,An)",$,EventVester,New Tractor Supply stores,1335,New Tractor Supply stores
+stores,"COUNT(A1, A2,…,An)",#,EventVester,No. Of Stores - Petsense,1336,No. Of Stores
+stores,"COUNT(A1, A2,…,An)",#,EventVester,No. Of Stores - Tractor Supply,1337,No. Of Stores
+%,A,%,EventVester,Revenue by Product - Agriculture,1338,Revenue by Product
+%,A,%,EventVester,Revenue by Product - Clothing and Footwear,1339,Revenue by Product
+%,A,%,EventVester,"Revenue by Product - Hardware, Tools and Truck",1340,Revenue by Product
+%,A,%,EventVester,Revenue by Product - Livestock and Pet,1341,Revenue by Product
+%,A,%,EventVester,"Revenue by Product - Seasonal, Gift and Toy Products",1342,Revenue by Product
+sqf,A,A,EventVester,Gross square feet - total gross square feet at the end of the quater,1343,Gross square feet
+% of net sales,(A-B)/A,%,EventVester,Net Sales - E-commerce Percentage of net sales,1344,Net Sales
+% of net sales,(A-B)/A,%,EventVester,Net Sales - Net sales percentage,1345,Net Sales
+% of net sales,(A-B)/A,%,EventVester,Net Sales - Salon sales Percentage of net sales,1346,Net Sales
+% of net sales,(A-B)/A,%,EventVester,Net Sales by primary category - Cosmetics Percentage of net sales,1347,Net Sales by primary category
+% of net sales,(A-B)/A,%,EventVester,Net Sales by primary category - Haircare Products & Styling Tools Percentage of net sales,1348,Net Sales by primary category
+% of net sales,(A-B)/A,%,EventVester,Net Sales by primary category - Other Percentage of net sales,1349,Net Sales by primary category
+% of net sales,(A-B)/A,%,EventVester,Net Sales by primary category - Salon Services Percentage of net sales,1350,Net Sales by primary category
+% of net sales,(A-B)/A,%,EventVester,"Net Sales by primary category - Skincare, Bath & Fragrance Percentage of net sales",1351,Net Sales by primary category
+%,(A-B)/A,%,EventVester,"Percentage of net sales by primary category - Bath, and fragrance",1352,Percentage of net sales by primary category
+%,(A-B)/A,%,EventVester,Percentage of net sales by primary category - Cosmetics,1353,Percentage of net sales by primary category
+%,(A-B)/A,%,EventVester,Percentage of net sales by primary category - Haircare products and styling tools,1354,Percentage of net sales by primary category
+%,(A-B)/A,%,EventVester,"Percentage of net sales by primary category - Other (nail products, accessories, and other)",1355,Percentage of net sales by primary category
+%,(A-B)/A,%,EventVester,Percentage of net sales by primary category - Services,1356,Percentage of net sales by primary category
+%,(A-B)/A,%,EventVester,Percentage of net sales by primary category - Skincare,1357,Percentage of net sales by primary category
+%,(A-B)/A,%,EventVester,"Percentage of net sales by primary category - Skincare, bath, and fragrance",1358,Percentage of net sales by primary category
+Projects,A,#,EventVester,Remodel and relocation projects,1359,Remodel and relocation projects
+$,A,$,EventVester,Revenue by Distribution Channel - E-commerce,1360,Revenue by Distribution Channel
+$,A,$,EventVester,Revenue by Distribution Channel - Other,1361,Revenue by Distribution Channel
+$,A,$,EventVester,Revenue by Distribution Channel - Retail stores,1362,Revenue by Distribution Channel
+$,A,$,EventVester,Revenue by Distribution Channel - Salon services,1363,Revenue by Distribution Channel
+$,"SUM(A1,A2,…,An)",$,EventVester,Segment Revenue - E-commerce ,1364,Segment Revenue
+% increase,"SUM(A1,A2,…,An)",%,EventVester,Segment Revenue - E-commerce Percentage of net sales,1365,Segment Revenue
+% increase,"SUM(A1,A2,…,An)",%,EventVester,Segment Revenue - Retail stores and salon Percentage of net sales,1366,Segment Revenue
+% of net sales,"SUM(A1,A2,…,An)",%,EventVester,Segment Revenue - Retail stores and salon Percentage of net sales,1366,Segment Revenue
+$,"SUM(A1,A2,…,An)",$,EventVester,Segment Revenue - Salon ,1367,Segment Revenue
+stores,"SUM(A1,A2,…,An)",$,EventVester,Store Expansion - Number of stores closed during the quarter,1368,Store Expansion
+stores,"SUM(A1,A2,…,An)",$,EventVester,Store Expansion - Number of stores opened during the quarter,1369,Store Expansion
+stores,"SUM(A1,A2,…,An)",$,EventVester,Store Expansion - Total stores open at beginning of the quarter,1370,Store Expansion
+stores,"COUNT(A1, A2,…,An)",#,EventVester,"Stores - New stores, net",1371,Stores
+$,A-B,$,EventVester,Total Revenue - Net sales revenue,1372,Total Revenue
+% increase yoy,(A-B)/A,%,EventVester,comparable sales ,1373,Comparable sales 
+memberships,A,#,EventVester,Grooming & Nutrition Perk Members,1374,Grooming & Nutrition Perk Members
+customers,A-B,#,EventVester,Net New Customers,1375,Net New Customers
+$,A,$,EventVester,Revenue by Product - Consumables,1376,Revenue by Product
+$,A,$,EventVester,Revenue by Product  - Dog and cat food,1377,Revenue by Product 
+$,A,$,EventVester,Revenue by Product  - Services and other,1378,Revenue by Product 
+$,A,$,EventVester,Revenue by Product  - Supplies and companion animals,1379,Revenue by Product 
+customers,A,#,EventVester,Total Active Customers,1380,Total Active Customers
+suscription,A,#,EventVester,Vital Care Subscription,1381,Vital Care Subscription

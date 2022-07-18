@@ -125,3 +125,9 @@ def column_unstack(df, column):
         col:np.repeat(df[col].values, df[column].str.len())
         for col in df.columns.difference([column])
         }).assign(**{column:np.concatenate(df[column].values)})[df.columns.tolist()]
+
+def reindex(df, columns):
+    return df.set_index(columns)
+    
+def merge(df, other_df, fields, join_type):
+    return pd.merge(df, other_df, on=fields, how=join_type)
